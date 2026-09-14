@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "run:9d60b6a5-aa6a-4a5f-b973-ce32a4c3ece6",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-14T18:58:03Z",
+      "completed_at": "2026-09-14T19:03:02Z",
+      "title": "Initial skill radar: create, review, then optimize",
+      "summary": "Three source-pinned listings separate visual direction, UI review, and React or Next.js performance; no shared result test was performed.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-14-initial-skill-radar",
+      "entrypoint": "research/2026-09-14-initial-skill-radar/index.html"
+    }
+  ]
+}

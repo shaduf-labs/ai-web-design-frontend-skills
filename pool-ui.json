@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "default_page": "skill-radar",
+  "meaningfully_updated_at": "2026-09-14T16:52:00Z",
+  "pages": [
+    {
+      "id": "skill-radar",
+      "slug": "",
+      "label": "Skill Radar",
+      "icon": "radar",
+      "group": "Catalogue",
+      "description": "Current picks, fit checks, and meaningful changes for AI web design and frontend skills.",
+      "parent": null,
+      "entrypoint": "index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [
+        "/p/ai-web-design-frontend-skills/home/"
+      ],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "browse-skills",
+      "slug": "skills",
+      "label": "Browse Skills",
+      "icon": "grid-2x2",
+      "group": "Catalogue",
+      "description": "Filter the catalogue by task, agent, requirements, maintenance, and evidence status.",
+      "parent": null,
+      "entrypoint": "skills/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "research-log",
+      "slug": "research",
+      "label": "Research Log",
+      "icon": "notebook-tabs",
+      "group": "Evidence",
+      "description": "Published research reports in calendar, table, list, and gallery views.",
+      "parent": null,
+      "entrypoint": "research/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [
+        "/p/ai-web-design-frontend-skills/reports/"
+      ],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    },
+    {
+      "id": "how-we-check",
+      "slug": "method",
+      "label": "How We Check",
+      "icon": "badge-check",
+      "group": "Evidence",
+      "description": "What the catalogue records, what it verifies, and what remains uncertain.",
+      "parent": null,
+      "entrypoint": "method/index.html",
+      "entrypoint_type": "html_fragment",
+      "redirects": [
+        "/p/ai-web-design-frontend-skills/methodology/"
+      ],
+      "visibility": "public",
+      "indexable": true,
+      "tools": []
+    }
+  ]
+}

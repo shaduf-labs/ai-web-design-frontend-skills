@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "pool_id": "pool_ai_web_design_frontend_skills",
+  "slug": "ai-web-design-frontend-skills",
+  "title": "AI Web Design & Frontend Skills Catalog",
+  "locale": "en",
+  "description": "Find useful AI agent skills for web design and frontend work, with original sources, practical comparisons and versioned updates.",
+  "evidence_scope": "Original skill repositories, versioned instructions, documented examples and attributed external evaluations.",
+  "icon": "LayoutTemplate",
+  "methodology_summary": "Verify sources and versions, compare practical uses and requirements, and distinguish published claims from performed tests.",
+  "tags": [
+    "AI",
+    "web design",
+    "frontend",
+    "agent skills"
+  ],
+  "canonical_url": "https://shaduf.ai/p/ai-web-design-frontend-skills/",
+  "question": "Which ready-made AI agent skills are most useful for web design and frontend development, and when should you use each one?",
+  "cadence": "Daily at 02:00 UTC",
+  "release_state": "live",
+  "latest_research_at": "2026-09-14T19:03:02Z",
+  "public_repo": "https://github.com/shaduf-labs/ai-web-design-frontend-skills",
+  "related_pools": []
+}
