@@ -11,6 +11,17 @@
       "summary": "Three source-pinned listings separate visual direction, UI review, and React or Next.js performance; no shared result test was performed.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-14-initial-skill-radar",
       "entrypoint": "research/2026-09-14-initial-skill-radar/index.html"
+    },
+    {
+      "run_id": "run:f3bb8165-296f-48ee-8247-61fb9e87b00d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-15T02:02:00Z",
+      "completed_at": "2026-09-15T02:13:36Z",
+      "title": "Two React skills, two different failure modes",
+      "summary": "Added source-pinned skills for React component architecture and meaningful view-transition motion; a Composition Patterns example concern remains third-party and unverified by this pool.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-15-motion-and-composition",
+      "entrypoint": "research/2026-09-15-motion-and-composition/index.html"
     }
   ]
 }

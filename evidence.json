@@ -1,6 +1,125 @@
-{"schema_version":"1.0.0","items":[
-{"evidence_id":"anthropic-frontend-design-41bbe19","source_type":"official skill source","title":"Anthropic Frontend Design","source_url":"https://github.com/anthropics/skills/blob/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/frontend-design/SKILL.md","claim":"The skill instructs a contextual visual plan and critique of generic defaults; this is an author-published workflow, not a pool result test.","accessed_at":"2026-09-14T19:03:02Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"vercel-web-design-guidelines-063bee94","source_type":"official skill source","title":"Vercel Web Design Guidelines","source_url":"https://github.com/vercel-labs/agent-skills/blob/063bee94c3f4df8453406c830b0a7df0f2860278/skills/web-design-guidelines/SKILL.md","claim":"Version 1.0.0 fetches current guidelines and reports file-and-line findings; the fetched rules are a mutable dependency.","accessed_at":"2026-09-14T19:03:02Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"vercel-react-best-practices-063bee94","source_type":"official skill source","title":"Vercel React Best Practices","source_url":"https://github.com/vercel-labs/agent-skills/blob/063bee94c3f4df8453406c830b0a7df0f2860278/skills/react-best-practices/SKILL.md","claim":"Version 1.0.0 states a React and Next.js scope and 70 rules across eight performance categories.","accessed_at":"2026-09-14T19:03:02Z","relation":"supports","publication_basis":"linked-summary"},
-{"evidence_id":"vercel-web-interface-guidelines","source_type":"official guideline page","title":"Vercel Web Interface Guidelines","source_url":"https://vercel.com/design/guidelines","claim":"Vercel publishes the guideline source and its documented review-skill installation command.","accessed_at":"2026-09-14T19:03:02Z","relation":"context","publication_basis":"linked-summary"}
-]}
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "evidence_id": "anthropic-frontend-design-41bbe19",
+      "source_type": "official skill source",
+      "title": "Anthropic Frontend Design",
+      "source_url": "https://github.com/anthropics/skills/blob/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/frontend-design/SKILL.md",
+      "claim": "The skill instructs a contextual visual plan and critique of generic defaults; this is an author-published workflow, not a pool result test.",
+      "accessed_at": "2026-09-14T19:03:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-web-design-guidelines-063bee94",
+      "source_type": "official skill source",
+      "title": "Vercel Web Design Guidelines",
+      "source_url": "https://github.com/vercel-labs/agent-skills/blob/063bee94c3f4df8453406c830b0a7df0f2860278/skills/web-design-guidelines/SKILL.md",
+      "claim": "Version 1.0.0 fetches current guidelines and reports file-and-line findings; the fetched rules are a mutable dependency.",
+      "accessed_at": "2026-09-14T19:03:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-react-best-practices-063bee94",
+      "source_type": "official skill source",
+      "title": "Vercel React Best Practices",
+      "source_url": "https://github.com/vercel-labs/agent-skills/blob/063bee94c3f4df8453406c830b0a7df0f2860278/skills/react-best-practices/SKILL.md",
+      "claim": "Version 1.0.0 states a React and Next.js scope and 70 rules across eight performance categories.",
+      "accessed_at": "2026-09-14T19:03:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-web-interface-guidelines",
+      "source_type": "official guideline page",
+      "title": "Vercel Web Interface Guidelines",
+      "source_url": "https://vercel.com/design/guidelines",
+      "claim": "Vercel publishes the guideline source and its documented review-skill installation command.",
+      "accessed_at": "2026-09-14T19:03:02Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-composition-patterns-063bee94",
+      "source_type": "official skill source",
+      "title": "Vercel React Composition Patterns",
+      "source_url": "https://github.com/vercel-labs/agent-skills/blob/063bee94c3f4df8453406c830b0a7df0f2860278/skills/composition-patterns/SKILL.md",
+      "claim": "Version 1.0.0 targets flag-heavy React APIs, compound components, lifted state, and component architecture; this describes an author-published workflow, not a pool result test.",
+      "accessed_at": "2026-09-15T02:06:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-react-view-transitions-063bee94",
+      "source_type": "official skill source",
+      "title": "Vercel React View Transitions",
+      "source_url": "https://github.com/vercel-labs/agent-skills/blob/063bee94c3f4df8453406c830b0a7df0f2860278/skills/react-view-transitions/SKILL.md",
+      "claim": "Version 1.0.0 targets React and Next.js interface transitions and requires reduced-motion and runtime checks; this is an author-published workflow, not a pool result test.",
+      "accessed_at": "2026-09-15T02:06:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-agent-skills-latest-063bee94",
+      "source_type": "official release record",
+      "title": "Vercel Agent Skills 063bee94 release",
+      "source_url": "https://github.com/vercel-labs/agent-skills/releases/tag/agent-skills-063bee94c3f4df8453406c830b0a7df0f2860278",
+      "claim": "The current Vercel Agent Skills discovery release is tagged to commit 063bee94, providing an immutable source pin for the two new listings.",
+      "accessed_at": "2026-09-15T02:06:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "react-view-transition-docs",
+      "source_type": "official framework documentation",
+      "title": "React ViewTransition reference",
+      "source_url": "https://react.dev/reference/react/ViewTransition",
+      "claim": "React documents ViewTransition activation through Transition, Suspense, or useDeferredValue and identifies relevant component caveats.",
+      "accessed_at": "2026-09-15T02:06:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "composition-patterns-issue-286",
+      "source_type": "third-party issue report",
+      "title": "Vercel Agent Skills issue #286",
+      "source_url": "https://github.com/vercel-labs/agent-skills/issues/286",
+      "claim": "The issue reports an incorrect lifted-state example and consistency problems in Composition Patterns; this pool did not reproduce the report.",
+      "accessed_at": "2026-09-15T02:06:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "composition-patterns-pr-304",
+      "source_type": "third-party proposed correction",
+      "title": "Vercel Agent Skills pull request #304",
+      "source_url": "https://github.com/vercel-labs/agent-skills/pull/304",
+      "claim": "An open proposed correction addresses the reported Composition Patterns example; it is not an accepted release change.",
+      "accessed_at": "2026-09-15T02:06:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "audience-skill-stacking-signal",
+      "source_type": "community discussion",
+      "title": "r/codex UI skill workflow question",
+      "source_url": "https://www.reddit.com/r/codex/comments/1tx04k3/how_are_you_actually_supposed_to_use_codex_skills/",
+      "claim": "A community question asks whether UI skills conflict and how to avoid generic output; it is audience language, not a performance comparison.",
+      "accessed_at": "2026-09-15T02:06:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "audience-motion-demo-signal",
+      "source_type": "community showcase",
+      "title": "r/codex Motion UI Skill showcase",
+      "source_url": "https://www.reddit.com/r/codex/comments/1wbrtdi/i_made_a_ui_skill_for_codex_because_i_kept/",
+      "claim": "An author offers a side-by-side motion-skill demo and Codex installation path; it is not independent outcome evidence.",
+      "accessed_at": "2026-09-15T02:06:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    }
+  ]
+}
