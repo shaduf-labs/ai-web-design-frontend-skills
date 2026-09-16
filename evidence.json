@@ -120,6 +120,66 @@
       "accessed_at": "2026-09-15T02:06:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-frontend-rechecked-2026-09-16",
+      "source_type": "official commit history",
+      "title": "Anthropic Frontend Design latest file commit",
+      "source_url": "https://api.github.com/repos/anthropics/skills/commits?path=skills/frontend-design/SKILL.md&per_page=1",
+      "claim": "The latest commit returned for the Frontend Design skill remained 41bbe19 at this check.",
+      "accessed_at": "2026-09-16T02:05:29Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-agent-skills-release-rechecked-2026-09-16",
+      "source_type": "official release record",
+      "title": "Vercel Agent Skills latest releases",
+      "source_url": "https://api.github.com/repos/vercel-labs/agent-skills/releases?per_page=3",
+      "claim": "The latest Vercel Agent Skills release returned at this check remained 063bee94, the catalogue's existing source pin.",
+      "accessed_at": "2026-09-16T02:05:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-cli-scope-target-2026-09-16",
+      "source_type": "official installation documentation",
+      "title": "Vercel Skills CLI scope and agent targets",
+      "source_url": "https://github.com/vercel-labs/skills/blob/main/README.md",
+      "claim": "The CLI documents project and global scope, lists Codex as a target, and exposes update commands; this is a maintainer claim, not a pool installation test.",
+      "accessed_at": "2026-09-16T02:05:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "github-agent-skills-project-scope-2026-09-16",
+      "source_type": "official platform documentation",
+      "title": "GitHub Docs: About agent skills",
+      "source_url": "https://docs.github.com/en/copilot/concepts/agents/about-agent-skills",
+      "claim": "GitHub describes agent skills as folders of instructions, scripts, and resources, with project and personal locations.",
+      "accessed_at": "2026-09-16T02:05:29Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "trackcn-local-update-review-2026-09-16",
+      "source_type": "official maintenance documentation",
+      "title": "Vercel Trackcn",
+      "source_url": "https://github.com/vercel-labs/trackcn",
+      "claim": "Trackcn documents upstream commit tracking and merge-marker handling for local edits; the pool did not test the tool.",
+      "accessed_at": "2026-09-16T02:05:29Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "community-agent-specific-skill-signal-2026-09-16",
+      "source_type": "community discussion",
+      "title": "r/codex discussion on generic skills",
+      "source_url": "https://www.reddit.com/r/codex/comments/1ujrjf4/those_generic_skills_you_installed_dont_work_as/",
+      "claim": "Participants disagree about whether imported skills miss Codex-specific capabilities; this is audience language, not an outcome comparison.",
+      "accessed_at": "2026-09-16T02:05:29Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

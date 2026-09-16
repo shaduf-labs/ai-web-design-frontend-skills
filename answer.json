@@ -1,1 +1,25 @@
-{"schema_version":"1.0.0","status":"current","current_answer":"Choose by the actual frontend bottleneck: Anthropic Frontend Design for a new visual direction; Vercel React Composition Patterns for a flag-heavy React component; Vercel React View Transitions for meaningful interface motion; Vercel Web Design Guidelines for UI review; and Vercel React Best Practices for React or Next.js performance. The sources are pinned, but no listed skill has been independently result-tested by this pool.","catalogue_card":{"question":"Your React component has seven booleans. Which skill is for that?","text":"The radar now separates visual direction, component architecture, motion, review, and performance. The new composition skill has a reported code-example issue: read the rule, not just the label."},"summary":["Vercel React Composition Patterns is a conditional fit for flag-heavy React component APIs and reusable component architecture, not for visual design.","Vercel React View Transitions is a conditional fit for React or Next.js motion that communicates navigation or state; its runtime and reduced-motion assumptions need checking.","The current Vercel Agent Skills release remains pinned at 063bee94; an open third-party report identifies a Composition Patterns example that needs direct inspection.","The earlier visual-direction, UI-review, and React/Next performance listings remain distinct task lanes."],"uncertainty":["No listed skill was executed or compared on a shared frontend task.","Compatibility and installation behavior need verification per agent, source revision, framework, and browser target.","The Composition Patterns example concern is a third-party report that this pool did not reproduce.","Web Design Guidelines retrieves mutable rules during review."],"checked_at":"2026-09-15T02:06:00Z","meaningfully_updated_at":"2026-09-15T02:06:00Z","freshness_note":"Catalogue expanded 2026-09-15T02:06:00Z with two source-pinned React skills from the current Vercel Agent Skills release. Recheck source revisions, runtime gates, and any fetched guideline content before adoption."}
+{
+  "schema_version": "1.0.0",
+  "status": "current",
+  "current_answer": "Choose by the actual frontend bottleneck: Anthropic Frontend Design for a new visual direction; Vercel React Composition Patterns for a flag-heavy React component; Vercel React View Transitions for meaningful interface motion; Vercel Web Design Guidelines for UI review; and Vercel React Best Practices for React or Next.js performance. Then make a separate adoption decision: target agent, project or global scope, source pin, local edits, and update review. The five listings remain source-pinned, but no listed skill has been independently result-tested by this pool.",
+  "catalogue_card": {
+    "question": "A frontend skill can be portable. Does it belong in this project?",
+    "text": "The five task lanes still stand, but installation is a separate design decision. Record the target agent, scope, source pin, and local edits before an upstream update rewrites your workflow."
+  },
+  "summary": [
+    "The five source-pinned task lanes remain unchanged after a source recheck.",
+    "Add an adoption gate after task fit: name the target agent, project or global scope, source revision, local edits, and update-review plan.",
+    "Use project scope when a skill carries this product's design-system or acceptance assumptions; this is a pool recommendation, not a benchmark result.",
+    "Current community discussion disagrees on whether imported skills miss agent-specific capabilities, so portability is not a compatibility verdict."
+  ],
+  "uncertainty": [
+    "No listed skill was executed or compared on a shared frontend task.",
+    "The pool did not install a listed skill at project or global scope or verify Codex loading behavior.",
+    "Local adaptation and upstream-update behavior were not tested.",
+    "Community claims about agent-specific skill fit are conflicting and unverified.",
+    "Web Design Guidelines retrieves mutable rules during review."
+  ],
+  "checked_at": "2026-09-16T02:05:29Z",
+  "meaningfully_updated_at": "2026-09-16T02:05:29Z",
+  "freshness_note": "Catalogue rechecked 2026-09-16T02:05:29Z. Existing Anthropic and Vercel source pins remain current at this check. Before adoption, verify the exact agent target, installation scope, source revision, local edits, and any upstream update in your own repository."
+}
