@@ -18,6 +18,12 @@
       "changed_at": "2026-09-16T02:05:29Z",
       "summary": "Added an adoption gate after task fit: target agent, project or global scope, source revision, local edits, and upstream-update review. Rechecked the existing Anthropic and Vercel source pins.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "visual-proof-path",
+      "changed_at": "2026-09-17T02:08:35Z",
+      "summary": "Added OpenAI Frontend App Builder as a conditional sixth task lane for new visual surfaces that can use an Image Gen concept, approval, browser verification, and image comparison. Rechecked the existing Anthropic and Vercel source pins.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

@@ -180,6 +180,56 @@
       "accessed_at": "2026-09-16T02:05:29Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-frontend-design-rechecked-2026-09-17",
+      "source_type": "official source history",
+      "title": "Anthropic Frontend Design history",
+      "source_url": "https://github.com/anthropics/skills/commits/main/skills/frontend-design/SKILL.md",
+      "claim": "The latest listed Frontend Design skill-file change remained 41bbe19 at this check.",
+      "accessed_at": "2026-09-17T02:08:35Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-agent-skills-release-rechecked-2026-09-17",
+      "source_type": "official release record",
+      "title": "Vercel Agent Skills latest release",
+      "source_url": "https://github.com/vercel-labs/agent-skills/releases",
+      "claim": "The latest listed Vercel Agent Skills discovery release remained 063bee94 at this check.",
+      "accessed_at": "2026-09-17T02:08:35Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-frontend-app-builder-789aa61",
+      "source_type": "official skill source",
+      "title": "OpenAI Frontend App Builder",
+      "source_url": "https://github.com/openai/plugins/blob/789aa61fe81cb7afe37aaa0881ecdcd87bb6698d/plugins/build-web-apps/skills/frontend-app-builder/SKILL.md",
+      "claim": "The source instructs concept-first visual frontend work with Image Gen, approval, browser verification, and direct image comparison; these are author-published workflow requirements, not pool-tested results.",
+      "accessed_at": "2026-09-17T02:08:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-build-web-apps-plugin-0.1.2",
+      "source_type": "official plugin manifest",
+      "title": "OpenAI Build Web Apps plugin manifest",
+      "source_url": "https://github.com/openai/plugins/blob/cd0fccd4ed62dded584c16246685b232d7bfe7f6/plugins/build-web-apps/.codex-plugin/plugin.json",
+      "claim": "The current inspected Build Web Apps manifest declares version 0.1.2, an MIT license, and the Frontend App Builder skill bundle.",
+      "accessed_at": "2026-09-17T02:08:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "community-concept-and-verification-signal-2026-09-17",
+      "source_type": "community discussion",
+      "title": "r/codex discussion on OpenAI's frontend guide",
+      "source_url": "https://www.reddit.com/r/codex/comments/1rzdpji/openais_frontend_guide_with_codex/",
+      "claim": "Participants ask for visual references and report mixed experiences with a frontend skill; this is audience language, not a performance comparison.",
+      "accessed_at": "2026-09-17T02:08:35Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
