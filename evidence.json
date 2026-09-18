@@ -230,6 +230,36 @@
       "accessed_at": "2026-09-17T02:08:35Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-product-design-audit-33bd952",
+      "source_type": "official skill source",
+      "title": "OpenAI Product Design Audit",
+      "source_url": "https://github.com/openai/plugins/blob/33bd9529725fcee78c9e51fcbaa93cd963c3a47b/plugins/product-design/skills/audit/SKILL.md",
+      "claim": "The source directs a known product-flow audit through captured screenshots and step-tied UX, design, and accessibility-risk findings, while saying screenshots alone cannot establish full accessibility compliance.",
+      "accessed_at": "2026-09-18T02:05:08Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-product-design-plugin-manifest-0.1.52",
+      "source_type": "official plugin manifest",
+      "title": "OpenAI Product Design plugin manifest",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/product-design/.codex-plugin/plugin.json",
+      "claim": "The current inspected manifest declares Product Design version 0.1.52 and a Proprietary license; this is package metadata, not a test of availability or behavior.",
+      "accessed_at": "2026-09-18T02:05:08Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "community-visual-evidence-signal-2026-09-18",
+      "source_type": "community discussion",
+      "title": "r/codex mockup-first frontend discussion",
+      "source_url": "https://www.reddit.com/r/codex/comments/1v1utz4/ask_ai_for_a_ui_mockup_before_building_your/",
+      "claim": "A before-and-after share receives mixed visual critique, which is audience language about visible proof rather than evidence of an outcome.",
+      "accessed_at": "2026-09-18T02:05:08Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

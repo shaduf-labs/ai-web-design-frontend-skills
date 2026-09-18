@@ -24,6 +24,12 @@
       "changed_at": "2026-09-17T02:08:35Z",
       "summary": "Added OpenAI Frontend App Builder as a conditional sixth task lane for new visual surfaces that can use an Image Gen concept, approval, browser verification, and image comparison. Rechecked the existing Anthropic and Vercel source pins.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "audit-needs-real-flow",
+      "changed_at": "2026-09-18T02:05:08Z",
+      "summary": "Added OpenAI Product Design Audit as a conditional seventh task lane for a real product flow that can be captured and inspected. Separated rendered-flow audit from source-file UI review and named the screenshot evidence limit.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

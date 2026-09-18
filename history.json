@@ -44,6 +44,17 @@
       "summary": "Added source-pinned OpenAI Frontend App Builder for concept-led new visual surfaces; its Image Gen and browser-comparison workflow is author guidance, not a pool result test.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-17-visual-proof-path",
       "entrypoint": "research/2026-09-17-visual-proof-path/index.html"
+    },
+    {
+      "run_id": "run:ee7e9692-234c-47c0-8db2-89dc2cac7930",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-18T02:00:00Z",
+      "completed_at": "2026-09-18T02:14:00Z",
+      "title": "A screenshot audit needs a real flow",
+      "summary": "Added source-pinned OpenAI Product Design Audit for captured product-flow review; it needs a known journey and screenshot route, and does not establish full accessibility compliance from pixels.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-18-audit-needs-real-flow",
+      "entrypoint": "research/2026-09-18-audit-needs-real-flow/index.html"
     }
   ]
 }
