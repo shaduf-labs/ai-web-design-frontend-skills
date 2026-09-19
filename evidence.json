@@ -260,6 +260,46 @@
       "accessed_at": "2026-09-18T02:05:08Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-agent-browser-v0.38.1-skill",
+      "source_type": "official skill source",
+      "title": "Vercel Agent Browser discovery skill, version 0.38.1",
+      "source_url": "https://raw.githubusercontent.com/vercel-labs/agent-browser/v0.38.1/skills/agent-browser/SKILL.md",
+      "claim": "The hidden discovery skill names Codex among supported agents and directs the agent to version-matched CLI-served core instructions; this is author-published workflow guidance, not a pool run.",
+      "accessed_at": "2026-09-19T02:16:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-agent-browser-v0.38.1-core",
+      "source_type": "official skill source",
+      "title": "Vercel Agent Browser core skill, version 0.38.1",
+      "source_url": "https://raw.githubusercontent.com/vercel-labs/agent-browser/v0.38.1/skill-data/core/SKILL.md",
+      "claim": "The core skill documents browser navigation, accessible-tree snapshots, named-session guidance, screenshots, and conditional capture; this is not a pool verification of an interface.",
+      "accessed_at": "2026-09-19T02:16:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-agent-browser-v0.38.1-package",
+      "source_type": "official package manifest",
+      "title": "Vercel Agent Browser package manifest, version 0.38.1",
+      "source_url": "https://raw.githubusercontent.com/vercel-labs/agent-browser/v0.38.1/package.json",
+      "claim": "The tagged package declares version 0.38.1, Node.js 24 or later, and Apache-2.0.",
+      "accessed_at": "2026-09-19T02:16:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "audience-browser-proof-signal",
+      "source_type": "community discussion",
+      "title": "Codex skills and frontend visual-regression discussions",
+      "source_url": "https://www.reddit.com/r/codex/comments/1r9cjba/do_agent_skills_actually_work_in_codex/",
+      "claim": "Community reports point to design-system context and reduced manual screenshot checking as needs; they are not a result comparison.",
+      "accessed_at": "2026-09-19T02:16:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

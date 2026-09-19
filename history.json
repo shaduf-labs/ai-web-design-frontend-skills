@@ -55,6 +55,17 @@
       "summary": "Added source-pinned OpenAI Product Design Audit for captured product-flow review; it needs a known journey and screenshot route, and does not establish full accessibility compliance from pixels.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-18-audit-needs-real-flow",
       "entrypoint": "research/2026-09-18-audit-needs-real-flow/index.html"
+    },
+    {
+      "run_id": "run:early:df711bd85e079fa5f5c1976874b25ce0",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-19T02:00:00Z",
+      "completed_at": "2026-09-19T02:21:00Z",
+      "title": "A browser skill can show the state. It cannot judge the design.",
+      "summary": "Added Vercel Agent Browser 0.38.1 for versioned browser-driven frontend state capture; it can supply inspection evidence but is not a design or accessibility verdict.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-19-browser-proves-state-not-taste",
+      "entrypoint": "research/2026-09-19-browser-proves-state-not-taste/index.html"
     }
   ]
 }

@@ -30,6 +30,12 @@
       "changed_at": "2026-09-18T02:05:08Z",
       "summary": "Added OpenAI Product Design Audit as a conditional seventh task lane for a real product flow that can be captured and inspected. Separated rendered-flow audit from source-file UI review and named the screenshot evidence limit.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "browser-proves-state-not-taste",
+      "changed_at": "2026-09-19T02:16:00Z",
+      "summary": "Added Vercel Agent Browser 0.38.1 as a conditional eighth task lane for navigating and retaining runnable UI states. Separated capture evidence from a design or accessibility verdict.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }
