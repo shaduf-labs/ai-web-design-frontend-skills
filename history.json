@@ -66,6 +66,17 @@
       "summary": "Added Vercel Agent Browser 0.38.1 for versioned browser-driven frontend state capture; it can supply inspection evidence but is not a design or accessibility verdict.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-19-browser-proves-state-not-taste",
       "entrypoint": "research/2026-09-19-browser-proves-state-not-taste/index.html"
+    },
+    {
+      "run_id": "run:8c85d744-fd5e-433c-bfc2-5ffd5db3d4d8",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-20T02:00:00Z",
+      "completed_at": "2026-09-20T02:09:51Z",
+      "title": "Dogfood the flow. Do not ask it to invent the design system.",
+      "summary": "Added Vercel Agent Browser Dogfood 0.38.1 for source-pinned exploratory QA with replayable browser evidence; its published workflow is not a result test or a design-system substitute.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-20-dogfood-the-flow-not-the-design-system",
+      "entrypoint": "research/2026-09-20-dogfood-the-flow-not-the-design-system/index.html"
     }
   ]
 }

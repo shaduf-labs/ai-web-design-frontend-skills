@@ -300,6 +300,56 @@
       "accessed_at": "2026-09-19T02:16:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-agent-browser-v0.38.1-dogfood",
+      "source_type": "official skill source",
+      "title": "Vercel Agent Browser Dogfood skill, version 0.38.1",
+      "source_url": "https://raw.githubusercontent.com/vercel-labs/agent-browser/v0.38.1/skill-data/dogfood/SKILL.md",
+      "claim": "The tagged runtime skill prescribes exploratory QA with named sessions, browser captures, retained report outputs, retry before accepting findings, and a source-code boundary; this is author guidance, not a pool run.",
+      "accessed_at": "2026-09-20T02:08:53Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-agent-browser-v0.38.1-package-rechecked-2026-09-20",
+      "source_type": "official package manifest",
+      "title": "Vercel Agent Browser package manifest, version 0.38.1",
+      "source_url": "https://raw.githubusercontent.com/vercel-labs/agent-browser/v0.38.1/package.json",
+      "claim": "The tagged package declares version 0.38.1, Node.js 24 or later, and Apache-2.0.",
+      "accessed_at": "2026-09-20T02:08:53Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-agent-browser-v0.38.1-release-rechecked-2026-09-20",
+      "source_type": "official release record",
+      "title": "Vercel Agent Browser v0.38.1 release",
+      "source_url": "https://github.com/vercel-labs/agent-browser/releases/tag/v0.38.1",
+      "claim": "The publisher release page lists v0.38.1 as latest at this check.",
+      "accessed_at": "2026-09-20T02:08:53Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "audience-ui-consistency-signal-2026-09-20",
+      "source_type": "community discussion",
+      "title": "r/codex UI design tips discussion",
+      "source_url": "https://www.reddit.com/r/codex/comments/1wje03t/ui_design_tips/",
+      "claim": "A user reports repeated frontend consistency problems despite local documentation; this is audience language, not a performance comparison.",
+      "accessed_at": "2026-09-20T02:08:53Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "audience-image-reference-workflow-signal-2026-09-20",
+      "source_type": "community discussion",
+      "title": "r/codex image-reference workflow discussion",
+      "source_url": "https://www.reddit.com/r/codex/comments/1wkhzv3/i_found_the_best_way_to_build_insane_uis_with/",
+      "claim": "A self-promoted image-reference workflow and replies suggest visual references are a user alternative; this is not independent outcome evidence.",
+      "accessed_at": "2026-09-20T02:08:53Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by the frontend bottleneck and proof path: OpenAI Frontend App Builder for a new visual surface only when you can create and approve an Image Gen concept and compare a browser render; Anthropic Frontend Design for text-led visual direction; Vercel React Composition Patterns for a flag-heavy React component; Vercel React View Transitions for meaningful interface motion; Agent Browser 0.38.1 for a runnable UI whose states you need to navigate, inspect, and capture; OpenAI Product Design Audit for a real user flow you can capture and review; Vercel Web Design Guidelines for a code-first UI review; and Vercel React Best Practices for React or Next.js performance. Agent Browser supplies the observation route, not the design verdict. Then make the adoption decision: target agent, project or global scope, source pin, local edits, update review, and required proof tools. The eight listings are source-pinned, but none has been independently result-tested by this pool.",
+  "current_answer": "Choose by the frontend bottleneck and proof path: OpenAI Frontend App Builder for a new visual surface only when you can create and approve an Image Gen concept and compare a browser render; Anthropic Frontend Design for text-led visual direction; Vercel React Composition Patterns for a flag-heavy React component; Vercel React View Transitions for meaningful interface motion; Agent Browser 0.38.1 for a runnable UI whose states you need to navigate, inspect, and capture; Agent Browser Dogfood 0.38.1 for exploratory QA that must leave reproducible browser evidence; OpenAI Product Design Audit for a real user flow you can capture and review; Vercel Web Design Guidelines for a code-first UI review; and Vercel React Best Practices for React or Next.js performance. Dogfood can document a failure in a runnable flow; it cannot enforce your design system or declare the design right. Then make the adoption decision: target agent, project or global scope, source pin, local edits, update review, and required proof tools. The nine listings are source-pinned, but none has been independently result-tested by this pool.",
   "catalogue_card": {
-    "question": "Can your review reach the state that matters?",
-    "text": "Agent Browser 0.38.1 is a new lane for navigating and capturing a runnable UI state. It can supply the evidence route for a later review, but it cannot decide whether the design is right."
+    "question": "Can someone replay the frontend failure?",
+    "text": "Agent Browser Dogfood 0.38.1 is a new lane for exploratory QA of a runnable frontend. It can preserve a browser finding for review, but it cannot invent your design system or certify the interface."
   },
   "summary": [
-    "Added an eighth source-pinned task lane: Vercel Agent Browser 0.38.1 for a runnable UI that needs navigation, state capture, and accessible-tree snapshots.",
-    "It supplies the observation route before a screenshot-backed review; it does not deliver a design verdict or full accessibility conclusion.",
-    "Its tagged package declares Node.js 24 or later and Apache-2.0. The discovery skill asks for CLI Bash access, lists Codex, and loads version-matched core instructions.",
-    "Keep the adoption gate: target agent, scope, source revision, local edits, update review, required proof tools, named browser session, route, viewport, and retained outputs."
+    "Added a ninth source-pinned task lane: Vercel Agent Browser Dogfood 0.38.1 for exploratory QA of a reachable frontend with replayable browser evidence.",
+    "Its tagged instructions prescribe named sessions, retained reports, screenshots or repro videos, and retry before accepting a finding. They also say not to read target-app source.",
+    "Dogfood can document a failure in a runnable flow; it cannot enforce system consistency, replace source review, prove accessibility, or prove that no defects remain.",
+    "Fresh community signals show a related decision: local notes and a visual reference do not automatically preserve the components, tokens, constraints, and view states that define a product."
   ],
   "uncertainty": [
     "No listed skill was executed or compared on a shared frontend task.",
     "The pool did not install a listed skill at project or global scope or verify Codex loading behavior.",
-    "The pool did not install Agent Browser, run a browser session, or capture a UI state.",
+    "The pool did not install Agent Browser or Dogfood, run a browser session, or capture a UI state.",
     "The pool did not run OpenAI Product Design Audit, capture a product flow, or validate its findings.",
     "The pool did not run OpenAI Frontend App Builder or its concept-and-browser loop.",
     "Local adaptation and upstream-update behavior were not tested.",
     "Community claims about agent-specific skill fit are conflicting and unverified.",
     "Web Design Guidelines retrieves mutable rules during review."
   ],
-  "checked_at": "2026-09-19T02:16:00Z",
-  "meaningfully_updated_at": "2026-09-19T02:16:00Z",
-  "freshness_note": "Catalogue rechecked 2026-09-19T02:16:00Z. Agent Browser is pinned to tagged release v0.38.1; its tagged package declares Node.js 24 or later and Apache-2.0. No listed skill was installed or result-tested by this pool."
+  "checked_at": "2026-09-20T02:08:53Z",
+  "meaningfully_updated_at": "2026-09-20T02:08:53Z",
+  "freshness_note": "Catalogue rechecked 2026-09-20T02:08:53Z. Agent Browser and Dogfood are pinned to tagged release v0.38.1; the tagged package declares Node.js 24 or later and Apache-2.0. No listed skill was installed or result-tested by this pool."
 }
