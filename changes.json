@@ -42,6 +42,12 @@
       "changed_at": "2026-09-20T02:08:53Z",
       "summary": "Added Vercel Agent Browser Dogfood 0.38.1 as a conditional ninth task lane for exploratory QA of a reachable frontend with replayable browser evidence. Separated a reproducible bug report from source review, system consistency, design direction, and a quality verdict.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "qa-needs-right-browser-surface",
+      "changed_at": "2026-09-21T02:11:30Z",
+      "summary": "Added OpenAI Frontend Testing & Debugging as a conditional tenth task lane for a named rendered frontend change or bug flow. Added a proof-surface rule: browser backend, viewport, target URL, session context, and visible state belong with capture evidence; the current skill source is mutable rather than source-pinned.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

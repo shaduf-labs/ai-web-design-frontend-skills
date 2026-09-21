@@ -350,6 +350,56 @@
       "accessed_at": "2026-09-20T02:08:53Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-frontend-testing-debugging-main-2026-09-21",
+      "source_type": "official skill source",
+      "title": "OpenAI Frontend Testing & Debugging",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/build-web-apps/skills/frontend-testing-debugging/SKILL.md",
+      "claim": "The mutable current skill instructs a named target flow, Browser-availability classification, rendered checks, an interaction state check, and a QA report for targeted frontend work; this is author-published workflow guidance, not a pool execution.",
+      "accessed_at": "2026-09-21T02:11:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-build-web-apps-manifest-main-2026-09-21",
+      "source_type": "official plugin manifest",
+      "title": "OpenAI Build Web Apps plugin manifest",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/build-web-apps/.codex-plugin/plugin.json",
+      "claim": "The current manifest declares Build Web Apps version 0.1.2 and MIT. That identifies the plugin release metadata but does not pin the mutable skill text.",
+      "accessed_at": "2026-09-21T02:11:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-build-web-apps-readme-main-2026-09-21",
+      "source_type": "official plugin documentation",
+      "title": "OpenAI Build Web Apps README",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/build-web-apps/README.md",
+      "claim": "The maintainer README lists frontend-testing-debugging among the plugin skills and describes browser testing as part of the plugin purpose.",
+      "accessed_at": "2026-09-21T02:11:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "codex-chrome-viewport-issue-23613",
+      "source_type": "third-party issue report",
+      "title": "openai/codex issue #23613",
+      "source_url": "https://github.com/openai/codex/issues/23613",
+      "claim": "A user reports that one @Chrome environment lacked viewport controls despite tab access, blocking fixed-size and responsive checks for authenticated pages. The pool did not reproduce the report.",
+      "accessed_at": "2026-09-21T02:11:30Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "audience-codex-browser-annotations-2026-09-21",
+      "source_type": "community discussion",
+      "title": "r/codex browser interaction discussion",
+      "source_url": "https://www.reddit.com/r/codex/comments/1svaj3v/most_slept_on_feature_in_the_codex_app/",
+      "claim": "Participants describe screenshots and annotations as useful for frontend feedback and question availability outside the app workflow; this is audience language, not outcome evidence.",
+      "accessed_at": "2026-09-21T02:11:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
