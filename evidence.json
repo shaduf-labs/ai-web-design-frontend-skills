@@ -400,6 +400,36 @@
       "accessed_at": "2026-09-21T02:11:30Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "practicalswan-frontend-design-2.0-afbb609",
+      "source_type": "community skill source",
+      "title": "PracticalSwan Frontend Design 2.0",
+      "source_url": "https://github.com/PracticalSwan/agent-skills/blob/afbb609dec5b7bf08c8384a013b6b3b535517da2/frontend-design/SKILL.md",
+      "claim": "The pinned instructions declare version 2.0, MIT AND Apache-2.0, Codex compatibility, a product-type router, explicit state and accessibility gates, and rendered verification; these are author-published workflow claims, not a pool result.",
+      "accessed_at": "2026-09-22T02:06:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "practicalswan-agent-skills-history-2026-09-22",
+      "source_type": "repository commit history",
+      "title": "PracticalSwan agent-skills commit history",
+      "source_url": "https://github.com/PracticalSwan/agent-skills/commits/main",
+      "claim": "The inspected history shows a recent repository-level commit signal. It does not establish that the Frontend Design file itself is maintained or effective.",
+      "accessed_at": "2026-09-22T02:06:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "audience-design-state-model-signal-2026-09-22",
+      "source_type": "community discussion",
+      "title": "r/codex: “Ux-Ui”",
+      "source_url": "https://www.reddit.com/r/codex/comments/1vow86n/uxui/",
+      "claim": "A practitioner asks how to surpass technically correct but generic frontend work and discusses design systems, references, skills, and visual iteration; this is audience language, not an outcome comparison.",
+      "accessed_at": "2026-09-22T02:06:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

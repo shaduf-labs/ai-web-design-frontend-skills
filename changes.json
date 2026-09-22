@@ -48,6 +48,12 @@
       "changed_at": "2026-09-21T02:11:30Z",
       "summary": "Added OpenAI Frontend Testing & Debugging as a conditional tenth task lane for a named rendered frontend change or bug flow. Added a proof-surface rule: browser backend, viewport, target URL, session context, and visible state belong with capture evidence; the current skill source is mutable rather than source-pinned.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "design-needs-complete-states",
+      "changed_at": "2026-09-22T02:06:30Z",
+      "summary": "Added PracticalSwan Frontend Design 2.0 as a source-pinned conditional listing for substantial product work that needs explicit system context, relevant states, responsive checks, and rendered verification. The declared workflow remains untested; readers should trial one primary design-direction skill rather than stack overlapping instructions by default.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

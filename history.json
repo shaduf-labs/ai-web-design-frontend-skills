@@ -88,6 +88,17 @@
       "summary": "Added a conditional QA lane for a named rendered frontend change or bug and made browser backend, viewport, session context, and visible state part of the evidence record.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-21-qa-needs-the-right-browser-surface",
       "entrypoint": "research/2026-09-21-qa-needs-the-right-browser-surface/index.html"
+    },
+    {
+      "run_id": "run:51bdec62-1c08-4298-b0f7-18332bff52b2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-22T02:00:00Z",
+      "completed_at": "2026-09-22T02:14:00Z",
+      "title": "A design skill needs a complete state model.",
+      "summary": "Added source-pinned PracticalSwan Frontend Design 2.0 for substantial product work with an explicit state and verification protocol; its author guidance has not been installed or result-tested by this pool.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-22-design-needs-complete-states",
+      "entrypoint": "research/2026-09-22-design-needs-complete-states/index.html"
     }
   ]
 }
