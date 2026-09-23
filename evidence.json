@@ -430,6 +430,36 @@
       "accessed_at": "2026-09-22T02:06:30Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "wenkang-frontend-design-skill-fae5ad1",
+      "source_type": "community skill source",
+      "title": "Wenkang Frontend Design Codex skill",
+      "source_url": "https://github.com/wenkang-deepblue/frontend-design/blob/fae5ad1b920dd152519a2a38046a0ea37566f238/codex/frontend-design/SKILL.md",
+      "claim": "The source-pinned Codex skill describes a project-context gate, self-contained local preview, project-derived controls, direct edits, annotations, Markdown export, and later comparison with the real route; this is author guidance, not a pool execution.",
+      "accessed_at": "2026-09-23T02:09:51Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "wenkang-frontend-design-license-current",
+      "source_type": "community repository license",
+      "title": "Wenkang Frontend Design license",
+      "source_url": "https://github.com/wenkang-deepblue/frontend-design/blob/main/LICENSE",
+      "claim": "The current repository license says MIT; it is licensing metadata, not a test of the skill or its results.",
+      "accessed_at": "2026-09-23T02:09:51Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "community-existing-ui-feedback-signal-2026-09-23",
+      "source_type": "community discussion",
+      "title": "r/codex: “How do you handle frontend/UI work with Codex?”",
+      "source_url": "https://www.reddit.com/r/codex/comments/1upt5ha/how_do_you_handle_frontendui_work_with_codex/",
+      "claim": "Practitioners discuss component reuse, target-state screenshots, exact feedback, and narrow plus desktop checks for existing UI consistency; this is self-selected audience language, not an outcome comparison.",
+      "accessed_at": "2026-09-23T02:09:51Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by the frontend bottleneck and proof path: OpenAI Frontend App Builder for a new visual surface only when you can create and approve an Image Gen concept and compare a browser render; Anthropic Frontend Design for text-led visual direction; PracticalSwan Frontend Design 2.0 for a substantial product surface that needs an explicit task, state model, responsive checks, and rendered verification; Vercel React Composition Patterns for a flag-heavy React component; Vercel React View Transitions for meaningful interface motion; Agent Browser 0.38.1 for a runnable UI whose states you need to navigate, inspect, and capture; Agent Browser Dogfood 0.38.1 for exploratory QA that must leave reproducible browser evidence; OpenAI Frontend Testing & Debugging for a named rendered change or bug flow when the Build Web Apps plugin and a documented Browser or allowed fallback path are available; OpenAI Product Design Audit for a real user flow you can capture and review; Vercel Web Design Guidelines for a code-first UI review; and Vercel React Best Practices for React or Next.js performance. Browser evidence needs its proof surface: backend, viewport, target URL, session context, and visible state. Ten listings are source-pinned; Frontend Testing & Debugging is a mutable current source with Build Web Apps manifest version 0.1.2, not a skill-file pin. None has been independently result-tested by this pool.",
+  "current_answer": "Choose by the frontend bottleneck and proof path: OpenAI Frontend App Builder for a new visual surface only when you can create and approve an Image Gen concept and compare a browser render; Anthropic Frontend Design for text-led visual direction; PracticalSwan Frontend Design 2.0 for a substantial product surface that needs an explicit task, state model, responsive checks, and rendered verification; Wenkang Frontend Design for a real route or defined concept where you need a local, project-derived preview to make visual decisions and export them back to Codex; Vercel React Composition Patterns for a flag-heavy React component; Vercel React View Transitions for meaningful interface motion; Agent Browser 0.38.1 for a runnable UI whose states you need to navigate, inspect, and capture; Agent Browser Dogfood 0.38.1 for exploratory QA that must leave reproducible browser evidence; OpenAI Frontend Testing & Debugging for a named rendered change or bug flow when the Build Web Apps plugin and a documented Browser or allowed fallback path are available; OpenAI Product Design Audit for a real user flow you can capture and review; Vercel Web Design Guidelines for a code-first UI review; and Vercel React Best Practices for React or Next.js performance. A local preview is not proof of the live route. Browser evidence needs its proof surface: backend, viewport, target URL, session context, and visible state. Eleven listings are source-pinned; Frontend Testing & Debugging is a mutable current source with Build Web Apps manifest version 0.1.2, not a skill-file pin. None has been independently result-tested by this pool.",
   "catalogue_card": {
-    "question": "Does your design skill cover the states people actually meet?",
-    "text": "New: Frontend Design 2.0 is a source-pinned route for a substantial product surface. Its state and verification gates are author guidance, not proof—test one primary design workflow in your project."
+    "question": "Can a person make the design choice before Codex edits the screen?",
+    "text": "New: Wenkang Frontend Design turns project-bound visual choices and element notes into a Markdown handoff for Codex. It is a local decision surface, not proof that the live route matches."
   },
   "summary": [
-    "Added PracticalSwan Frontend Design 2.0 as a conditional eleventh listing for a substantial product surface that needs explicit system context, a complete state model, responsive checks, and rendered verification.",
-    "The source is pinned at afbb609dec5b7bf08c8384a013b6b3b535517da2 and declares Codex support plus MIT AND Apache-2.0; a recent repository-level update does not establish file-specific maintenance or performance.",
-    "Use one primary design-direction skill before stacking overlapping workflows. Product task, system context, relevant states, viewports, and input methods are hard adoption facts.",
-    "Fresh Codex discussion asks for hierarchy, consistency, references, and visual iteration beyond a technically correct happy path; it is audience language, not a comparison."
+    "Added Wenkang Frontend Design as a conditional twelfth listing for a known frontend route or defined concept that needs human visual choices, annotations, and a structured handoff before implementation.",
+    "The source is pinned at fae5ad1b920dd152519a2a38046a0ea37566f238; the current repository license says MIT. The later repository commit 17bb943 changes README material rather than the skill file.",
+    "Use it after you can name the route, components, tokens, target state, and responsible reviewer. Its local preview should be compared with the actual route after implementation.",
+    "Fresh Codex discussion favors specific feedback, target-state screenshots, component reuse, and narrow plus desktop checks over a vague request to polish. It is audience language, not an outcome comparison."
   ],
   "uncertainty": [
     "No listed skill was executed or compared on a shared frontend task.",
@@ -23,9 +23,10 @@
     "The pool did not run OpenAI Frontend App Builder or its concept-and-browser loop.",
     "Local adaptation and upstream-update behavior were not tested.",
     "Community claims about agent-specific skill fit are conflicting and unverified.",
-    "Web Design Guidelines retrieves mutable rules during review."
+    "Web Design Guidelines retrieves mutable rules during review.",
+    "The pool did not install Wenkang Frontend Design, generate or compare a project-bound preview, apply its exported Markdown, or test its Codex discovery path."
   ],
-  "checked_at": "2026-09-22T02:06:30Z",
-  "meaningfully_updated_at": "2026-09-22T02:06:30Z",
-  "freshness_note": "Catalogue rechecked 2026-09-22T02:06:30Z. Ten listings retain recorded immutable pins, including PracticalSwan Frontend Design 2.0 at afbb609dec5b7bf08c8384a013b6b3b535517da2; OpenAI Frontend Testing & Debugging was inspected at its mutable main URL with Build Web Apps manifest 0.1.2. No listed skill was installed or result-tested by this pool."
+  "checked_at": "2026-09-23T02:09:51Z",
+  "meaningfully_updated_at": "2026-09-23T02:09:51Z",
+  "freshness_note": "Catalogue rechecked 2026-09-23T02:09:51Z. Eleven listings retain recorded immutable pins, including Wenkang Frontend Design at fae5ad1b920dd152519a2a38046a0ea37566f238; OpenAI Frontend Testing & Debugging was inspected at its mutable main URL with Build Web Apps manifest 0.1.2. No listed skill was installed or result-tested by this pool."
 }

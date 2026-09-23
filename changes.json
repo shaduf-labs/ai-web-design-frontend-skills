@@ -54,6 +54,12 @@
       "changed_at": "2026-09-22T02:06:30Z",
       "summary": "Added PracticalSwan Frontend Design 2.0 as a source-pinned conditional listing for substantial product work that needs explicit system context, relevant states, responsive checks, and rendered verification. The declared workflow remains untested; readers should trial one primary design-direction skill rather than stack overlapping instructions by default.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "design-feedback-round-trip",
+      "changed_at": "2026-09-23T02:09:51Z",
+      "summary": "Added Wenkang Frontend Design as a source-pinned conditional listing for human visual decisions on a known route or defined concept before implementation. Its local preview can export choices and annotations back to Codex, but it is not proof that the live route matches or works.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }
