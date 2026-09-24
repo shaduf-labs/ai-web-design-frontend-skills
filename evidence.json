@@ -460,6 +460,36 @@
       "accessed_at": "2026-09-23T02:09:51Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "snowe-ui-skill-source-13d2b6e",
+      "source_type": "community skill source",
+      "title": "Snowe UI Skill current skill source",
+      "source_url": "https://github.com/What0ff/snowe-ui-skill/blob/13d2b6ef23ac1d57754cf9a700870201a628e0ba/skill/snowe-ui-skill/SKILL.md",
+      "claim": "The community repository publishes a standalone design-workflow package and declares MIT licensing. Its author-published workflow is not a pool result test.",
+      "accessed_at": "2026-09-24T02:09:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "snowe-ui-skill-frontmatter-error-2026-09-24",
+      "source_type": "community skill source",
+      "title": "Snowe UI Skill current SKILL.md frontmatter",
+      "source_url": "https://github.com/What0ff/snowe-ui-skill/blob/main/skill/snowe-ui-skill/SKILL.md",
+      "claim": "GitHub displays Error in user YAML for the current skill-file frontmatter. The pool therefore holds it outside the ready-skill catalogue pending a parseable source and target-host check.",
+      "accessed_at": "2026-09-24T02:09:10Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "community-frontend-ui-skill-signal-2026-09-24",
+      "source_type": "community discussion",
+      "title": "r/codex: Frontend/UI Skill",
+      "source_url": "https://www.reddit.com/r/codex/comments/1w2ptxb/frontendui_skill/",
+      "claim": "A recent discussion asking for a frontend skill contains mixed advice about mockups, process, and community skills; it signals a need for adoption guidance, not a result comparison.",
+      "accessed_at": "2026-09-24T02:09:10Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

@@ -60,6 +60,12 @@
       "changed_at": "2026-09-23T02:09:51Z",
       "summary": "Added Wenkang Frontend Design as a source-pinned conditional listing for human visual decisions on a known route or defined concept before implementation. Its local preview can export choices and annotations back to Codex, but it is not proof that the live route matches or works.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "package-before-process",
+      "changed_at": "2026-09-24T02:09:10Z",
+      "summary": "Held Snowe UI Skill outside the catalogue after GitHub displayed a YAML error in its current SKILL.md frontmatter. The pool did not install it or test host behavior. The adoption guidance now checks package readiness before workflow fit.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }
