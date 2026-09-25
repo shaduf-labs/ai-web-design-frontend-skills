@@ -121,6 +121,17 @@
       "summary": "Held Snowe UI Skill outside the catalogue because GitHub currently displays a YAML frontmatter error in its SKILL.md. The pool did not install it or test host behavior.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-24-package-before-process",
       "entrypoint": "research/2026-09-24-package-before-process/index.html"
+    },
+    {
+      "run_id": "run:c765b974-fdd4-49f6-9314-95cd0a90fcf4",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-25T02:00:00Z",
+      "completed_at": "2026-09-25T02:07:15Z",
+      "title": "Choose a visual direction before you build.",
+      "summary": "Added OpenAI Product Design Ideate as a conditional mutable-source plugin skill for three image-based directions before prototype work; its availability and outcome remain untested by the pool.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-25-choose-visual-direction",
+      "entrypoint": "research/2026-09-25-choose-visual-direction/index.html"
     }
   ]
 }

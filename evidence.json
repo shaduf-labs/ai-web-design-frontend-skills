@@ -490,6 +490,46 @@
       "accessed_at": "2026-09-24T02:09:10Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-product-design-ideate-main",
+      "source_type": "official skill source",
+      "title": "OpenAI Product Design Ideate",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/product-design/skills/ideate/SKILL.md",
+      "claim": "The current mutable skill requires a minimum brief and direct reference inspection, creates three independent image-based directions, and stops for selection before build work.",
+      "accessed_at": "2026-09-25T02:07:15Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-product-design-package-main",
+      "source_type": "official plugin manifest",
+      "title": "OpenAI Product Design package.json",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/product-design/package.json",
+      "claim": "The inspected package manifest declares Product Design version 0.1.52; it is a plugin version, not an immutable skill-file pin.",
+      "accessed_at": "2026-09-25T02:07:15Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-product-design-directory-2026-09-25",
+      "source_type": "official plugin directory",
+      "title": "OpenAI Product Design directory",
+      "source_url": "https://openai.com/de-DE/business/plugins/product-design/",
+      "claim": "OpenAI says Product Design availability depends on the plugin, plan, and workspace settings, and presents its use in ChatGPT Work or Codex.",
+      "accessed_at": "2026-09-25T02:07:15Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "audience-design-skills-signal-2026-09-25",
+      "source_type": "community discussion",
+      "title": "r/codex: Not a codex expert, Need help for design skills?",
+      "source_url": "https://www.reddit.com/r/codex/comments/1wownb5/not_a_codex_expert_need_help_for_design_skills/",
+      "claim": "A self-selected request for less generic Codex web designs and mixed replies is audience language, not a workflow outcome comparison.",
+      "accessed_at": "2026-09-25T02:07:15Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

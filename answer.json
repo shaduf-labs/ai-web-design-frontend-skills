@@ -1,34 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by the frontend bottleneck and proof path: OpenAI Frontend App Builder for a new visual surface only when you can create and approve an Image Gen concept and compare a browser render; Anthropic Frontend Design for text-led visual direction; PracticalSwan Frontend Design 2.0 for a substantial product surface that needs an explicit task, state model, responsive checks, and rendered verification; Wenkang Frontend Design for a real route or defined concept where you need a local, project-derived preview to make visual decisions and export them back to Codex; Vercel React Composition Patterns for a flag-heavy React component; Vercel React View Transitions for meaningful interface motion; Agent Browser 0.38.1 for a runnable UI whose states you need to navigate, inspect, and capture; Agent Browser Dogfood 0.38.1 for exploratory QA that must leave reproducible browser evidence; OpenAI Frontend Testing & Debugging for a named rendered change or bug flow when the Build Web Apps plugin and a documented Browser or allowed fallback path are available; OpenAI Product Design Audit for a real user flow you can capture and review; Vercel Web Design Guidelines for a code-first UI review; and Vercel React Best Practices for React or Next.js performance. A local preview is not proof of the live route. Browser evidence needs its proof surface: backend, viewport, target URL, session context, and visible state. Eleven listings are source-pinned; Frontend Testing & Debugging is a mutable current source with Build Web Apps manifest version 0.1.2, not a skill-file pin. A community candidate, Snowe UI Skill, is held outside the catalogue because GitHub currently displays a YAML frontmatter error in its SKILL.md; the pool did not test host behavior. None of the twelve catalogued listings has been independently result-tested by this pool.",
+  "current_answer": "Choose by the job and the evidence path. Use OpenAI Product Design Ideate when Product Design is available in your Codex or ChatGPT Work environment and you need three image-based directions for a new or redesigned screen before any build starts. Give it a minimum brief and the project references it needs, then choose one direction. It is a mutable-source plugin skill, not a source-pinned file, and the pool did not run it. Use Frontend App Builder when you need its Build Web Apps concept-to-browser workflow instead. The other lanes remain separate: Anthropic Frontend Design for text-led visual direction; PracticalSwan Frontend Design 2.0 for substantial work with an explicit state model; Wenkang Frontend Design for human visual decisions on a real route; Vercel skills for React composition, transitions, UI review, and performance; Agent Browser and Dogfood for capture and exploratory QA; Frontend Testing & Debugging for a named rendered change; and Product Design Audit for a captured flow. Eleven of thirteen listings are source-pinned. Frontend Testing & Debugging and Product Design Ideate are current mutable sources. None has been independently installed, executed, or compared on a shared frontend task by this pool.",
   "catalogue_card": {
-    "question": "Does the skill package parse?",
-    "text": "A detailed frontend workflow is not a ready skill when its current SKILL.md frontmatter shows a YAML error. Keep Snowe UI Skill out of a working Codex setup until a fixed, source-pinned package is checked. The pool did not run it."
+    "question": "Need a visual direction before code?",
+    "text": "Product Design Ideate is a conditional fit when Product Design is available and you can choose among three image-based directions before a prototype. It is a mutable-source plugin skill; the pool did not run it."
   },
   "summary": [
-    "Added Wenkang Frontend Design as a conditional twelfth listing for a known frontend route or defined concept that needs human visual choices, annotations, and a structured handoff before implementation.",
-    "The source is pinned at fae5ad1b920dd152519a2a38046a0ea37566f238; the current repository license says MIT. The later repository commit 17bb943 changes README material rather than the skill file.",
-    "Use it after you can name the route, components, tokens, target state, and responsible reviewer. Its local preview should be compared with the actual route after implementation.",
-    "Fresh Codex discussion favors specific feedback, target-state screenshots, component reuse, and narrow plus desktop checks over a vague request to polish. It is audience language, not an outcome comparison.",
-    "A newly inspected community package, Snowe UI Skill, is held outside the catalogue because GitHub currently displays a YAML frontmatter error in its SKILL.md. The pool did not install it or test host behavior."
+    "Added OpenAI Product Design Ideate as a conditional thirteenth listing for choosing an image-based visual direction before prototype work.",
+    "The current source requires a minimum brief, relevant context, three independent directions, and a user selection before build work.",
+    "Product Design availability depends on the plugin, plan, and workspace settings. Its declared 0.1.52 version is not an immutable skill-file pin.",
+    "A fresh non-developer request for less generic Codex web output supports the need for a clear visual-choice step, not a performance claim."
   ],
   "uncertainty": [
-    "No listed skill was executed or compared on a shared frontend task.",
-    "The pool did not install a listed skill at project or global scope or verify Codex loading behavior.",
-    "The pool did not install or run PracticalSwan Frontend Design 2.0, verify its stated Codex path, render a state, test keyboard use, or compare it with another design-direction workflow.",
-    "The pool did not install Agent Browser or Dogfood, run a browser session, or capture a UI state.",
-    "The pool did not run OpenAI Frontend Testing & Debugging, install Build Web Apps, classify Browser availability, use a fallback, or validate a changed frontend flow.",
-    "The Frontend Testing & Debugging source is mutable main; the pool did not establish an immutable skill revision.",
-    "The pool did not run OpenAI Product Design Audit, capture a product flow, or validate its findings.",
-    "The pool did not run OpenAI Frontend App Builder or its concept-and-browser loop.",
-    "Local adaptation and upstream-update behavior were not tested.",
-    "Community claims about agent-specific skill fit are conflicting and unverified.",
-    "Web Design Guidelines retrieves mutable rules during review.",
-    "The pool did not install Wenkang Frontend Design, generate or compare a project-bound preview, apply its exported Markdown, or test its Codex discovery path.",
-    "The pool did not install Snowe UI Skill or test how a Codex host handles the YAML error that GitHub displays for its current SKILL.md frontmatter."
+    "No catalogued skill has been independently installed, executed, or compared on a shared frontend task by this pool.",
+    "The pool did not enable Product Design, test Ideate availability in Codex, generate directions, select one, or compare an implementation with a visual target.",
+    "Product Design Ideate is a mutable current source; its declared plugin version is not a skill-file pin.",
+    "The fresh community discussion is self-selected and does not measure workflow outcomes.",
+    "First-party analytics were unavailable for this run."
   ],
-  "checked_at": "2026-09-24T02:09:10Z",
-  "meaningfully_updated_at": "2026-09-24T02:09:10Z",
-  "freshness_note": "Checked 24 September 2026. The catalogue contains twelve listings; one newly inspected community package is held pending a parseable source revision and target-host check."
+  "checked_at": "2026-09-25T02:07:15Z",
+  "meaningfully_updated_at": "2026-09-25T02:07:15Z",
+  "freshness_note": "Checked 25 September 2026. The catalogue contains thirteen listings: eleven source-pinned listings and two mutable current sources. None has a pool result test."
 }
