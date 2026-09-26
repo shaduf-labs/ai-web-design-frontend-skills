@@ -1,25 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by the job and the evidence path. Use OpenAI Product Design Ideate when Product Design is available in your Codex or ChatGPT Work environment and you need three image-based directions for a new or redesigned screen before any build starts. Give it a minimum brief and the project references it needs, then choose one direction. It is a mutable-source plugin skill, not a source-pinned file, and the pool did not run it. Use Frontend App Builder when you need its Build Web Apps concept-to-browser workflow instead. The other lanes remain separate: Anthropic Frontend Design for text-led visual direction; PracticalSwan Frontend Design 2.0 for substantial work with an explicit state model; Wenkang Frontend Design for human visual decisions on a real route; Vercel skills for React composition, transitions, UI review, and performance; Agent Browser and Dogfood for capture and exploratory QA; Frontend Testing & Debugging for a named rendered change; and Product Design Audit for a captured flow. Eleven of thirteen listings are source-pinned. Frontend Testing & Debugging and Product Design Ideate are current mutable sources. None has been independently installed, executed, or compared on a shared frontend task by this pool.",
+  "current_answer": "Choose by the job and the evidence path. Use PaulRBerg Frontend Design when an existing or substantial screen already has a system and you need one project-bound direction held to local constraints, then rendered inspection at the states and widths that matter. Its source is mutable, declares a chromium-browser dependency, and the pool did not run it. Use OpenAI Product Design Ideate when you need three image-based directions for a new or redesigned screen before build work; use Frontend App Builder when you need its concept-to-browser workflow. The other lanes remain separate: Anthropic Frontend Design for text-led visual direction; PracticalSwan Frontend Design 2.0 for substantial work with an explicit state model; Wenkang Frontend Design for human visual decisions on a real route; Vercel skills for React composition, transitions, UI review, and performance; Agent Browser and Dogfood for capture and exploratory QA; Frontend Testing & Debugging for a named rendered change; and Product Design Audit for a captured flow. Eleven of fourteen listings are source-pinned. Frontend Testing & Debugging, Product Design Ideate, and PaulRBerg Frontend Design are current mutable sources. None has been independently installed, executed, or compared on a shared frontend task by this pool.",
   "catalogue_card": {
-    "question": "Need a visual direction before code?",
-    "text": "Product Design Ideate is a conditional fit when Product Design is available and you can choose among three image-based directions before a prototype. It is a mutable-source plugin skill; the pool did not run it."
+    "question": "Need one direction for the real screen?",
+    "text": "PaulRBerg Frontend Design is a conditional fit for an existing or substantial screen when you need one direction held to the project system and inspected in a browser. Its source is mutable; the pool did not run it."
   },
   "summary": [
-    "Added OpenAI Product Design Ideate as a conditional thirteenth listing for choosing an image-based visual direction before prototype work.",
-    "The current source requires a minimum brief, relevant context, three independent directions, and a user selection before build work.",
-    "Product Design availability depends on the plugin, plan, and workspace settings. Its declared 0.1.52 version is not an immutable skill-file pin.",
-    "A fresh non-developer request for less generic Codex web output supports the need for a clear visual-choice step, not a performance claim."
+    "Added PaulRBerg Frontend Design as a conditional fourteenth listing for one project-bound design direction plus rendered inspection.",
+    "The current author instructions preserve local constraints, require a compact art direction and anti-default critique, then scale browser inspection to the change.",
+    "The source says it is designed for Codex and declares a chromium-browser skill dependency, but it has no declared skill version or immutable source pin.",
+    "Fresh community discussion supports the need for visible design-process evidence, not a claim that the skill improves results."
   ],
   "uncertainty": [
     "No catalogued skill has been independently installed, executed, or compared on a shared frontend task by this pool.",
-    "The pool did not enable Product Design, test Ideate availability in Codex, generate directions, select one, or compare an implementation with a visual target.",
-    "Product Design Ideate is a mutable current source; its declared plugin version is not a skill-file pin.",
-    "The fresh community discussion is self-selected and does not measure workflow outcomes.",
+    "The pool did not install or load PaulRBerg Frontend Design, its chromium-browser dependency, or its catalog in Codex.",
+    "PaulRBerg Frontend Design is a mutable main-branch source with no declared skill version; the repository-level MIT license is not a file pin.",
+    "The community signal is self-selected and includes promotion, anecdote, and disagreement.",
     "First-party analytics were unavailable for this run."
   ],
-  "checked_at": "2026-09-25T02:07:15Z",
-  "meaningfully_updated_at": "2026-09-25T02:07:15Z",
-  "freshness_note": "Checked 25 September 2026. The catalogue contains thirteen listings: eleven source-pinned listings and two mutable current sources. None has a pool result test."
+  "checked_at": "2026-09-26T02:06:26Z",
+  "meaningfully_updated_at": "2026-09-26T02:06:26Z",
+  "freshness_note": "Checked 26 September 2026. The catalogue contains fourteen listings: eleven source-pinned listings and three mutable current sources. None has a pool result test."
 }

@@ -530,6 +530,46 @@
       "accessed_at": "2026-09-25T02:07:15Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "paulrberg-frontend-design-main",
+      "source_type": "author-published skill source",
+      "title": "PaulRBerg Frontend Design",
+      "source_url": "https://github.com/PaulRBerg/agent-skills/blob/main/skills/frontend-design/SKILL.md",
+      "claim": "The current skill asks for one project-bound direction, preservation of local constraints, local checks, and rendered inspection; these are author instructions, not a pool result test.",
+      "accessed_at": "2026-09-26T02:06:26Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "paulrberg-agent-skills-repository",
+      "source_type": "author-published repository",
+      "title": "PaulRBerg Agent Skills repository",
+      "source_url": "https://github.com/PaulRBerg/agent-skills",
+      "claim": "The public repository says the catalog is primarily built for Codex and Claude Code, publishes an MIT license, and warns readers to review and customize workflows.",
+      "accessed_at": "2026-09-26T02:06:26Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-cli-rechecked-2026-09-26",
+      "source_type": "official installation documentation",
+      "title": "Vercel Skills CLI",
+      "source_url": "https://github.com/vercel-labs/skills/blob/main/README.md",
+      "claim": "The current CLI documentation describes selected-skill installation, Codex as a supported target, and project or global scope; it does not establish that this pool loaded the new skill.",
+      "accessed_at": "2026-09-26T02:06:26Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "community-frontend-design-proof-signal",
+      "source_type": "community discussion",
+      "title": "r/codex Frontend Design Pro discussion",
+      "source_url": "https://www.reddit.com/r/codex/comments/1v2lf1u/i_made_a_frontend_design_skill_because/",
+      "claim": "The self-promoted discussion reports generic UI frustrations and asks for visible proof; it is audience language, not a performance evaluation.",
+      "accessed_at": "2026-09-26T02:06:26Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
