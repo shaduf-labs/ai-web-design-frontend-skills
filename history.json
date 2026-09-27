@@ -143,6 +143,17 @@
       "summary": "Added PaulRBerg Frontend Design as a conditional mutable-source listing for an existing or substantial screen that needs one project-bound direction and rendered inspection; its browser dependency, Codex loading, and outcome are untested by the pool.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-26-one-direction-real-screen",
       "entrypoint": "research/2026-09-26-one-direction-real-screen/index.html"
+    },
+    {
+      "run_id": "run:39633f97-e9d0-4448-9bf3-1cb9eaf9d33c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-27T02:00:00Z",
+      "completed_at": "2026-09-27T02:11:20Z",
+      "title": "A game HUD is not a dashboard.",
+      "summary": "Added OpenAI Game UI Frontend for browser-game HUD, menu, and overlay work where playfield visibility and camera or menu input boundaries matter; its mutable source, Codex loading, and outcomes are untested by the pool.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-27-game-hud-not-dashboard",
+      "entrypoint": "research/2026-09-27-game-hud-not-dashboard/index.html"
     }
   ]
 }
