@@ -600,6 +600,66 @@
       "accessed_at": "2026-09-27T02:09:28Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "hueyexe-forms-skill-2026-09-28",
+      "source_type": "skill author instructions",
+      "title": "Hueyexe Forms, Inputs, and Checkout",
+      "source_url": "https://github.com/hueyexe/frontend-agent-skills/blob/main/forms-inputs-checkout/SKILL.md",
+      "claim": "The current author instructions cover form field necessity, validation, errors, submission, and recovery.",
+      "accessed_at": "2026-09-28T02:05:04Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "hueyexe-repo-2026-09-28",
+      "source_type": "skill repository README",
+      "title": "Hueyexe Frontend Agent Skills",
+      "source_url": "https://github.com/hueyexe/frontend-agent-skills",
+      "claim": "The README documents selective installation and named skill-format hosts.",
+      "accessed_at": "2026-09-28T02:05:04Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "hueyexe-license-2026-09-28",
+      "source_type": "repository license",
+      "title": "Hueyexe repository MIT license",
+      "source_url": "https://github.com/hueyexe/frontend-agent-skills/blob/main/LICENSE",
+      "claim": "The repository license is MIT.",
+      "accessed_at": "2026-09-28T02:05:04Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "wai-form-validation-2026-09-28",
+      "source_type": "accessibility guidance",
+      "title": "W3C WAI: Validating Input",
+      "source_url": "https://www.w3.org/WAI/tutorials/forms/validation/",
+      "claim": "WAI guidance identifies accessible validation and the need for server-side checks.",
+      "accessed_at": "2026-09-28T02:05:04Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "baymard-checkout-2026-09-28",
+      "source_type": "independent checkout research",
+      "title": "Baymard: Current State of Checkout UX",
+      "source_url": "https://baymard.com/research-articles/current-state-of-checkout-ux",
+      "claim": "Baymard documents checkout users missing hidden guest options.",
+      "accessed_at": "2026-09-28T02:05:04Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "reddit-frontend-workflow-2026-09-28",
+      "source_type": "community discussion",
+      "title": "r/ClaudeCode frontend workflow question",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1wm6vl1/best_ai_workflow_for_ui_prototyping_building/",
+      "claim": "One poster asks for consistent, accessible agent-built frontend work across prototype and implementation.",
+      "accessed_at": "2026-09-28T02:05:04Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

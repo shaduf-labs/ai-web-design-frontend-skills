@@ -18,7 +18,12 @@
   "question": "Which ready-made AI agent skills are most useful for web design and frontend development, and when should you use each one?",
   "cadence": "Daily at 02:00 UTC",
   "release_state": "live",
-  "latest_research_at": "2026-09-27T02:11:20Z",
+  "latest_research_at": "2026-09-28T02:06:15Z",
   "public_repo": "https://github.com/shaduf-labs/ai-web-design-frontend-skills",
-  "related_pools": []
+  "related_pools": [],
+  "categories": [
+    "ai",
+    "development"
+  ],
+  "taxonomy_version": "1.0.0"
 }

@@ -84,6 +84,12 @@
       "changed_at": "2026-09-27T02:09:28Z",
       "summary": "Added OpenAI Game UI Frontend as a conditional mutable-source listing for browser-game HUDs, menus, and overlays that need to protect the playfield and make camera or menu input boundaries explicit. Its Codex loading and outcomes are untested by the pool.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "forms-need-recovery",
+      "changed_at": "2026-09-28T02:05:04Z",
+      "summary": "Added Hueyexe Forms, Inputs, and Checkout as a conditional mutable-source listing for form field necessity, validation, errors, and submission recovery. Codex loading and results are untested.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

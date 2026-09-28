@@ -1,25 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by the job and the evidence path. Use OpenAI Game UI Frontend only for a browser-game HUD, menu, or overlay that must leave the playfield and input controls usable; it is a poor default for an ordinary product dashboard. Its source is mutable, its Game Studio package is currently listed as version 0.1.2 with MIT declared, and the pool did not run it. Use PaulRBerg Frontend Design when an existing or substantial screen already has a system and you need one project-bound direction held to local constraints, then rendered inspection at the states and widths that matter. Use OpenAI Product Design Ideate when you need three image-based directions for a new or redesigned screen before build work; use Frontend App Builder when you need its concept-to-browser workflow. The other lanes remain separate: Anthropic Frontend Design for text-led visual direction; PracticalSwan Frontend Design 2.0 for substantial work with an explicit state model; Wenkang Frontend Design for human visual decisions on a real route; Vercel skills for React composition, transitions, UI review, and performance; Agent Browser and Dogfood for capture and exploratory QA; Frontend Testing & Debugging for a named rendered change; and Product Design Audit for a captured flow. Eleven of fifteen listings are source-pinned. Frontend Testing & Debugging, Product Design Ideate, PaulRBerg Frontend Design, and Game UI Frontend are current mutable sources. None has been independently installed, executed, or compared on a shared frontend task by this pool.",
+  "current_answer": "Choose by the frontend job, not by the skill name. For a checkout, registration, or data-entry flow where fields, validation, errors, and recovery are the bottleneck, Hueyexe Forms, Inputs, and Checkout is a conditional fit: its current mutable instructions give a specific form-design workflow, but Codex loading and outcomes are untested. For a browser-game HUD, use OpenAI Game UI Frontend only when playfield and input boundaries are the problem. Use PaulRBerg Frontend Design for one project-bound direction on an existing screen, Product Design Ideate for three pre-build image directions, and Frontend App Builder for concept-to-browser work. Other lanes remain distinct: Anthropic and PracticalSwan for visual direction and stateful design, Wenkang for human visual feedback, Vercel skills for React composition, transitions, review, and performance, Agent Browser and Dogfood for capture or exploratory QA, Frontend Testing & Debugging for a named rendered change, and Product Design Audit for a captured flow. Eleven of sixteen listings are source-pinned; five current sources are mutable. None has been independently installed, executed, or compared on a shared frontend task by this pool.",
   "catalogue_card": {
-    "question": "Need a game HUD without turning play into a dashboard?",
-    "text": "OpenAI Game UI Frontend is a conditional, narrow fit for a browser-game HUD, menu, or overlay that must protect the playfield and input boundaries. Its source is mutable; the pool did not run it."
+    "question": "Building a form? Check the failure path before the styling.",
+    "text": "Hueyexe Forms, Inputs, and Checkout is a conditional fit when fields, validation, errors, and recovery are the job. We inspected its mutable instructions, not an installed or tested result."
   },
   "summary": [
-    "Added OpenAI Game UI Frontend as a conditional fifteenth listing for browser-game HUDs, menus, overlays, and responsive game UI.",
-    "The author source treats playfield visibility and camera or menu input boundaries as task constraints, not decoration.",
-    "The current Game Studio manifest publishes version 0.1.2 and MIT; the skill source is mutable and does not declare a skill version.",
-    "Fresh community discussion supports a visible visual target but also reports iteration and human-asset limits; it is not outcome evidence."
+    "Added a form-specific conditional route for checkout, registration, and data-entry work.",
+    "The skill directs an agent to check field necessity, labels, validation, submission, and recovery before visual polish.",
+    "The repository declares MIT and documents selective installation; Codex loading, bundled references, and outcomes remain unverified.",
+    "W3C and Baymard support why form recovery matters, not whether this skill works."
   ],
   "uncertainty": [
     "No catalogued skill has been independently installed, executed, or compared on a shared frontend task by this pool.",
-    "The pool did not install Game Studio or load Game UI Frontend in Codex, build its browser-game fixture, or test its HUD and input constraints.",
-    "Game UI Frontend is a mutable main-branch source; the published Game Studio version is not a skill-file pin.",
-    "The community signal is self-selected and includes promotion, anecdote, and disagreement.",
+    "Forms, Inputs, and Checkout is a mutable main-branch source with no established immutable skill revision or declared version; its bundled references, host loading, and results were not verified by the pool.",
+    "The author README lists several skill-format hosts, but not an independently tested Codex installation.",
+    "The community question is one self-selected demand signal, not a representative audience measure.",
     "First-party analytics were unavailable for this run."
   ],
-  "checked_at": "2026-09-27T02:11:20Z",
-  "meaningfully_updated_at": "2026-09-27T02:11:20Z",
-  "freshness_note": "Checked 27 September 2026. The catalogue contains fifteen listings: eleven source-pinned listings and four mutable current sources. None has a pool result test."
+  "checked_at": "2026-09-28T02:05:04Z",
+  "meaningfully_updated_at": "2026-09-28T02:05:04Z",
+  "freshness_note": "Checked 28 September 2026. The form skill is a mutable main-branch source; no pool execution or first-party analytics were available."
 }
