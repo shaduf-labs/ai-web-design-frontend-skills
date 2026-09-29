@@ -165,6 +165,17 @@
       "summary": "Added a conditional form-specific skill route with mutable-source and untested-outcome limits.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-28-forms-need-recovery",
       "entrypoint": "research/2026-09-28-forms-need-recovery/index.html"
+    },
+    {
+      "run_id": "run:52ac9a4b-e8e6-4fa0-9767-b16083448061",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-29T02:00:00Z",
+      "completed_at": "2026-09-29T02:08:58Z",
+      "title": "Check the React composition example before you copy it.",
+      "summary": "Verified the pinned lifted-state example mismatch directly in source; the listing now warns readers without claiming a runtime failure.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-29-react-composition-example-check",
+      "entrypoint": "research/2026-09-29-react-composition-example-check/index.html"
     }
   ]
 }

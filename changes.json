@@ -90,6 +90,12 @@
       "changed_at": "2026-09-28T02:05:04Z",
       "summary": "Added Hueyexe Forms, Inputs, and Checkout as a conditional mutable-source listing for form field necessity, validation, errors, and submission recovery. Codex loading and results are untested.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "react-composition-example-check",
+      "changed_at": "2026-09-29T02:07:54Z",
+      "summary": "Verified the pinned React Composition Patterns lifted-state example mismatch against its related rule and current main. The listing now gives a direct source-level warning without claiming a runtime failure.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

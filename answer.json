@@ -1,25 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by the frontend job, not by the skill name. For a checkout, registration, or data-entry flow where fields, validation, errors, and recovery are the bottleneck, Hueyexe Forms, Inputs, and Checkout is a conditional fit: its current mutable instructions give a specific form-design workflow, but Codex loading and outcomes are untested. For a browser-game HUD, use OpenAI Game UI Frontend only when playfield and input boundaries are the problem. Use PaulRBerg Frontend Design for one project-bound direction on an existing screen, Product Design Ideate for three pre-build image directions, and Frontend App Builder for concept-to-browser work. Other lanes remain distinct: Anthropic and PracticalSwan for visual direction and stateful design, Wenkang for human visual feedback, Vercel skills for React composition, transitions, review, and performance, Agent Browser and Dogfood for capture or exploratory QA, Frontend Testing & Debugging for a named rendered change, and Product Design Audit for a captured flow. Eleven of sixteen listings are source-pinned; five current sources are mutable. None has been independently installed, executed, or compared on a shared frontend task by this pool.",
+  "current_answer": "Choose by task. Vercel React Composition Patterns is a conditional fit for refactoring flag-heavy React components, but do not copy its pinned lifted-state \"Correct\" example as-is: it uses `Composer.Context` where the related rule defines `ComposerContext`. We checked the source files; we have not run the skill. For visual direction, forms, game HUDs, browser QA, and performance, use the task-specific listings and check each prerequisite before installation. Eleven of sixteen listings are source-pinned; five use mutable sources. None has been installed or compared by this pool on a shared frontend task.",
   "catalogue_card": {
-    "question": "Building a form? Check the failure path before the styling.",
-    "text": "Hueyexe Forms, Inputs, and Checkout is a conditional fit when fields, validation, errors, and recovery are the job. We inspected its mutable instructions, not an installed or tested result."
+    "question": "Using a React composition skill? Check this example first.",
+    "text": "Vercel React Composition Patterns fits flag-heavy component refactors, but its pinned lifted-state example calls `Composer.Context` while a related rule defines `ComposerContext`. We verified the source mismatch, not a runtime failure."
   },
   "summary": [
-    "Added a form-specific conditional route for checkout, registration, and data-entry work.",
-    "The skill directs an agent to check field necessity, labels, validation, submission, and recovery before visual polish.",
-    "The repository declares MIT and documents selective installation; Codex loading, bundled references, and outcomes remain unverified.",
-    "W3C and Baymard support why form recovery matters, not whether this skill works."
+    "Verified a source-level mismatch in the pinned React Composition Patterns lifted-state example.",
+    "The current main rule still shows it; proposed correction PR #304 remains open.",
+    "Keep the skill as a conditional fit, but inspect the example before copying it.",
+    "No installed skill or frontend result was tested by this pool."
   ],
   "uncertainty": [
+    "The Composition Patterns concern is verified in source text, not through a Codex installation or runtime execution. PR #304 is still open and main may change.",
     "No catalogued skill has been independently installed, executed, or compared on a shared frontend task by this pool.",
-    "Forms, Inputs, and Checkout is a mutable main-branch source with no established immutable skill revision or declared version; its bundled references, host loading, and results were not verified by the pool.",
-    "The author README lists several skill-format hosts, but not an independently tested Codex installation.",
-    "The community question is one self-selected demand signal, not a representative audience measure.",
-    "First-party analytics were unavailable for this run."
+    "Five listed sources are mutable; their contents may change without a stable skill revision.",
+    "The community discussion is self-selected, and first-party pool analytics are unavailable."
   ],
-  "checked_at": "2026-09-28T02:05:04Z",
-  "meaningfully_updated_at": "2026-09-28T02:05:04Z",
-  "freshness_note": "Checked 28 September 2026. The form skill is a mutable main-branch source; no pool execution or first-party analytics were available."
+  "checked_at": "2026-09-29T02:07:54Z",
+  "meaningfully_updated_at": "2026-09-29T02:07:54Z",
+  "freshness_note": "Checked 29 September 2026. Source example verified; Codex loading and result impact remain untested."
 }

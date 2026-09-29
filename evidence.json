@@ -660,6 +660,66 @@
       "accessed_at": "2026-09-28T02:05:04Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "composition-pinned-lifted-state",
+      "source_type": "official pinned rule",
+      "title": "Vercel lifted-state rule at 063bee94",
+      "source_url": "https://raw.githubusercontent.com/vercel-labs/agent-skills/063bee94c3f4df8453406c830b0a7df0f2860278/skills/composition-patterns/rules/state-lift-state.md",
+      "claim": "The rule labels a provider example correct but its ForwardButton calls use(Composer.Context).",
+      "accessed_at": "2026-09-29T02:07:54Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "composition-pinned-context-interface",
+      "source_type": "official pinned rule",
+      "title": "Vercel context-interface rule at 063bee94",
+      "source_url": "https://github.com/vercel-labs/agent-skills/blob/063bee94c3f4df8453406c830b0a7df0f2860278/skills/composition-patterns/rules/state-context-interface.md",
+      "claim": "The related rule declares ComposerContext and uses use(ComposerContext).",
+      "accessed_at": "2026-09-29T02:07:54Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "composition-main-lifted-state",
+      "source_type": "official mutable rule",
+      "title": "Vercel lifted-state rule on main",
+      "source_url": "https://github.com/vercel-labs/agent-skills/blob/main/skills/composition-patterns/rules/state-lift-state.md",
+      "claim": "The same example mismatch remains visible in the current main rule.",
+      "accessed_at": "2026-09-29T02:07:54Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "composition-pr-304-open",
+      "source_type": "proposed correction",
+      "title": "Vercel Agent Skills PR #304",
+      "source_url": "https://github.com/vercel-labs/agent-skills/pull/304",
+      "claim": "The proposed source correction is open, not merged.",
+      "accessed_at": "2026-09-29T02:07:54Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "composition-issue-286",
+      "source_type": "third-party issue",
+      "title": "Vercel Agent Skills issue #286",
+      "source_url": "https://github.com/vercel-labs/agent-skills/issues/286",
+      "claim": "A contributor identified the mismatch; the pool separately inspected the linked source files.",
+      "accessed_at": "2026-09-29T02:07:54Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "skills-sh-composition-listing",
+      "source_type": "competing directory",
+      "title": "skills.sh Composition Patterns listing",
+      "source_url": "https://www.skills.sh/vercel-labs/agent-skills/vercel-composition-patterns",
+      "claim": "The page offers installation and popularity information; those are not runtime outcome evidence.",
+      "accessed_at": "2026-09-29T02:07:54Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
