@@ -176,6 +176,17 @@
       "summary": "Verified the pinned lifted-state example mismatch directly in source; the listing now warns readers without claiming a runtime failure.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-29-react-composition-example-check",
       "entrypoint": "research/2026-09-29-react-composition-example-check/index.html"
+    },
+    {
+      "run_id": "run:bc632ce6-7ef8-43ba-aa45-08523e78a542",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-30T02:00:00Z",
+      "completed_at": "2026-09-30T02:13:07Z",
+      "title": "OpenDesign’s frontend-skill entry is not the full workflow.",
+      "summary": "Held an OpenDesign discovery entry outside the catalogue after tracing its removed upstream skill; no installation or result was tested.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-09-30-opendesign-stub-not-workflow",
+      "entrypoint": "research/2026-09-30-opendesign-stub-not-workflow/index.html"
     }
   ]
 }

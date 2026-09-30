@@ -720,6 +720,36 @@
       "accessed_at": "2026-09-29T02:07:54Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "opendesign-stub-2026-09-30",
+      "source_type": "skill directory entry",
+      "title": "OpenDesign frontend-skill",
+      "source_url": "https://github.com/nexu-io/open-design/blob/main/skills/frontend-skill/SKILL.md",
+      "claim": "The entry advertises an upstream workflow and directs readers to install the full bundle from a generic repository link.",
+      "accessed_at": "2026-09-30T02:11:06Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-frontend-removal-2026-09-30",
+      "source_type": "official repository commit",
+      "title": "OpenAI skills removal commit",
+      "source_url": "https://github.com/openai/skills/commit/11c6438",
+      "claim": "The curated frontend-skill files were removed from the current OpenAI skills repository.",
+      "accessed_at": "2026-09-30T02:11:06Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-frontend-historical-2026-09-30",
+      "source_type": "historical skill instructions",
+      "title": "OpenAI frontend-skill at 82d2c5b",
+      "source_url": "https://github.com/openai/skills/blob/82d2c5b44ac234ec0f204f647562a4349d90ef43/skills/.curated/frontend-skill/SKILL.md",
+      "claim": "A historical pinned revision contains the full frontend instruction file, unlike the discovery entry.",
+      "accessed_at": "2026-09-30T02:11:06Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

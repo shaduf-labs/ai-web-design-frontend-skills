@@ -1,24 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by task. Vercel React Composition Patterns is a conditional fit for refactoring flag-heavy React components, but do not copy its pinned lifted-state \"Correct\" example as-is: it uses `Composer.Context` where the related rule defines `ComposerContext`. We checked the source files; we have not run the skill. For visual direction, forms, game HUDs, browser QA, and performance, use the task-specific listings and check each prerequisite before installation. Eleven of sixteen listings are source-pinned; five use mutable sources. None has been installed or compared by this pool on a shared frontend task.",
+  "current_answer": "Choose a skill for the task, then inspect the actual instruction bundle. OpenDesign's `frontend-skill` page is a discovery entry that points to a full OpenAI workflow, but OpenAI removed that curated skill from its current repository. Do not treat the entry as the complete workflow. The sixteen listed skills remain task-specific, source-inspected options; none has been installed or compared by this pool on a shared frontend task. The pinned Vercel React Composition Patterns lifted-state example still needs a source check before copying.",
   "catalogue_card": {
-    "question": "Using a React composition skill? Check this example first.",
-    "text": "Vercel React Composition Patterns fits flag-heavy component refactors, but its pinned lifted-state example calls `Composer.Context` while a related rule defines `ComposerContext`. We verified the source mismatch, not a runtime failure."
+    "question": "Is that frontend skill a complete workflow?",
+    "text": "OpenDesign’s `frontend-skill` page is a discovery entry, not the full OpenAI instructions it points to. OpenAI removed the curated upstream skill. Check the actual file before you install; we have not run either version."
   },
   "summary": [
-    "Verified a source-level mismatch in the pinned React Composition Patterns lifted-state example.",
-    "The current main rule still shows it; proposed correction PR #304 remains open.",
-    "Keep the skill as a conditional fit, but inspect the example before copying it.",
-    "No installed skill or frontend result was tested by this pool."
+    "OpenDesign’s frontend-skill entry tells readers to install a full upstream bundle, but does not contain that workflow.",
+    "OpenAI removed the curated frontend-skill from its current skills repository; a historical revision remains accessible.",
+    "We did not add the pointer as a catalogue skill. Sixteen listed options remain source-inspected, not result-tested."
   ],
   "uncertainty": [
-    "The Composition Patterns concern is verified in source text, not through a Codex installation or runtime execution. PR #304 is still open and main may change.",
-    "No catalogued skill has been independently installed, executed, or compared on a shared frontend task by this pool.",
-    "Five listed sources are mutable; their contents may change without a stable skill revision.",
-    "The community discussion is self-selected, and first-party pool analytics are unavailable."
+    "OpenDesign main and OpenAI repositories can change after this check; no OpenDesign or historical OpenAI skill was installed.",
+    "The community benefit estimate is a self-report, not an independent comparison.",
+    "No catalogued skill has been installed or compared on a shared frontend task by this pool.",
+    "First-party pool analytics are unavailable."
   ],
-  "checked_at": "2026-09-29T02:07:54Z",
-  "meaningfully_updated_at": "2026-09-29T02:07:54Z",
-  "freshness_note": "Checked 29 September 2026. Source example verified; Codex loading and result impact remain untested."
+  "checked_at": "2026-09-30T02:11:06Z",
+  "meaningfully_updated_at": "2026-09-30T02:11:06Z",
+  "freshness_note": "Checked 30 September 2026. Source and removal history inspected; no installation or result test."
 }

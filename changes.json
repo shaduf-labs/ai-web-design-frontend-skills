@@ -96,6 +96,12 @@
       "changed_at": "2026-09-29T02:07:54Z",
       "summary": "Verified the pinned React Composition Patterns lifted-state example mismatch against its related rule and current main. The listing now gives a direct source-level warning without claiming a runtime failure.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "opendesign-stub-not-workflow",
+      "changed_at": "2026-09-30T02:11:06Z",
+      "summary": "Held OpenDesign frontend-skill outside the catalogue because its current entry is a discovery pointer to an OpenAI curated skill removed from the live upstream collection; no installation or result was tested.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }
