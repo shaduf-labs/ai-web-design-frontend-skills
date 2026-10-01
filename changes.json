@@ -102,6 +102,12 @@
       "changed_at": "2026-09-30T02:11:06Z",
       "summary": "Held OpenDesign frontend-skill outside the catalogue because its current entry is a discovery pointer to an OpenAI curated skill removed from the live upstream collection; no installation or result was tested.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "existing-system-before-new-palette",
+      "changed_at": "2026-10-01T02:07:09Z",
+      "summary": "Clarified Anthropic Frontend Design task fit: new visual direction versus an existing token and component system. Corrected its source pin link; no result was tested.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

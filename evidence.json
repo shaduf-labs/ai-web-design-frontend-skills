@@ -750,6 +750,26 @@
       "accessed_at": "2026-09-30T02:11:06Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-pinned-design-system-fit-2026-10-01",
+      "source_type": "pinned skill instructions",
+      "title": "Anthropic Frontend Design at 41bbe19",
+      "source_url": "https://github.com/anthropics/skills/blob/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/frontend-design/SKILL.md",
+      "claim": "The skill asks for a new token plan with four to six palette values and typeface roles.",
+      "accessed_at": "2026-10-01T02:07:09Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-design-system-pr-2026-10-01",
+      "source_type": "open contributor proposal",
+      "title": "Anthropic skills PR #1561",
+      "source_url": "https://github.com/anthropics/skills/pull/1561",
+      "claim": "A contributor proposes explicit guidance for preserving established tokens and components; the PR is open.",
+      "accessed_at": "2026-10-01T02:07:09Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

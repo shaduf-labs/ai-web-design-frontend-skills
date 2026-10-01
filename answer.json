@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose a skill for the task, then inspect the actual instruction bundle. OpenDesign's `frontend-skill` page is a discovery entry that points to a full OpenAI workflow, but OpenAI removed that curated skill from its current repository. Do not treat the entry as the complete workflow. The sixteen listed skills remain task-specific, source-inspected options; none has been installed or compared by this pool on a shared frontend task. The pinned Vercel React Composition Patterns lifted-state example still needs a source check before copying.",
+  "current_answer": "Choose by task and inspect the actual instruction bundle. Anthropic Frontend Design is a strong source-inspected candidate when a new visual direction is open, but its pinned instructions ask the agent to choose a palette and type. For a project with established tokens and components, give the agent those constraints first and review a rendered result; an open contribution proposes adding that distinction to the skill. The sixteen listings remain source-inspected options, not pool-tested outcome winners. OpenDesign’s frontend-skill entry remains a discovery pointer to a removed upstream skill, and the pinned Vercel React Composition Patterns lifted-state example still needs source checking before copying.",
   "catalogue_card": {
-    "question": "Is that frontend skill a complete workflow?",
-    "text": "OpenDesign’s `frontend-skill` page is a discovery entry, not the full OpenAI instructions it points to. OpenAI removed the curated upstream skill. Check the actual file before you install; we have not run either version."
+    "question": "Already have a design system?",
+    "text": "Anthropic Frontend Design asks the agent to choose a new palette and type. For an existing product, provide its tokens and components first; the established-system guidance is still an open proposal, and we have not tested an output."
   },
   "summary": [
-    "OpenDesign’s frontend-skill entry tells readers to install a full upstream bundle, but does not contain that workflow.",
-    "OpenAI removed the curated frontend-skill from its current skills repository; a historical revision remains accessible.",
-    "We did not add the pointer as a catalogue skill. Sixteen listed options remain source-inspected, not result-tested."
+    "Anthropic Frontend Design at the listed pin creates a visual plan with palette and type choices; that is a task-fit risk when a project already has a design system.",
+    "A contributor proposes an established-system mode, but PR #1561 remains open. The pool has not tested the skill on a shared task.",
+    "Sixteen listings remain source-inspected. The OpenDesign pointer and Vercel composition-example warnings remain."
   ],
   "uncertainty": [
-    "OpenDesign main and OpenAI repositories can change after this check; no OpenDesign or historical OpenAI skill was installed.",
-    "The community benefit estimate is a self-report, not an independent comparison.",
-    "No catalogued skill has been installed or compared on a shared frontend task by this pool.",
+    "The design-system warning follows source instructions and an open contribution; no controlled result or installation test confirms its effect.",
+    "The OpenDesign and Vercel source warnings remain source-level observations.",
     "First-party pool analytics are unavailable."
   ],
-  "checked_at": "2026-09-30T02:11:06Z",
-  "meaningfully_updated_at": "2026-09-30T02:11:06Z",
-  "freshness_note": "Checked 30 September 2026. Source and removal history inspected; no installation or result test."
+  "checked_at": "2026-10-01T02:07:09Z",
+  "meaningfully_updated_at": "2026-10-01T02:07:09Z",
+  "freshness_note": "Checked 1 October 2026. Pinned instructions and open contribution inspected; no skill installation or result comparison."
 }
