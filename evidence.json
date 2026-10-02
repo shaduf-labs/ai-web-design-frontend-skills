@@ -770,6 +770,36 @@
       "accessed_at": "2026-10-01T02:07:09Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:webdev-skills-bench-v1",
+      "source_type": "research preprint",
+      "source_url": "https://arxiv.org/html/2608.23067",
+      "title": "Signal or Noise? A Benchmark Study of Agent Skills in Web Development",
+      "claim": "In prompt-injection functional tests across four models, matched skill instructions had lower average Pass@2 and higher token use, while a minority of skill-project pairs improved.",
+      "accessed_at": "2026-10-02T02:04:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:anthropic-skill-creator-baseline",
+      "source_type": "official documentation",
+      "source_url": "https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md",
+      "title": "Anthropic Skill Creator",
+      "claim": "The source describes a no-skill baseline when evaluating a new skill.",
+      "accessed_at": "2026-10-02T02:04:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:skillsbench-v4",
+      "source_type": "research preprint",
+      "source_url": "https://arxiv.org/html/2602.12670",
+      "title": "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks",
+      "claim": "Curated skill access raised average pass rate across 87 tasks in eight domains and 18 model-harness configurations.",
+      "accessed_at": "2026-10-02T02:04:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

@@ -108,6 +108,12 @@
       "changed_at": "2026-10-01T02:07:09Z",
       "summary": "Clarified Anthropic Frontend Design task fit: new visual direction versus an existing token and component system. Corrected its source pin link; no result was tested.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "test-against-no-skill",
+      "changed_at": "2026-10-02T02:04:30Z",
+      "summary": "Added two benchmark checks and a no-skill comparison route. Different task and loading setups prevent either study from ranking our listings or visual quality.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

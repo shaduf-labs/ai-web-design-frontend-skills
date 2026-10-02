@@ -198,6 +198,17 @@
       "summary": "Clarified a source-level task-fit boundary for Anthropic Frontend Design and fixed its pinned source link; no result test was performed.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-01-existing-system-before-new-palette",
       "entrypoint": "research/2026-10-01-existing-system-before-new-palette/index.html"
+    },
+    {
+      "run_id": "run:43f3d78b-d861-41f0-9705-0a68fe8877ca",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-02T02:00:00Z",
+      "completed_at": "2026-10-02T02:07:15Z",
+      "title": "Test a web skill against no skill",
+      "summary": "Two external benchmarks found different average effects under different tasks and loading setups; neither ranks our sixteen listings or measures visual quality.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-02-test-against-no-skill",
+      "entrypoint": "research/2026-10-02-test-against-no-skill/index.html"
     }
   ]
 }

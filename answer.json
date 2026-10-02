@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by task and inspect the actual instruction bundle. Anthropic Frontend Design is a strong source-inspected candidate when a new visual direction is open, but its pinned instructions ask the agent to choose a palette and type. For a project with established tokens and components, give the agent those constraints first and review a rendered result; an open contribution proposes adding that distinction to the skill. The sixteen listings remain source-inspected options, not pool-tested outcome winners. OpenDesign’s frontend-skill entry remains a discovery pointer to a removed upstream skill, and the pinned Vercel React Composition Patterns lifted-state example still needs source checking before copying.",
+  "current_answer": "Choose a skill by the exact frontend task, source revision, agent, and requirements; do not assume adding one improves the result. A web-development preprint found lower average functional pass rates and higher token use when matched skill instructions were injected, while a separate cross-domain benchmark found gains from curated skill access. The studies use different tasks and loading setups, and neither tests this catalogue’s sixteen source-inspected listings or visual quality. For a consequential choice, compare the same project task with a careful no-skill brief and the candidate skill, then inspect the rendered result.",
   "catalogue_card": {
-    "question": "Already have a design system?",
-    "text": "Anthropic Frontend Design asks the agent to choose a new palette and type. For an existing product, provide its tokens and components first; the established-system guidance is still an open proposal, and we have not tested an output."
+    "question": "Will a skill improve your web task?",
+    "text": "One web-development study found lower average functional scores with injected skill instructions; a cross-domain study found gains from curated skills. Neither tested our listings or visual quality. Compare one real task with and without the skill."
   },
   "summary": [
-    "Anthropic Frontend Design at the listed pin creates a visual plan with palette and type choices; that is a task-fit risk when a project already has a design system.",
-    "A contributor proposes an established-system mode, but PR #1561 remains open. The pool has not tested the skill on a shared task.",
-    "Sixteen listings remain source-inspected. The OpenDesign pointer and Vercel composition-example warnings remain."
+    "A web-development preprint found mixed skill-project effects and a lower average functional score under prompt-level skill injection.",
+    "A separate cross-domain benchmark found gains from curated skill access. Different tasks and loading setups limit direct comparison.",
+    "For a consequential frontend task, compare a candidate skill with a careful no-skill brief in the same project and model."
   ],
   "uncertainty": [
-    "The design-system warning follows source instructions and an open contribution; no controlled result or installation test confirms its effect.",
-    "The OpenDesign and Vercel source warnings remain source-level observations.",
+    "The two benchmark preprints use different tasks and skill-loading setups; neither ranks our sixteen listings or measures their visual quality.",
+    "No listed skill has been installed and compared by this pool against a no-skill baseline.",
     "First-party pool analytics are unavailable."
   ],
-  "checked_at": "2026-10-01T02:07:09Z",
-  "meaningfully_updated_at": "2026-10-01T02:07:09Z",
-  "freshness_note": "Checked 1 October 2026. Pinned instructions and open contribution inspected; no skill installation or result comparison."
+  "checked_at": "2026-10-02T02:04:30Z",
+  "meaningfully_updated_at": "2026-10-02T02:04:30Z",
+  "freshness_note": "Checked 2 October 2026. External preprint and skill-evaluation instructions inspected; no pool-run skill outcome test."
 }
