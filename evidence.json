@@ -800,6 +800,46 @@
       "accessed_at": "2026-10-02T02:04:30Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-ds-skills-pipeline-2026-10-03",
+      "source_type": "official repository",
+      "title": "Vercel Labs DS Skills Pipeline",
+      "source_url": "https://github.com/vercel-labs/design-systems-to-agent-skills",
+      "claim": "The repository describes a multi-stage process that reads a design system and generates a project-specific skill; its table marks Claude Code tested and Codex CLI expected.",
+      "accessed_at": "2026-10-03T02:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-ds-skills-output-2026-10-03",
+      "source_type": "official project documentation",
+      "title": "DS Skills Pipeline output structure",
+      "source_url": "https://github.com/vercel-labs/design-systems-to-agent-skills/blob/main/docs/output-structure.md",
+      "claim": "The generated artifact is a SKILL.md entry point with versioned design-system component and token references.",
+      "accessed_at": "2026-10-03T02:08:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "reddit-frontend-workflow-question-2026-09",
+      "source_type": "community question",
+      "title": "Frontend workflow question",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1wm6vl1/best_ai_workflow_for_ui_prototyping_building/",
+      "claim": "One user asks how prototype-to-code work can preserve existing state, styling conventions, reuse, and accessibility; this does not measure demand or a solution.",
+      "accessed_at": "2026-10-03T02:08:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-update-preserve-issue-455",
+      "source_type": "community issue report",
+      "title": "Vercel Skills CLI preserve-local request",
+      "source_url": "https://github.com/vercel-labs/skills/issues/455",
+      "claim": "A user reports local edits lost during skills update and requests a preserve-local mode; this pool did not reproduce the report or tie it to the DS pipeline.",
+      "accessed_at": "2026-10-03T02:08:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

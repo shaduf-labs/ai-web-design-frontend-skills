@@ -114,6 +114,12 @@
       "changed_at": "2026-10-02T02:04:30Z",
       "summary": "Added two benchmark checks and a no-skill comparison route. Different task and loading setups prevent either study from ranking our listings or visual quality.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "source-derived-design-system-not-ready-made",
+      "changed_at": "2026-10-03T02:08:00Z",
+      "summary": "Separated a source-derived design-system skill pipeline from the sixteen ready-made listings and gave existing-system teams a brief-first decision path. The pipeline and outcomes remain untested by this pool.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

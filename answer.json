@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose a skill by the exact frontend task, source revision, agent, and requirements; do not assume adding one improves the result. A web-development preprint found lower average functional pass rates and higher token use when matched skill instructions were injected, while a separate cross-domain benchmark found gains from curated skill access. The studies use different tasks and loading setups, and neither tests this catalogue’s sixteen source-inspected listings or visual quality. For a consequential choice, compare the same project task with a careful no-skill brief and the candidate skill, then inspect the rendered result.",
+  "current_answer": "Choose a ready-made frontend skill for a specific task, not by its name or popularity. If an existing design system governs the screen, first give the agent its real components, tokens, route, and states; a generic visual-direction skill may add unwanted choices. A source-derived design-system skill is a separate creation project, not a seventeenth ready-made listing. For a consequential task, compare the same project with a careful no-skill brief and the candidate skill, then inspect function and the rendered result. None of our sixteen listings has a pool-run outcome comparison.",
   "catalogue_card": {
-    "question": "Will a skill improve your web task?",
-    "text": "One web-development study found lower average functional scores with injected skill instructions; a cross-domain study found gains from curated skills. Neither tested our listings or visual quality. Compare one real task with and without the skill."
+    "question": "Have a design system? Do not start with a generic design skill.",
+    "text": "Give the agent your real components and tokens first. A source-derived skill is another project to build and verify, not a ready-made listing. None of our sixteen listings has a pool-run outcome test."
   },
   "summary": [
-    "A web-development preprint found mixed skill-project effects and a lower average functional score under prompt-level skill injection.",
-    "A separate cross-domain benchmark found gains from curated skill access. Different tasks and loading setups limit direct comparison.",
-    "For a consequential frontend task, compare a candidate skill with a careful no-skill brief in the same project and model."
+    "Use a ready-made skill when its exact task and requirements fit.",
+    "For an existing design system, start with the repository’s components, tokens, route, and states. A source-derived skill may be worth building for repeated work, but it is not a ready-made pick.",
+    "Compare a consequential skill choice with a careful no-skill brief on the same project, then inspect the rendered result."
   ],
   "uncertainty": [
-    "The two benchmark preprints use different tasks and skill-loading setups; neither ranks our sixteen listings or measures their visual quality.",
+    "The source-to-skill pipeline is author-documented; Codex use is marked expected, and this pool has not run it.",
     "No listed skill has been installed and compared by this pool against a no-skill baseline.",
     "First-party pool analytics are unavailable."
   ],
-  "checked_at": "2026-10-02T02:04:30Z",
-  "meaningfully_updated_at": "2026-10-02T02:04:30Z",
-  "freshness_note": "Checked 2 October 2026. External preprint and skill-evaluation instructions inspected; no pool-run skill outcome test."
+  "checked_at": "2026-10-03T02:08:00Z",
+  "meaningfully_updated_at": "2026-10-03T02:08:00Z",
+  "freshness_note": "Checked 3 October 2026. Source-to-skill pipeline and community question inspected; no pool-run skill or pipeline result test."
 }

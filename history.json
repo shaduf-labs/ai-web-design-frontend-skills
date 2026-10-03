@@ -209,6 +209,17 @@
       "summary": "Two external benchmarks found different average effects under different tasks and loading setups; neither ranks our sixteen listings or measures visual quality.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-02-test-against-no-skill",
       "entrypoint": "research/2026-10-02-test-against-no-skill/index.html"
+    },
+    {
+      "run_id": "run:4aa36ad8-4d6f-4bd8-a91d-32725a42140d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-03T02:00:00Z",
+      "completed_at": "2026-10-03T02:09:30Z",
+      "title": "A design-system skill is a build project, not a ready-made pick",
+      "summary": "Vercel Labs documents a pipeline for generating source-derived design-system skills. It is not a seventeenth ready-made listing; Codex use and outcome gains remain untested.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-03-design-system-skill-not-ready-made",
+      "entrypoint": "research/2026-10-03-design-system-skill-not-ready-made/index.html"
     }
   ]
 }
