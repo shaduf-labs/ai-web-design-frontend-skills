@@ -840,6 +840,76 @@
       "accessed_at": "2026-10-03T02:08:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "silk-design-skill-main-2026-10-04",
+      "source_type": "community skill source",
+      "title": "Silk Design Skill Main",
+      "source_url": "https://github.com/bendrape1-byte/silk-design/blob/main/SKILL.md",
+      "claim": "The author instructs motion and smooth scrolling by default and names a React/Vite/Tailwind/Motion/GSAP/Lenis stack; this is not an outcome test.",
+      "accessed_at": "2026-10-04T02:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "silk-design-readme-main-2026-10-04",
+      "source_type": "community project documentation",
+      "title": "Silk Design Readme Main",
+      "source_url": "https://github.com/bendrape1-byte/silk-design",
+      "claim": "The README documents the package, sample links, install path for Claude Code, and MIT licence.",
+      "accessed_at": "2026-10-04T02:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "silk-design-scroll-reveal-main-2026-10-04",
+      "source_type": "community source component",
+      "title": "Silk Design Scroll Reveal Main",
+      "source_url": "https://github.com/bendrape1-byte/silk-design/blob/main/assets/ScrollReveal.tsx",
+      "claim": "The inspected component animates on entering the viewport without a visible reduced-motion branch; other files and sites were not audited.",
+      "accessed_at": "2026-10-04T02:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "w3c-animation-from-interactions-2026-10-04",
+      "source_type": "web accessibility standard guidance",
+      "title": "W3C Animation From Interactions",
+      "source_url": "https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions",
+      "claim": "W3C guidance for WCAG 2.2 criterion 2.3.3 (Level AAA) says non-essential interaction motion should be disableable.",
+      "accessed_at": "2026-10-04T02:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "silk-design-reddit-2026-08-2026-10-04",
+      "source_type": "community author and user report",
+      "title": "Silk Design Reddit 2026 08",
+      "source_url": "https://www.reddit.com/r/claudeskills/comments/1vv98ci/i_united_my_last_2_years_of_frontenddesign_with/",
+      "claim": "One user reports lag and text-readability problems on sample pages in mobile Safari; the pool did not reproduce them.",
+      "accessed_at": "2026-10-04T02:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "lazyskills-frontend-design-2026-09-2026-10-04",
+      "source_type": "competing category guide",
+      "title": "Lazyskills Frontend Design 2026 09",
+      "source_url": "https://lazyskills.sh/skills/frontend-design",
+      "claim": "A competitor publishes a task-specific eight-skill frontend-design guide.",
+      "accessed_at": "2026-10-04T02:05:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "bdnhost-skill-registry-discussion-2026-04-2026-10-04",
+      "source_type": "competing registry discussion",
+      "title": "Bdnhost Skill Registry Discussion 2026 04",
+      "source_url": "https://github.com/anthropics/skills/discussions/1030",
+      "claim": "A registry author describes broad, daily skill discovery; index counts are self-reported.",
+      "accessed_at": "2026-10-04T02:05:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

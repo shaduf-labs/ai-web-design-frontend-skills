@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose a ready-made frontend skill for a specific task, not by its name or popularity. If an existing design system governs the screen, first give the agent its real components, tokens, route, and states; a generic visual-direction skill may add unwanted choices. A source-derived design-system skill is a separate creation project, not a seventeenth ready-made listing. For a consequential task, compare the same project with a careful no-skill brief and the candidate skill, then inspect function and the rendered result. None of our sixteen listings has a pool-run outcome comparison.",
+  "current_answer": "Choose a ready-made frontend skill for a specific task and compatible host, not by its name or popularity. Start with the project’s components, tokens, route, and states when an existing design system governs the work. Treat motion-first instruction packages as conditional: before adopting global smooth scroll or reveals, check stack fit, a reduced-motion route, mobile readability, and a rendered result. Silk Design is a source-inspected candidate, not a seventeenth recommendation. For consequential choices, compare the same project with a careful no-skill brief. None of our sixteen listings has a pool-run outcome comparison.",
   "catalogue_card": {
-    "question": "Have a design system? Do not start with a generic design skill.",
-    "text": "Give the agent your real components and tokens first. A source-derived skill is another project to build and verify, not a ready-made listing. None of our sixteen listings has a pool-run outcome test."
+    "question": "A motion skill says “never ship static.” Should you use it?",
+    "text": "Only if the stack and page need it. Check reduced-motion behavior, mobile readability, and a real render before adopting global scroll effects. Silk Design is not yet one of our sixteen recommendations."
   },
   "summary": [
-    "Use a ready-made skill when its exact task and requirements fit.",
-    "For an existing design system, start with the repository’s components, tokens, route, and states. A source-derived skill may be worth building for repeated work, but it is not a ready-made pick.",
-    "Compare a consequential skill choice with a careful no-skill brief on the same project, then inspect the rendered result."
+    "Choose a task-specific skill only when its host and dependencies fit.",
+    "For an existing design system, start with real components, tokens, route, and states.",
+    "For motion-heavy guidance, check reduced-motion control and mobile readability before making effects the default.",
+    "Compare consequential choices with a careful no-skill brief on the same project."
   ],
   "uncertainty": [
-    "The source-to-skill pipeline is author-documented; Codex use is marked expected, and this pool has not run it.",
-    "No listed skill has been installed and compared by this pool against a no-skill baseline.",
-    "First-party pool analytics are unavailable."
+    "Silk Design was inspected at mutable main; no pool installation, reduced-motion audit, or outcome test was performed.",
+    "One mobile Safari complaint is a user report, not a reproduced defect or quality verdict.",
+    "No listed skill has been compared by this pool against a no-skill frontend task; first-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-03T02:08:00Z",
-  "meaningfully_updated_at": "2026-10-03T02:08:00Z",
-  "freshness_note": "Checked 3 October 2026. Source-to-skill pipeline and community question inspected; no pool-run skill or pipeline result test."
+  "checked_at": "2026-10-04T02:05:00Z",
+  "meaningfully_updated_at": "2026-10-04T02:05:00Z",
+  "freshness_note": "Checked 4 October 2026. Silk Design source and component inspected; community mobile report not reproduced; no pool-run outcome test."
 }

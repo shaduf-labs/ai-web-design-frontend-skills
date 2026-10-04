@@ -220,6 +220,17 @@
       "summary": "Vercel Labs documents a pipeline for generating source-derived design-system skills. It is not a seventeenth ready-made listing; Codex use and outcome gains remain untested.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-03-design-system-skill-not-ready-made",
       "entrypoint": "research/2026-10-03-design-system-skill-not-ready-made/index.html"
+    },
+    {
+      "run_id": "run:c9b77f69-fc3f-430c-aaea-faca0a4bb209",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-04T02:00:00Z",
+      "completed_at": "2026-10-04T02:07:28Z",
+      "title": "A motion default needs an off switch",
+      "summary": "Silk Design makes motion and smooth scrolling defaults. We held it outside the catalogue pending stack, reduced-motion, mobile, and result checks.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-04-motion-default-needs-an-off-switch",
+      "entrypoint": "research/2026-10-04-motion-default-needs-an-off-switch/index.html"
     }
   ]
 }
