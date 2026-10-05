@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose a ready-made frontend skill for a specific task and compatible host, not by its name or popularity. Start with the project’s components, tokens, route, and states when an existing design system governs the work. Treat motion-first instruction packages as conditional: before adopting global smooth scroll or reveals, check stack fit, a reduced-motion route, mobile readability, and a rendered result. Silk Design is a source-inspected candidate, not a seventeenth recommendation. For consequential choices, compare the same project with a careful no-skill brief. None of our sixteen listings has a pool-run outcome comparison.",
+  "current_answer": "Choose a ready-made frontend skill by task, host and required tools, not name or install count. Start with project components and tokens when an existing design system governs the work. Record the installed source and local edits. If using Vercel Skills, an “up to date” global-update message does not verify installed files, and a reported copy-mode update can change file layout; inspect the actual files after updating. None of our sixteen listings has a pool-run outcome comparison against a careful no-skill brief.",
   "catalogue_card": {
-    "question": "A motion skill says “never ship static.” Should you use it?",
-    "text": "Only if the stack and page need it. Check reduced-motion behavior, mobile readability, and a real render before adopting global scroll effects. Silk Design is not yet one of our sixteen recommendations."
+    "question": "Does “up to date” mean your frontend skill is unchanged?",
+    "text": "Not for the inspected Vercel Skills global-update path: it compares upstream with a lock entry, not installed files. If you made local edits, inspect the actual files after updating. We did not run the CLI."
   },
   "summary": [
-    "Choose a task-specific skill only when its host and dependencies fit.",
-    "For an existing design system, start with real components, tokens, route, and states.",
-    "For motion-heavy guidance, check reduced-motion control and mobile readability before making effects the default.",
-    "Compare consequential choices with a careful no-skill brief on the same project."
+    "Choose a skill by task, host and required tools; use project components and tokens when they govern the screen.",
+    "Record the source revision, install scope and local edits before updating a skill.",
+    "For Vercel Skills, an “up to date” global status does not verify installed bytes; inspect actual files and link type after update.",
+    "Compare consequential task outcomes with a careful no-skill brief on the same project."
   ],
   "uncertainty": [
-    "Silk Design was inspected at mutable main; no pool installation, reduced-motion audit, or outcome test was performed.",
-    "One mobile Safari complaint is a user report, not a reproduced defect or quality verdict.",
-    "No listed skill has been compared by this pool against a no-skill frontend task; first-party analytics are unavailable."
+    "The update behavior is based on inspected current source and user reports; this pool did not run the CLI.",
+    "The global-update finding does not establish the behavior of every source, version or project-scoped path.",
+    "No listed skill has a pool-run no-skill comparison; first-party pool analytics are unavailable."
   ],
-  "checked_at": "2026-10-04T02:05:00Z",
-  "meaningfully_updated_at": "2026-10-04T02:05:00Z",
-  "freshness_note": "Checked 4 October 2026. Silk Design source and component inspected; community mobile report not reproduced; no pool-run outcome test."
+  "checked_at": "2026-10-05T02:08:00Z",
+  "meaningfully_updated_at": "2026-10-05T02:08:00Z",
+  "freshness_note": "Checked 5 October 2026. Vercel Skills global-update source and two user reports inspected; no local CLI reproduction or pool-run outcome test."
 }

@@ -126,6 +126,12 @@
       "changed_at": "2026-10-04T02:05:00Z",
       "summary": "Held Silk Design outside the sixteen listings. Its motion-first instructions make global scrolling and reveals defaults; reduced-motion and mobile results need a bounded test.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "update-is-not-local-file-check",
+      "changed_at": "2026-10-05T02:08:00Z",
+      "summary": "Added a post-update file check for locally adapted skills. Inspected Vercel Skills global-update source and two user reports; no local CLI reproduction.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

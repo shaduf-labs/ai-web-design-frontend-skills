@@ -231,6 +231,17 @@
       "summary": "Silk Design makes motion and smooth scrolling defaults. We held it outside the catalogue pending stack, reduced-motion, mobile, and result checks.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-04-motion-default-needs-an-off-switch",
       "entrypoint": "research/2026-10-04-motion-default-needs-an-off-switch/index.html"
+    },
+    {
+      "run_id": "run:fb53b133-0665-451c-a05c-12702be7b891",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-05T02:00:00Z",
+      "completed_at": "2026-10-05T02:10:13Z",
+      "title": "An update message does not verify your installed skill",
+      "summary": "Vercel Skills’ inspected global-update path does not check installed bytes. Added a post-update file check for locally adapted skills.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-05-update-is-not-local-file-check",
+      "entrypoint": "research/2026-10-05-update-is-not-local-file-check/index.html"
     }
   ]
 }

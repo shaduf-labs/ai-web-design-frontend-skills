@@ -910,6 +910,56 @@
       "accessed_at": "2026-10-04T02:05:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-update-main-2026-10-05",
+      "source_type": "maintainer CLI source",
+      "title": "Vercel Skills update source",
+      "source_url": "https://github.com/vercel-labs/skills/blob/main/src/update.ts",
+      "claim": "Global update compares upstream with lock; the inspected path does not check installed bytes.",
+      "accessed_at": "2026-10-05T02:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-update-docs-2026-10-05",
+      "source_type": "maintainer documentation",
+      "title": "Vercel Skills update documentation",
+      "source_url": "https://github.com/vercel-labs/skills#skills-update",
+      "claim": "Maintainer documentation describes update scopes, not local integrity verification.",
+      "accessed_at": "2026-10-05T02:08:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-global-drift-1812-2026-10-05",
+      "source_type": "user bug report",
+      "title": "Global update drift report",
+      "source_url": "https://github.com/vercel-labs/skills/issues/1812",
+      "claim": "A user reports a modified global skill appearing up to date in version 1.5.20.",
+      "accessed_at": "2026-10-05T02:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-repair-draft-1850-2026-10-05",
+      "source_type": "unmerged proposed fix",
+      "title": "Draft repair pull request",
+      "source_url": "https://github.com/vercel-labs/skills/pull/1850",
+      "claim": "A proposed repair mode is a draft, not a released fix.",
+      "accessed_at": "2026-10-05T02:08:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-copy-mode-1199-2026-10-05",
+      "source_type": "user bug report",
+      "title": "Copy-mode update report",
+      "source_url": "https://github.com/vercel-labs/skills/issues/1199",
+      "claim": "A user reports copy-mode skills becoming symlinks after update.",
+      "accessed_at": "2026-10-05T02:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }
