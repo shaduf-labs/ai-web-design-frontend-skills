@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose a ready-made frontend skill by task, host and required tools, not name or install count. Start with project components and tokens when an existing design system governs the work. Record the installed source and local edits. If using Vercel Skills, an “up to date” global-update message does not verify installed files, and a reported copy-mode update can change file layout; inspect the actual files after updating. None of our sixteen listings has a pool-run outcome comparison against a careful no-skill brief.",
+  "current_answer": "For an existing-system dashboard, start with the actual user decision, data, components, tokens, and required empty, loading, and error states in a project brief. Do not add a design-skill stack by default. If the agent still needs a dashboard-specific workflow, PracticalSwan Frontend Design 2.0 is a conditional candidate; use Anthropic Frontend Design when visual identity is genuinely open, and Vercel Web Design Guidelines for a later file review. These are source-based routes, not tested outcomes. All sixteen listings still lack a pool-run no-skill comparison.",
   "catalogue_card": {
-    "question": "Does “up to date” mean your frontend skill is unchanged?",
-    "text": "Not for the inspected Vercel Skills global-update path: it compares upstream with a lock entry, not installed files. If you made local edits, inspect the actual files after updating. We did not run the CLI."
+    "question": "Which skill should you use for a dashboard?",
+    "text": "If the dashboard already has components and tokens, start with a project brief and no extra skill. PracticalSwan Frontend Design 2.0 is a conditional next trial for data clarity and missing states. We have not tested it against the no-skill route."
   },
   "summary": [
-    "Choose a skill by task, host and required tools; use project components and tokens when they govern the screen.",
-    "Record the source revision, install scope and local edits before updating a skill.",
-    "For Vercel Skills, an “up to date” global status does not verify installed bytes; inspect actual files and link type after update.",
-    "Compare consequential task outcomes with a careful no-skill brief on the same project."
+    "Start an existing-system dashboard with its user decision, real data, units, freshness, components, and required states.",
+    "PracticalSwan Frontend Design 2.0 is a conditional dashboard candidate; Anthropic Frontend Design fits when visual identity is open.",
+    "Use Vercel Web Design Guidelines for a named-file review after implementation, not as proof of the rendered result.",
+    "Compare one skill with the same careful no-skill brief before claiming improvement."
   ],
   "uncertainty": [
-    "The update behavior is based on inspected current source and user reports; this pool did not run the CLI.",
-    "The global-update finding does not establish the behavior of every source, version or project-scoped path.",
-    "No listed skill has a pool-run no-skill comparison; first-party pool analytics are unavailable."
+    "A fresh dashboard request is one user report, not measured demand.",
+    "The task routes come from pinned instructions; this pool has not installed or tested these skills on a dashboard.",
+    "First-party pool analytics remain unavailable."
   ],
-  "checked_at": "2026-10-05T02:08:00Z",
-  "meaningfully_updated_at": "2026-10-05T02:08:00Z",
-  "freshness_note": "Checked 5 October 2026. Vercel Skills global-update source and two user reports inspected; no local CLI reproduction or pool-run outcome test."
+  "checked_at": "2026-10-06T02:04:45Z",
+  "meaningfully_updated_at": "2026-10-06T02:04:45Z",
+  "freshness_note": "Checked 6 October 2026. Pinned instructions rechecked; one fresh dashboard request inspected. No skill installation, dashboard comparison, or first-party analytics."
 }

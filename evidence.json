@@ -960,6 +960,46 @@
       "accessed_at": "2026-10-05T02:08:00Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "dashboard-audience-ask-2026-10",
+      "source_type": "firsthand audience question",
+      "title": "Dashboard skill request",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1wvffzn/best_claude_frontenddesignuxui_skill_set/",
+      "claim": "One builder asked for a better dashboard design skill set after disappointing results.",
+      "accessed_at": "2026-10-06T02:04:45Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "practicalswan-dashboard-mode-recheck-2026-10",
+      "source_type": "pinned skill instructions",
+      "title": "PracticalSwan dashboard mode",
+      "source_url": "https://github.com/PracticalSwan/agent-skills/blob/afbb609dec5b7bf08c8384a013b6b3b535517da2/frontend-design/SKILL.md",
+      "claim": "The pinned skill routes dashboard work toward status, units, freshness, and missing-data states.",
+      "accessed_at": "2026-10-06T02:04:45Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-design-mode-recheck-2026-10",
+      "source_type": "pinned skill instructions",
+      "title": "Anthropic visual-direction instructions",
+      "source_url": "https://github.com/anthropics/skills/blob/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/frontend-design/SKILL.md",
+      "claim": "The pinned skill asks for distinctive palette, typography and layout choices.",
+      "accessed_at": "2026-10-06T02:04:45Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-file-review-recheck-2026-10",
+      "source_type": "pinned skill instructions",
+      "title": "Vercel file-review instructions",
+      "source_url": "https://github.com/vercel-labs/agent-skills/blob/063bee94c3f4df8453406c830b0a7df0f2860278/skills/web-design-guidelines/SKILL.md",
+      "claim": "The pinned skill reviews named files using rules fetched at runtime.",
+      "accessed_at": "2026-10-06T02:04:45Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

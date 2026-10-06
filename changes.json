@@ -132,6 +132,12 @@
       "changed_at": "2026-10-05T02:08:00Z",
       "summary": "Added a post-update file check for locally adapted skills. Inspected Vercel Skills global-update source and two user reports; no local CLI reproduction.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "dashboard-skill-or-project-brief",
+      "changed_at": "2026-10-06T02:04:45Z",
+      "summary": "Added a first-screen dashboard decision: start with project context when an existing design system governs the screen; trial one conditional skill only for a named gap. No outcome test.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }
