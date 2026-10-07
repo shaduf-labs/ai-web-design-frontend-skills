@@ -1000,6 +1000,36 @@
       "accessed_at": "2026-10-06T02:04:45Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-use-docs",
+      "source_type": "maintainer documentation",
+      "title": "Vercel Skills no-install documentation",
+      "source_url": "https://github.com/vercel-labs/skills/blob/main/README.md",
+      "claim": "The maintainer documents skills use as a one-skill route without persistent installation.",
+      "accessed_at": "2026-10-07T02:06:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-skills-use-source",
+      "source_type": "maintainer CLI source",
+      "title": "Vercel Skills use source",
+      "source_url": "https://github.com/vercel-labs/skills/blob/main/src/use.ts",
+      "claim": "The inspected source creates temporary skill files and either launches an agent with the prompt or writes the prompt to stdout.",
+      "accessed_at": "2026-10-07T02:06:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "skills-use-pipe-report-2081",
+      "source_type": "user bug report",
+      "title": "Piped output truncation report",
+      "source_url": "https://github.com/vercel-labs/skills/issues/2081",
+      "claim": "A user reported 512-byte piped output on Vercel Skills 1.5.23; the pool did not reproduce this.",
+      "accessed_at": "2026-10-07T02:06:30Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

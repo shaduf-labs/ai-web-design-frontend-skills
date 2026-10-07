@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "For an existing-system dashboard, start with the actual user decision, data, components, tokens, and required empty, loading, and error states in a project brief. Do not add a design-skill stack by default. If the agent still needs a dashboard-specific workflow, PracticalSwan Frontend Design 2.0 is a conditional candidate; use Anthropic Frontend Design when visual identity is genuinely open, and Vercel Web Design Guidelines for a later file review. These are source-based routes, not tested outcomes. All sixteen listings still lack a pool-run no-skill comparison.",
+  "current_answer": "Choose one frontend skill for a named task only after a careful no-skill brief. For an existing-system dashboard, begin with its user decision, data, components, tokens, and required states. Vercel Skills documents a no-install trial through skills use, but a reported 1.5.23 pipe defect means you should confirm the full instructions reached the agent; the documented --agent path avoids that pipe. This pool has not run the CLI or compared a listed skill with a no-skill result.",
   "catalogue_card": {
-    "question": "Which skill should you use for a dashboard?",
-    "text": "If the dashboard already has components and tokens, start with a project brief and no extra skill. PracticalSwan Frontend Design 2.0 is a conditional next trial for data clarity and missing states. We have not tested it against the no-skill route."
+    "question": "Can you trial a frontend skill without installing it?",
+    "text": "Vercel Skills documents a one-session use route. Try one skill against the same no-skill brief, but confirm the full instructions reached the agent: one user reported piped output truncation in version 1.5.23. We have not run the CLI or compared results."
   },
   "summary": [
-    "Start an existing-system dashboard with its user decision, real data, units, freshness, components, and required states.",
-    "PracticalSwan Frontend Design 2.0 is a conditional dashboard candidate; Anthropic Frontend Design fits when visual identity is open.",
-    "Use Vercel Web Design Guidelines for a named-file review after implementation, not as proof of the rendered result.",
-    "Compare one skill with the same careful no-skill brief before claiming improvement."
+    "Start an existing-system dashboard with its real user decision, data, components, tokens and required states.",
+    "Try one task-fit skill against the same careful no-skill brief; do not stack design skills by default.",
+    "For a temporary Vercel Skills trial, use the documented --agent route or verify the complete prompt arrived when piping.",
+    "Check the actual rendered result; no listed skill has a pool-run no-skill comparison."
   ],
   "uncertainty": [
-    "A fresh dashboard request is one user report, not measured demand.",
-    "The task routes come from pinned instructions; this pool has not installed or tested these skills on a dashboard.",
-    "First-party pool analytics remain unavailable."
+    "The no-install route and inspected CLI source are mutable; this pool did not run them.",
+    "A user reported pipe truncation in Vercel Skills 1.5.23; current versions and platforms were not tested.",
+    "None of the sixteen listings has a pool-run no-skill comparison; first-party analytics remain unavailable."
   ],
-  "checked_at": "2026-10-06T02:04:45Z",
-  "meaningfully_updated_at": "2026-10-06T02:04:45Z",
-  "freshness_note": "Checked 6 October 2026. Pinned instructions rechecked; one fresh dashboard request inspected. No skill installation, dashboard comparison, or first-party analytics."
+  "checked_at": "2026-10-07T02:06:30Z",
+  "meaningfully_updated_at": "2026-10-07T02:06:30Z",
+  "freshness_note": "Checked 7 October 2026. Maintainer documentation and main-branch CLI source inspected; one version-specific user bug report reviewed. No CLI execution, frontend comparison, or first-party analytics."
 }

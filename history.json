@@ -253,6 +253,17 @@
       "summary": "Added a conditional dashboard route from pinned skill instructions and one audience request. No outcome comparison was run.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-06-dashboard-skill-or-project-brief",
       "entrypoint": "research/2026-10-06-dashboard-skill-or-project-brief/index.html"
+    },
+    {
+      "run_id": "run:46f84e73-521b-44ed-a9e3-1c4995266a19",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-07T02:00:00Z",
+      "completed_at": "2026-10-07T02:06:30Z",
+      "title": "A no-install trial still needs a complete skill prompt",
+      "summary": "Added a direct trial route and a version-specific prompt-delivery warning. No CLI execution or outcome comparison was run.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-07-no-install-trial-needs-full-prompt",
+      "entrypoint": "research/2026-10-07-no-install-trial-needs-full-prompt/index.html"
     }
   ]
 }

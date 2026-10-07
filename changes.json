@@ -138,6 +138,12 @@
       "changed_at": "2026-10-06T02:04:45Z",
       "summary": "Added a first-screen dashboard decision: start with project context when an existing design system governs the screen; trial one conditional skill only for a named gap. No outcome test.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "no-install-trial-needs-full-prompt",
+      "changed_at": "2026-10-07T02:06:30Z",
+      "summary": "Added a one-skill, no-install trial route and full-prompt check. A version-specific pipe truncation is a user report, not a pool reproduction.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }
