@@ -1030,6 +1030,46 @@
       "accessed_at": "2026-10-07T02:06:30Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-pinned-brief-precedence-2026-10-08",
+      "source_type": "official pinned skill source",
+      "title": "Anthropic Frontend Design at 41bbe19",
+      "source_url": "https://github.com/anthropics/skills/blob/41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f/skills/frontend-design/SKILL.md",
+      "claim": "The skill asks for palette and type choices but explicitly says to follow a fixed visual brief.",
+      "accessed_at": "2026-10-08T02:07:22Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-design-system-pr-1561-2026-10-08",
+      "source_type": "contributor pull request",
+      "title": "Proposed guidance for established design systems",
+      "source_url": "https://github.com/anthropics/skills/pull/1561",
+      "claim": "A contributor proposed detailed established-system guidance; the proposal was open when checked and is not the pinned skill.",
+      "accessed_at": "2026-10-08T02:07:22Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "product-design-get-context-main",
+      "source_type": "official skill source",
+      "title": "OpenAI Product Design Get Context",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/product-design/skills/get-context/SKILL.md",
+      "claim": "Requires design target and intended user outcome before UI implementation; the file refers to plugin-scoped router and user context.",
+      "accessed_at": "2026-10-09T02:03:01Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "product-design-ideate-brief-gate-recheck",
+      "source_type": "official skill source",
+      "title": "OpenAI Product Design Ideate",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/product-design/skills/ideate/SKILL.md",
+      "claim": "Current instructions prohibit image generation until Get Context has satisfied the minimum brief.",
+      "accessed_at": "2026-10-09T02:03:01Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

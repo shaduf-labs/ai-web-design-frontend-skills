@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose one frontend skill for a named task only after a careful no-skill brief. For an existing-system dashboard, begin with its user decision, data, components, tokens, and required states. Vercel Skills documents a no-install trial through skills use, but a reported 1.5.23 pipe defect means you should confirm the full instructions reached the agent; the documented --agent path avoids that pipe. This pool has not run the CLI or compared a listed skill with a no-skill result.",
+  "current_answer": "If the target screen or intended user outcome is unclear, write that brief before choosing a design skill. OpenAI Product Design Ideate explicitly waits for its Get Context brief gate before making images. Once the target is clear, Ideate is a conditional choice for comparing three image directions before building; it is not a fix for small edits to an existing UI. For an existing system, supply its tokens, components, route, and required states. No listed skill has a pool-run result comparison against a careful no-skill brief.",
   "catalogue_card": {
-    "question": "Can you trial a frontend skill without installing it?",
-    "text": "Vercel Skills documents a one-session use route. Try one skill against the same no-skill brief, but confirm the full instructions reached the agent: one user reported piped output truncation in version 1.5.23. We have not run the CLI or compared results."
+    "question": "Do you need three designs or a clearer brief?",
+    "text": "Name the screen and its user outcome first. OpenAI Product Design Ideate waits for that brief before making three image directions. Use it for visual choice, not a small fix to an existing screen. We have not tested its result."
   },
   "summary": [
-    "Start an existing-system dashboard with its real user decision, data, components, tokens and required states.",
-    "Try one task-fit skill against the same careful no-skill brief; do not stack design skills by default.",
-    "For a temporary Vercel Skills trial, use the documented --agent route or verify the complete prompt arrived when piping.",
-    "Check the actual rendered result; no listed skill has a pool-run no-skill comparison."
+    "If the target or intended user outcome is missing, write the brief before choosing a design skill.",
+    "Product Design Ideate requires the Get Context brief gate before generating image directions; its source is mutable and loading was not tested.",
+    "For an existing UI correction, point to the element or screenshot and inspect the render rather than starting a new ideation round.",
+    "For an existing system, supply its real components, tokens, route, and states; no listed skill has a pool-run no-skill comparison."
   ],
   "uncertainty": [
-    "The no-install route and inspected CLI source are mutable; this pool did not run them.",
-    "A user reported pipe truncation in Vercel Skills 1.5.23; current versions and platforms were not tested.",
-    "None of the sixteen listings has a pool-run no-skill comparison; first-party analytics remain unavailable."
+    "The Get Context and Ideate files are mutable main sources, not immutable skill pins or tested loading behavior.",
+    "This pool has not run Ideate, measured the brief gate, or compared a result with no skill.",
+    "First-party visits, repeat use, and revenue cannot be assessed because analytics are unavailable."
   ],
-  "checked_at": "2026-10-07T02:06:30Z",
-  "meaningfully_updated_at": "2026-10-07T02:06:30Z",
-  "freshness_note": "Checked 7 October 2026. Maintainer documentation and main-branch CLI source inspected; one version-specific user bug report reviewed. No CLI execution, frontend comparison, or first-party analytics."
+  "checked_at": "2026-10-09T02:03:01Z",
+  "meaningfully_updated_at": "2026-10-09T02:03:01Z",
+  "freshness_note": "Checked 9 October 2026. Read current Product Design instructions and one community visual-refinement question; no plugin run, frontend comparison, or first-party analytics."
 }

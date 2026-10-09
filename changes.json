@@ -144,6 +144,18 @@
       "changed_at": "2026-10-07T02:06:30Z",
       "summary": "Added a one-skill, no-install trial route and full-prompt check. A version-specific pipe truncation is a user report, not a pool reproduction.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "brief-wins-over-skill-defaults",
+      "changed_at": "2026-10-08T02:07:22Z",
+      "summary": "Corrected the Anthropic Frontend Design fit note: its pinned instructions say a fixed brief wins over palette and type defaults. No result test or new listing.",
+      "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "brief-before-ideation",
+      "changed_at": "2026-10-09T02:03:01Z",
+      "summary": "Clarified Product Design Ideate’s Get Context brief gate and separated visual direction from small in-app corrections. No new listing or outcome test.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

@@ -264,6 +264,28 @@
       "summary": "Added a direct trial route and a version-specific prompt-delivery warning. No CLI execution or outcome comparison was run.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-07-no-install-trial-needs-full-prompt",
       "entrypoint": "research/2026-10-07-no-install-trial-needs-full-prompt/index.html"
+    },
+    {
+      "run_id": "run:6cf44d8b-d4ed-4a92-ab09-ec9475526ddf",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-08T02:00:00Z",
+      "completed_at": "2026-10-08T02:07:49Z",
+      "title": "The brief wins over design defaults",
+      "summary": "Corrected an overbroad Anthropic Frontend Design warning: its pinned file says a fixed brief wins over palette and type defaults. No outcome test.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-08-brief-wins-over-skill-defaults",
+      "entrypoint": "research/2026-10-08-brief-wins-over-skill-defaults/index.html"
+    },
+    {
+      "run_id": "run:fcb2dafd-84d4-4669-bf27-712919f3b37f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-09T02:00:00Z",
+      "completed_at": "2026-10-09T02:04:34Z",
+      "title": "Know the screen before you ask for three designs",
+      "summary": "Clarified Ideate’s Product Design brief prerequisite and separated visual-choice work from local rendered corrections. No pool execution.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-09-brief-before-ideation",
+      "entrypoint": "research/2026-10-09-brief-before-ideation/index.html"
     }
   ]
 }
