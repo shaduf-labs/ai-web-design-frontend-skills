@@ -1070,6 +1070,46 @@
       "accessed_at": "2026-10-09T02:03:01Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-web-artifacts-builder-main-2026-10-10",
+      "source_type": "official skill source",
+      "title": "Anthropic Web Artifacts Builder",
+      "source_url": "https://github.com/anthropics/skills/blob/main/skills/web-artifacts-builder/SKILL.md",
+      "claim": "Current instructions initialize a React project and bundle one HTML file for a claude.ai artifact; visual testing is optional.",
+      "accessed_at": "2026-10-10T02:06:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-frontend-design-main-2026-10-10",
+      "source_type": "official skill source",
+      "title": "Anthropic Frontend Design",
+      "source_url": "https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md",
+      "claim": "Current instructions target visual direction for new or reshaped UI, not single-file artifact packaging.",
+      "accessed_at": "2026-10-10T02:06:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-skill-distinction-issue-272",
+      "source_type": "community issue",
+      "title": "Skill-distinction question",
+      "source_url": "https://github.com/anthropics/skills/issues/272",
+      "claim": "One user reports confusion between Frontend Design and Web Artifacts Builder.",
+      "accessed_at": "2026-10-10T02:06:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "reddit-live-site-skill-choice-1usa6fz",
+      "source_type": "community question",
+      "title": "Live-site design-skill choice",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1usa6fz/im_overwhelmed_by_design_options_skills_plugins/",
+      "claim": "One live-site builder asks for a route to improve color and typography without replacing layout.",
+      "accessed_at": "2026-10-10T02:06:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

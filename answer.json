@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "If the target screen or intended user outcome is unclear, write that brief before choosing a design skill. OpenAI Product Design Ideate explicitly waits for its Get Context brief gate before making images. Once the target is clear, Ideate is a conditional choice for comparing three image directions before building; it is not a fix for small edits to an existing UI. For an existing system, supply its tokens, components, route, and required states. No listed skill has a pool-run result comparison against a careful no-skill brief.",
+  "current_answer": "For a live site whose layout is sound but whose type or colors need work, first inspect representative screenshots and ask for a small token-level change in the existing codebase. Do not use Anthropic Web Artifacts Builder for that job: its current instructions package complex claude.ai artifacts into one HTML file. If the target screen or user outcome is unclear, write a brief before choosing a design skill. Product Design Ideate is conditional for comparing visual directions after that brief; Anthropic Frontend Design is a visual-direction guide, not a guaranteed improvement. No listed skill has a pool-run result comparison against a careful no-skill brief.",
   "catalogue_card": {
-    "question": "Do you need three designs or a clearer brief?",
-    "text": "Name the screen and its user outcome first. OpenAI Product Design Ideate waits for that brief before making three image directions. Use it for visual choice, not a small fix to an existing screen. We have not tested its result."
+    "question": "Is this a live site or a chat artifact?",
+    "text": "For a live site with a sound layout, inspect screenshots and change its own type or color tokens first. Anthropic Web Artifacts Builder packages complex Claude chat artifacts into one HTML file; it is not a website-redesign shortcut. Neither route has a pool-run result test."
   },
   "summary": [
-    "If the target or intended user outcome is missing, write the brief before choosing a design skill.",
-    "Product Design Ideate requires the Get Context brief gate before generating image directions; its source is mutable and loading was not tested.",
-    "For an existing UI correction, point to the element or screenshot and inspect the render rather than starting a new ideation round.",
-    "For an existing system, supply its real components, tokens, route, and states; no listed skill has a pool-run no-skill comparison."
+    "For a live site with acceptable layout, start with its screenshots, tokens, and a bounded change in its actual codebase.",
+    "Anthropic Web Artifacts Builder packages complex claude.ai artifacts into one HTML file; hold it outside the general website-redesign shortlist.",
+    "Anthropic Frontend Design gives visual-direction guidance for new or reshaped UI; its current source and outcomes remain untested here.",
+    "No listed skill has a pool-run no-skill comparison."
   ],
   "uncertainty": [
-    "The Get Context and Ideate files are mutable main sources, not immutable skill pins or tested loading behavior.",
-    "This pool has not run Ideate, measured the brief gate, or compared a result with no skill.",
+    "Anthropic Web Artifacts Builder and current Frontend Design files are mutable main sources, not tested loading or output.",
+    "This pool has not compared a bounded live-site token pass with a loaded design skill.",
     "First-party visits, repeat use, and revenue cannot be assessed because analytics are unavailable."
   ],
-  "checked_at": "2026-10-09T02:03:01Z",
-  "meaningfully_updated_at": "2026-10-09T02:03:01Z",
-  "freshness_note": "Checked 9 October 2026. Read current Product Design instructions and one community visual-refinement question; no plugin run, frontend comparison, or first-party analytics."
+  "checked_at": "2026-10-10T02:06:30Z",
+  "meaningfully_updated_at": "2026-10-10T02:06:30Z",
+  "freshness_note": "Checked 10 October 2026. Read current Anthropic skill files and two user questions; no skill run, frontend comparison, or first-party analytics."
 }

@@ -156,6 +156,12 @@
       "changed_at": "2026-10-09T02:03:01Z",
       "summary": "Clarified Product Design Ideate’s Get Context brief gate and separated visual direction from small in-app corrections. No new listing or outcome test.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "artifact-builder-not-site-redesign",
+      "changed_at": "2026-10-10T02:06:30Z",
+      "summary": "Separated Anthropic Web Artifacts Builder’s single-file Claude artifact workflow from live-site visual correction. No new listing or outcome test.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

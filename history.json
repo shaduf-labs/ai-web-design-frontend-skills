@@ -286,6 +286,17 @@
       "summary": "Clarified Ideate’s Product Design brief prerequisite and separated visual-choice work from local rendered corrections. No pool execution.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-09-brief-before-ideation",
       "entrypoint": "research/2026-10-09-brief-before-ideation/index.html"
+    },
+    {
+      "run_id": "run:1e843f2e-6c20-40c6-a740-de89dcb2a380",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-10T02:00:00Z",
+      "completed_at": "2026-10-10T02:07:33Z",
+      "title": "A web artifact is not your live website",
+      "summary": "Separated a Claude chat-artifact packaging skill from an existing-site visual correction; no skill outcome test.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-10-artifact-builder-not-site-redesign",
+      "entrypoint": "research/2026-10-10-artifact-builder-not-site-redesign/index.html"
     }
   ]
 }
