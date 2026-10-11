@@ -162,6 +162,12 @@
       "changed_at": "2026-10-10T02:06:30Z",
       "summary": "Separated Anthropic Web Artifacts Builder’s single-file Claude artifact workflow from live-site visual correction. No new listing or outcome test.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "concept-work-vs-release-checks",
+      "changed_at": "2026-10-11T02:04:43Z",
+      "summary": "Separated visual concept work from targeted frontend QA and added a project-specific release-check gate. Two skill files inspected; no outcome test.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

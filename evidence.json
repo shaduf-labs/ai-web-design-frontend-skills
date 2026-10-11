@@ -1110,6 +1110,36 @@
       "accessed_at": "2026-10-10T02:06:30Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "frontend-app-builder-concept-gate-2026-10-11",
+      "source_type": "official skill source",
+      "title": "OpenAI Frontend App Builder pinned instructions",
+      "source_url": "https://github.com/openai/plugins/blob/789aa61fe81cb7afe37aaa0881ecdcd87bb6698d/plugins/build-web-apps/skills/frontend-app-builder/SKILL.md",
+      "claim": "The pinned skill requires Image Gen concepts for major new visual work and browser comparison, with an opt-out and small existing-system fix exception.",
+      "accessed_at": "2026-10-11T02:04:43Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "frontend-testing-debugging-flow-gate-2026-10-11",
+      "source_type": "official skill source",
+      "title": "OpenAI Frontend Testing & Debugging current instructions",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/build-web-apps/skills/frontend-testing-debugging/SKILL.md",
+      "claim": "The current skill starts with a target flow and asks for rendered page, console, screenshot, and interaction evidence. It is a mutable author source, not a pool-run result.",
+      "accessed_at": "2026-10-11T02:04:43Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "template-builder-done-checklist-2026-10-11",
+      "source_type": "firsthand commercial self-report",
+      "title": "Template maker on written release criteria",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1x1spxt/one_template_used_to_take_me_a_month_i_shipped_15/",
+      "claim": "A template seller reports using a written definition of done for responsive, accessibility, interaction, and packaging checks; the report was not independently verified.",
+      "accessed_at": "2026-10-11T02:04:43Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

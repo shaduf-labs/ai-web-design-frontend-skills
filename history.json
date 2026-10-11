@@ -297,6 +297,17 @@
       "summary": "Separated a Claude chat-artifact packaging skill from an existing-site visual correction; no skill outcome test.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-10-artifact-builder-not-site-redesign",
       "entrypoint": "research/2026-10-10-artifact-builder-not-site-redesign/index.html"
+    },
+    {
+      "run_id": "run:7b51380b-f102-4f74-a68b-27b3633e287d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-11T02:00:00Z",
+      "completed_at": "2026-10-11T02:05:04Z",
+      "title": "Need a new design, or proof the current one works?",
+      "summary": "Separated concept work from targeted QA and added release checks before judging a skill output; no outcome test.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-11-concept-work-vs-release-checks",
+      "entrypoint": "research/2026-10-11-concept-work-vs-release-checks/index.html"
     }
   ]
 }
