@@ -266,8 +266,8 @@
       "source_type": "official skill source",
       "title": "Vercel Agent Browser discovery skill, version 0.38.1",
       "source_url": "https://raw.githubusercontent.com/vercel-labs/agent-browser/v0.38.1/skills/agent-browser/SKILL.md",
-      "claim": "The hidden discovery skill names Codex among supported agents and directs the agent to version-matched CLI-served core instructions; this is author-published workflow guidance, not a pool run.",
-      "accessed_at": "2026-09-19T02:16:00Z",
+      "claim": "The tagged SKILL.md is a discovery stub that directs agents to load the full version-matched core instructions from the installed CLI.",
+      "accessed_at": "2026-10-12T03:14:30Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -276,8 +276,8 @@
       "source_type": "official skill source",
       "title": "Vercel Agent Browser core skill, version 0.38.1",
       "source_url": "https://raw.githubusercontent.com/vercel-labs/agent-browser/v0.38.1/skill-data/core/SKILL.md",
-      "claim": "The core skill documents browser navigation, accessible-tree snapshots, named-session guidance, screenshots, and conditional capture; this is not a pool verification of an interface.",
-      "accessed_at": "2026-09-19T02:16:00Z",
+      "claim": "The tagged core file contains the operational navigation, snapshot, and screenshot workflow; the pool has not tested its runtime behavior.",
+      "accessed_at": "2026-10-12T03:14:30Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },

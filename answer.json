@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by unresolved work, not by the number of frontend skills. If a new surface lacks an approved visual target, Frontend App Builder is a conditional concept-and-render path. If a known route needs a bug fix or targeted validation, define the expected state and consider Frontend Testing & Debugging instead. Write project-specific release checks for responsive, interaction, and failure states before treating any skill output as ready. For a sound live site needing only type or color correction, start with screenshots and a small token change. No listed skill has a pool-run comparison against a careful no-skill brief.",
+  "current_answer": "Choose by unresolved work, not by the number of frontend skills. If a new surface lacks an approved visual target, Frontend App Builder is a conditional concept-and-render path. If a known route needs a bug fix or targeted validation, define the expected state and consider Frontend Testing & Debugging instead. Write project-specific release checks before treating any output as ready. For Agent Browser, the tagged SKILL.md is only a discovery stub: load the version-matched core instructions from the installed CLI and record what the agent received. No listed skill has a pool-run comparison against a careful no-skill brief.",
   "catalogue_card": {
-    "question": "Need a new design, or proof the current one works?",
-    "text": "If a visual target is missing, Frontend App Builder is a conditional concept-first path. If the screen exists and a change needs checking, define the expected state and use a targeted QA loop. Neither skill sets your release criteria or has a pool-run result comparison."
+    "question": "Does Agent Browser’s SKILL.md contain the full workflow?",
+    "text": "No. The v0.38.1 file is a discovery stub. Load the core instructions from the installed CLI and record the package version before using browser output as evidence. We have not run that workflow."
   },
   "summary": [
-    "Choose concept work only when a new visual target is the unresolved decision.",
-    "For a known route or bug, define the expected state and consider Frontend Testing & Debugging for targeted rendered validation.",
-    "Write responsive, interaction, and failure-state acceptance checks before treating a skill output as ready.",
+    "Agent Browser v0.38.1 links to a discovery stub; the tagged core source contains the full browser workflow.",
+    "Record the installed package version and actual `skills get core` output before attributing a result to that skill.",
+    "A browser capture still needs the route, expected state, viewport, and session context.",
     "No listed skill has a pool-run no-skill comparison."
   ],
   "uncertainty": [
-    "The two OpenAI skills were source-inspected, not installed or run in this pool.",
-    "The template-maker productivity and quality account is a self-report; no independent result or comparative test was inspected.",
+    "Agent Browser v0.38.1 was source-inspected, not installed or loaded in this pool.",
+    "No listed skill has a pool-run no-skill outcome comparison.",
     "First-party visits, repeat use, and revenue cannot be assessed because analytics are unavailable."
   ],
-  "checked_at": "2026-10-11T02:04:43Z",
-  "meaningfully_updated_at": "2026-10-11T02:04:43Z",
-  "freshness_note": "Checked 11 October 2026. Read two OpenAI skill files and two user posts; no skill run, template audit, outcome comparison, or first-party analytics."
+  "checked_at": "2026-10-12T03:14:30Z",
+  "meaningfully_updated_at": "2026-10-12T03:14:30Z",
+  "freshness_note": "Checked 12 October 2026. Re-read the tagged Agent Browser discovery and core files; no CLI load, browser run, outcome comparison, or first-party analytics."
 }

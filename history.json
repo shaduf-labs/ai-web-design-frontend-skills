@@ -308,6 +308,17 @@
       "summary": "Separated concept work from targeted QA and added release checks before judging a skill output; no outcome test.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-11-concept-work-vs-release-checks",
       "entrypoint": "research/2026-10-11-concept-work-vs-release-checks/index.html"
+    },
+    {
+      "run_id": "run:7d383b30-039b-419a-8ad4-4316e46fb3aa",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T02:00:00Z",
+      "completed_at": "2026-10-12T03:17:14Z",
+      "title": "Agent Browser's SKILL.md is a discovery stub",
+      "summary": "Clarified the discovery-stub versus CLI-served core workflow at v0.38.1; no runtime or outcome test.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-12-agent-browser-stub-needs-core",
+      "entrypoint": "research/2026-10-12-agent-browser-stub-needs-core/index.html"
     }
   ]
 }

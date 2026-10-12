@@ -168,6 +168,12 @@
       "changed_at": "2026-10-11T02:04:43Z",
       "summary": "Separated visual concept work from targeted frontend QA and added a project-specific release-check gate. Two skill files inspected; no outcome test.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "agent-browser-stub-needs-core",
+      "changed_at": "2026-10-12T03:14:30Z",
+      "summary": "Clarified that Agent Browser v0.38.1 SKILL.md is a discovery stub and linked the full tagged core source. No installation or outcome test.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }
