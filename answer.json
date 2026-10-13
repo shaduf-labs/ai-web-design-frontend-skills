@@ -1,23 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by unresolved work, not by the number of frontend skills. If a new surface lacks an approved visual target, Frontend App Builder is a conditional concept-and-render path. If a known route needs a bug fix or targeted validation, define the expected state and consider Frontend Testing & Debugging instead. Write project-specific release checks before treating any output as ready. For Agent Browser, the tagged SKILL.md is only a discovery stub: load the version-matched core instructions from the installed CLI and record what the agent received. No listed skill has a pool-run comparison against a careful no-skill brief.",
+  "current_answer": "Choose a skill by task and platform. Frontend App Builder is a conditional concept-and-render path for a new visual target; Frontend Testing & Debugging is a conditional QA route for a known screen and expected state. OpenAI Game UI Frontend is for browser-game HUDs or menus where playfield visibility and camera or input boundaries matter. Its mobile rules refer to a mobile browser viewport, not a native-app workflow. For an ordinary web-app screen, supply the real route, existing components, a visual reference, and named states before adding a skill. No listed skill has a pool-run comparison against a careful no-skill brief.",
   "catalogue_card": {
-    "question": "Does Agent Browser’s SKILL.md contain the full workflow?",
-    "text": "No. The v0.38.1 file is a discovery stub. Load the core instructions from the installed CLI and record the package version before using browser output as evidence. We have not run that workflow."
+    "question": "Is a game UI skill right for a mobile app?",
+    "text": "Only if it is a browser game. OpenAI Game UI Frontend describes browser-game HUDs, menus, and mobile browser layouts. It is not an established fit for a native mobile app, and we have not tested its result."
   },
   "summary": [
-    "Agent Browser v0.38.1 links to a discovery stub; the tagged core source contains the full browser workflow.",
-    "Record the installed package version and actual `skills get core` output before attributing a result to that skill.",
-    "A browser capture still needs the route, expected state, viewport, and session context.",
-    "No listed skill has a pool-run no-skill comparison."
+    "Game UI Frontend addresses browser-game HUDs and overlays; its mobile rules concern a mobile browser viewport.",
+    "For a normal web-app screen, start with the real route, existing components, a visual reference, and required states.",
+    "This catalogue has not established a native mobile-app skill fit.",
+    "The skill source is mutable and no pool-run outcome comparison exists."
   ],
   "uncertainty": [
-    "Agent Browser v0.38.1 was source-inspected, not installed or loaded in this pool.",
+    "Game UI Frontend main is mutable and was source-inspected, not installed or run in this pool.",
+    "The native-app exclusion is a source-scope inference; no native-app comparison was performed.",
     "No listed skill has a pool-run no-skill outcome comparison.",
     "First-party visits, repeat use, and revenue cannot be assessed because analytics are unavailable."
   ],
-  "checked_at": "2026-10-12T03:14:30Z",
-  "meaningfully_updated_at": "2026-10-12T03:14:30Z",
-  "freshness_note": "Checked 12 October 2026. Re-read the tagged Agent Browser discovery and core files; no CLI load, browser run, outcome comparison, or first-party analytics."
+  "checked_at": "2026-10-13T02:06:30Z",
+  "meaningfully_updated_at": "2026-10-13T02:06:30Z",
+  "freshness_note": "Checked 13 October 2026. Read the current Game UI Frontend source and linked prompt recipes; no installation, game run, native-app comparison, or first-party analytics."
 }

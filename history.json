@@ -319,6 +319,17 @@
       "summary": "Clarified the discovery-stub versus CLI-served core workflow at v0.38.1; no runtime or outcome test.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-12-agent-browser-stub-needs-core",
       "entrypoint": "research/2026-10-12-agent-browser-stub-needs-core/index.html"
+    },
+    {
+      "run_id": "run:1adbfef7-d796-40b8-8280-f2985e3958d1",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-13T02:00:00Z",
+      "completed_at": "2026-10-13T02:07:24Z",
+      "title": "A mobile browser game is not a native mobile app",
+      "summary": "Clarified the Game UI Frontend platform boundary and a no-skill trial design. No installation or outcome comparison was performed.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-13-mobile-game-is-not-native-app",
+      "entrypoint": "research/2026-10-13-mobile-game-is-not-native-app/index.html"
     }
   ]
 }

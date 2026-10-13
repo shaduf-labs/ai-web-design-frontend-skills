@@ -174,6 +174,12 @@
       "changed_at": "2026-10-12T03:14:30Z",
       "summary": "Clarified that Agent Browser v0.38.1 SKILL.md is a discovery stub and linked the full tagged core source. No installation or outcome test.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "browser-game-not-native-mobile",
+      "changed_at": "2026-10-13T02:06:30Z",
+      "summary": "Clarified that Game UI Frontend targets browser-game HUDs and responsive browser layouts, not native mobile apps; added a platform gate and a concrete comparison plan without claiming a result.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

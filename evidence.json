@@ -1140,6 +1140,36 @@
       "accessed_at": "2026-10-11T02:04:43Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-game-ui-source-recheck-2026-10-13",
+      "source_type": "official skill source",
+      "title": "OpenAI Game UI Frontend",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/game-studio/skills/game-ui-frontend/SKILL.md",
+      "claim": "The current author file describes browser-game HUDs, menus, responsive browser layouts, and camera or input constraints; no native-app workflow is specified.",
+      "accessed_at": "2026-10-13T02:06:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-game-ui-prompt-recipes-2026-10-13",
+      "source_type": "official prompt reference",
+      "title": "OpenAI Game Studio Frontend Prompts",
+      "source_url": "https://github.com/openai/plugins/blob/main/plugins/game-studio/references/frontend-prompts.md",
+      "claim": "The linked prompt recipes explicitly frame the task as browser-game UI and ask for viewpoint, player verbs, HUD zones, and playfield protection.",
+      "accessed_at": "2026-10-13T02:06:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "openai-academy-design-context-2026-10-13",
+      "source_type": "official workflow example",
+      "title": "Design context and iteration with Codex",
+      "source_url": "https://academy.openai.com/en/public/clubs/champions-ecqup/videos/design-context-and-iteration-with-codex-2026-07-09",
+      "claim": "An OpenAI Academy speaker describes using visual references and optionally a project design.md to retain design feedback; this is a workflow example, not a comparative result.",
+      "accessed_at": "2026-10-13T02:06:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
