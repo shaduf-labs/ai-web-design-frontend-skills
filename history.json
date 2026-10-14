@@ -330,6 +330,17 @@
       "summary": "Clarified the Game UI Frontend platform boundary and a no-skill trial design. No installation or outcome comparison was performed.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-13-mobile-game-is-not-native-app",
       "entrypoint": "research/2026-10-13-mobile-game-is-not-native-app/index.html"
+    },
+    {
+      "run_id": "report-44ba0b3abe3456976691334b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-14T02:04:00Z",
+      "completed_at": "2026-10-14T02:09:00Z",
+      "title": "OpenDesign has two different frontend skill files",
+      "summary": "Separated the removed OpenAI pointer from a substantive Anthropic adaptation. No installation or result comparison.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-14-opendesign-two-frontend-files",
+      "entrypoint": "research/2026-10-14-opendesign-two-frontend-files/index.html"
     }
   ]
 }

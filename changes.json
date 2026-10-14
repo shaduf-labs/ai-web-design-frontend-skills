@@ -180,6 +180,12 @@
       "changed_at": "2026-10-13T02:06:30Z",
       "summary": "Clarified that Game UI Frontend targets browser-game HUDs and responsive browser layouts, not native mobile apps; added a platform gate and a concrete comparison plan without claiming a result.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "opendesign-two-frontend-files",
+      "changed_at": "2026-10-14T02:07:00Z",
+      "summary": "Separated OpenDesign’s stale OpenAI frontend-skill pointer from its distinct, substantive Anthropic frontend-design adaptation; no new catalogue listing or result test.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

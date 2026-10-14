@@ -1170,6 +1170,36 @@
       "accessed_at": "2026-10-13T02:06:30Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "opendesign-frontend-design-main-2026-10-14",
+      "source_type": "third-party adapted skill source",
+      "title": "OpenDesign frontend-design",
+      "source_url": "https://github.com/nexu-io/open-design/blob/main/skills/frontend-design/SKILL.md",
+      "claim": "A separate substantive Anthropic adaptation puts existing tokens and components first; its current main link is mutable.",
+      "accessed_at": "2026-10-14T02:07:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "opendesign-frontend-skill-stub-2026-10-14",
+      "source_type": "third-party directory entry",
+      "title": "OpenDesign frontend-skill",
+      "source_url": "https://github.com/nexu-io/open-design/blob/main/skills/frontend-skill/SKILL.md",
+      "claim": "This similarly named file remains a pointer to the removed OpenAI curated bundle, not the adapted Anthropic workflow.",
+      "accessed_at": "2026-10-14T02:07:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "opendesign-frontend-design-license-2026-10-14",
+      "source_type": "license file",
+      "title": "OpenDesign frontend-design license",
+      "source_url": "https://raw.githubusercontent.com/nexu-io/open-design/main/skills/frontend-design/LICENSE.txt",
+      "claim": "The folder supplies Apache-2.0 license text.",
+      "accessed_at": "2026-10-14T02:07:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
