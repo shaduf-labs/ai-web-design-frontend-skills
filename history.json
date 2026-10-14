@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "runs": [
     {
-      "run_id": "run:9d60b6a5-aa6a-4a5f-b973-ce32a4c3ece6",
+      "run_id": "report-73135a376bde1aec40020d97",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-14T18:58:03Z",
@@ -13,7 +13,7 @@
       "entrypoint": "research/2026-09-14-initial-skill-radar/index.html"
     },
     {
-      "run_id": "run:f3bb8165-296f-48ee-8247-61fb9e87b00d",
+      "run_id": "report-6b1be56a02219f55fb49fb54",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-15T02:02:00Z",
@@ -24,7 +24,7 @@
       "entrypoint": "research/2026-09-15-motion-and-composition/index.html"
     },
     {
-      "run_id": "run:f2bb8c1d-2386-41a9-a583-6e77bfb1a859",
+      "run_id": "report-cf9681305cae2de98705cdbb",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-16T02:00:00Z",
@@ -35,7 +35,7 @@
       "entrypoint": "research/2026-09-16-scope-before-stack/index.html"
     },
     {
-      "run_id": "run:ee56381a-453f-44ed-bd9d-5a5f3c256366",
+      "run_id": "report-e916c22582283486ff4dab21",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-17T02:00:00Z",
@@ -46,7 +46,7 @@
       "entrypoint": "research/2026-09-17-visual-proof-path/index.html"
     },
     {
-      "run_id": "run:ee7e9692-234c-47c0-8db2-89dc2cac7930",
+      "run_id": "report-6fd1e4dbe9c0682c01eba3a0",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-18T02:00:00Z",
@@ -57,7 +57,7 @@
       "entrypoint": "research/2026-09-18-audit-needs-real-flow/index.html"
     },
     {
-      "run_id": "run:early:df711bd85e079fa5f5c1976874b25ce0",
+      "run_id": "report-c5fead255b4f40cce8981930",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-19T02:00:00Z",
@@ -68,7 +68,7 @@
       "entrypoint": "research/2026-09-19-browser-proves-state-not-taste/index.html"
     },
     {
-      "run_id": "run:8c85d744-fd5e-433c-bfc2-5ffd5db3d4d8",
+      "run_id": "report-99372abd709a58afce3e4ae9",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-20T02:00:00Z",
@@ -79,7 +79,7 @@
       "entrypoint": "research/2026-09-20-dogfood-the-flow-not-the-design-system/index.html"
     },
     {
-      "run_id": "run:fa794152-7aa2-4e84-9f0c-039d26449fa4",
+      "run_id": "report-52544a2540acf2d766ef9e1f",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-21T02:00:00Z",
@@ -90,7 +90,7 @@
       "entrypoint": "research/2026-09-21-qa-needs-the-right-browser-surface/index.html"
     },
     {
-      "run_id": "run:51bdec62-1c08-4298-b0f7-18332bff52b2",
+      "run_id": "report-c45dc25b35d66b5ee6e46b34",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-22T02:00:00Z",
@@ -101,7 +101,7 @@
       "entrypoint": "research/2026-09-22-design-needs-complete-states/index.html"
     },
     {
-      "run_id": "run:12de6c99-9057-4305-9d9a-0dce45aca8db",
+      "run_id": "report-991e23de190e4e84251cb8ea",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-23T02:00:00Z",
@@ -112,7 +112,7 @@
       "entrypoint": "research/2026-09-23-design-feedback-round-trip/index.html"
     },
     {
-      "run_id": "run:67f7d71f-93b5-4ec1-92ca-c3b99aa26fd3",
+      "run_id": "report-404f0983d93c76abc3e295b9",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-24T02:00:00Z",
@@ -123,7 +123,7 @@
       "entrypoint": "research/2026-09-24-package-before-process/index.html"
     },
     {
-      "run_id": "run:c765b974-fdd4-49f6-9314-95cd0a90fcf4",
+      "run_id": "report-91e27a69c6eeea4742bb3fb4",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-25T02:00:00Z",
@@ -134,7 +134,7 @@
       "entrypoint": "research/2026-09-25-choose-visual-direction/index.html"
     },
     {
-      "run_id": "run:7e59d024-19a1-49e1-a74d-0414d4f6f5e7",
+      "run_id": "report-ecb25964f0babe29868087c6",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-26T02:00:00Z",
@@ -145,7 +145,7 @@
       "entrypoint": "research/2026-09-26-one-direction-real-screen/index.html"
     },
     {
-      "run_id": "run:39633f97-e9d0-4448-9bf3-1cb9eaf9d33c",
+      "run_id": "report-0b956d7c8fe509ebb4dbff1d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-27T02:00:00Z",
@@ -156,7 +156,7 @@
       "entrypoint": "research/2026-09-27-game-hud-not-dashboard/index.html"
     },
     {
-      "run_id": "run:1e249a7d-684f-4bdb-853a-4795616e37d0",
+      "run_id": "report-f30d1a8a857d1164997fae28",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-28T02:00:00Z",
@@ -167,7 +167,7 @@
       "entrypoint": "research/2026-09-28-forms-need-recovery/index.html"
     },
     {
-      "run_id": "run:52ac9a4b-e8e6-4fa0-9767-b16083448061",
+      "run_id": "report-dca8692a6f15ebe97febb284",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-29T02:00:00Z",
@@ -178,7 +178,7 @@
       "entrypoint": "research/2026-09-29-react-composition-example-check/index.html"
     },
     {
-      "run_id": "run:bc632ce6-7ef8-43ba-aa45-08523e78a542",
+      "run_id": "report-46bb681a255885c374e061cc",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-30T02:00:00Z",
@@ -189,7 +189,7 @@
       "entrypoint": "research/2026-09-30-opendesign-stub-not-workflow/index.html"
     },
     {
-      "run_id": "run:95d6eb4c-7f5f-4104-9f4e-fef94b3b52f8",
+      "run_id": "report-68b0d13cd1e38a4d434fe6ef",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-01T02:00:00Z",
@@ -200,7 +200,7 @@
       "entrypoint": "research/2026-10-01-existing-system-before-new-palette/index.html"
     },
     {
-      "run_id": "run:43f3d78b-d861-41f0-9705-0a68fe8877ca",
+      "run_id": "report-73fb7035052b5b6fee44ad59",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-02T02:00:00Z",
@@ -211,7 +211,7 @@
       "entrypoint": "research/2026-10-02-test-against-no-skill/index.html"
     },
     {
-      "run_id": "run:4aa36ad8-4d6f-4bd8-a91d-32725a42140d",
+      "run_id": "report-a46cb787046e8b9d1056e742",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-03T02:00:00Z",
@@ -222,7 +222,7 @@
       "entrypoint": "research/2026-10-03-design-system-skill-not-ready-made/index.html"
     },
     {
-      "run_id": "run:c9b77f69-fc3f-430c-aaea-faca0a4bb209",
+      "run_id": "report-2e7e0408318f9e38c468a345",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-04T02:00:00Z",
@@ -233,7 +233,7 @@
       "entrypoint": "research/2026-10-04-motion-default-needs-an-off-switch/index.html"
     },
     {
-      "run_id": "run:fb53b133-0665-451c-a05c-12702be7b891",
+      "run_id": "report-abf982f7b85a72f5788a9553",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-05T02:00:00Z",
@@ -244,7 +244,7 @@
       "entrypoint": "research/2026-10-05-update-is-not-local-file-check/index.html"
     },
     {
-      "run_id": "run:7a97cb15-ad35-4816-89c8-e0209de1f420",
+      "run_id": "report-5aa0c635c3aedfb9ffc254c1",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-06T02:00:00Z",
@@ -255,7 +255,7 @@
       "entrypoint": "research/2026-10-06-dashboard-skill-or-project-brief/index.html"
     },
     {
-      "run_id": "run:46f84e73-521b-44ed-a9e3-1c4995266a19",
+      "run_id": "report-175b980f7b6914f7e619c14c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-07T02:00:00Z",
@@ -266,7 +266,7 @@
       "entrypoint": "research/2026-10-07-no-install-trial-needs-full-prompt/index.html"
     },
     {
-      "run_id": "run:6cf44d8b-d4ed-4a92-ab09-ec9475526ddf",
+      "run_id": "report-640ff0d421646dfda1e1060a",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-08T02:00:00Z",
@@ -277,7 +277,7 @@
       "entrypoint": "research/2026-10-08-brief-wins-over-skill-defaults/index.html"
     },
     {
-      "run_id": "run:fcb2dafd-84d4-4669-bf27-712919f3b37f",
+      "run_id": "report-a5529afcc785c65911278f11",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-09T02:00:00Z",
@@ -288,7 +288,7 @@
       "entrypoint": "research/2026-10-09-brief-before-ideation/index.html"
     },
     {
-      "run_id": "run:1e843f2e-6c20-40c6-a740-de89dcb2a380",
+      "run_id": "report-8d22563bc5e7ce0ec4bf4669",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-10T02:00:00Z",
@@ -299,7 +299,7 @@
       "entrypoint": "research/2026-10-10-artifact-builder-not-site-redesign/index.html"
     },
     {
-      "run_id": "run:7b51380b-f102-4f74-a68b-27b3633e287d",
+      "run_id": "report-42e19bbf7de95efbff9640c4",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-11T02:00:00Z",
@@ -310,7 +310,7 @@
       "entrypoint": "research/2026-10-11-concept-work-vs-release-checks/index.html"
     },
     {
-      "run_id": "run:7d383b30-039b-419a-8ad4-4316e46fb3aa",
+      "run_id": "report-4245920f54f5badf6e54cd8b",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-12T02:00:00Z",
@@ -321,7 +321,7 @@
       "entrypoint": "research/2026-10-12-agent-browser-stub-needs-core/index.html"
     },
     {
-      "run_id": "run:1adbfef7-d796-40b8-8280-f2985e3958d1",
+      "run_id": "report-1bc8c0af1e7c6919b2a1f0dc",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-13T02:00:00Z",
