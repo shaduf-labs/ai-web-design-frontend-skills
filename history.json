@@ -341,6 +341,39 @@
       "summary": "Separated the removed OpenAI pointer from a substantive Anthropic adaptation. No installation or result comparison.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-14-opendesign-two-frontend-files",
       "entrypoint": "research/2026-10-14-opendesign-two-frontend-files/index.html"
+    },
+    {
+      "run_id": "report-e25cf93d85ca2271b9f27b04",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-16T02:03:50Z",
+      "completed_at": "2026-10-16T02:05:54.609Z",
+      "title": "Figma handoff is a separate task from web implementation",
+      "summary": "Figment is a source-limited watch item for editable Figma handoff; no web-skill recommendation or result claim changed.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-16-figma-handoff-not-web-build",
+      "entrypoint": "research/2026-10-16-figma-handoff-not-web-build/index.html"
+    },
+    {
+      "run_id": "report-b1c9d38625d1a8ff70a1741e",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-17T21:09:20Z",
+      "completed_at": "2026-10-17T21:11:10Z",
+      "title": "Skill results may not transfer between models",
+      "summary": "Added a model-specific trial warning from a functional web benchmark; no catalogue listing or visual outcome claim changed.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-17-model-specific-skill-test",
+      "entrypoint": "research/2026-10-17-model-specific-skill-test/index.html"
+    },
+    {
+      "run_id": "report-a83741a70716e61cf1384336",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-18T02:02:00Z",
+      "completed_at": "2026-10-18T02:05:55Z",
+      "title": "Design defaults can survive a skill",
+      "summary": "Added a bounded visual-default report and a check that distinguishes a repeated shape from skill effect.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-18-design-defaults-survive-skill",
+      "entrypoint": "research/2026-10-18-design-defaults-survive-skill/index.html"
     }
   ]
 }

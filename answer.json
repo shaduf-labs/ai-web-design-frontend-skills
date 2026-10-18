@@ -1,24 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by task, platform, and the instructions actually loaded. For a new visual target, Frontend App Builder is a conditional concept-and-render route; for a known screen and expected state, Frontend Testing & Debugging is a conditional QA route. For an existing web-app screen, first supply the route, tokens, components, visual reference, and required states. OpenDesign’s frontend-skill is a pointer to a removed OpenAI bundle, while its separate frontend-design file contains an adapted Anthropic workflow; do not treat them as the same skill. No listed skill has a pool-run comparison against a careful no-skill brief.",
+  "current_answer": "Choose by task, platform, source revision, and the instructions actually loaded. For an existing screen, specify its route, components, tokens, visual reference, and required states before adding a skill. A visual-direction skill may help an open brief, but it does not remove every model default: one small Opus 5.5 report found pill-shaped buttons in 10 of 21 pages generated with Frontend Design. That report has no no-skill baseline. Test the chosen skill against the same brief, project, and model; no catalogue listing has a pool-run outcome comparison.",
   "catalogue_card": {
-    "question": "Which OpenDesign frontend skill is the actual workflow?",
-    "text": "OpenDesign frontend-skill is a pointer to a removed OpenAI bundle. Its separate frontend-design file contains an adapted Anthropic workflow that puts existing design tokens first. Check the exact file your agent loads; we have not tested its result."
+    "question": "Can a frontend skill still repeat a model default?",
+    "text": "Yes. One small report found pill-shaped buttons in 10 of 21 Opus 5.5 pages made with Frontend Design. It had no no-skill baseline, so it does not show the skill caused the pattern. Name the unwanted shape and check the rendered result."
   },
   "summary": [
-    "OpenDesign frontend-skill and frontend-design are different files with different upstream origins.",
-    "The adapted frontend-design file has substantive instructions and treats the active design system as the source of truth.",
-    "For a known screen, use its route, tokens, components, and required states before deciding whether a skill adds value.",
-    "No pool-run skill-versus-brief outcome comparison exists."
+    "Choose by task, agent, pinned source or declared mutable source, and loaded instructions.",
+    "For an existing screen, provide the route, tokens, components, references, and required states before trying a skill.",
+    "A small Opus 5.5 report found a repeated button shape with Frontend Design but no no-skill baseline; it cannot establish skill effect.",
+    "No listed skill has a pool-run no-skill outcome comparison."
   ],
   "uncertainty": [
-    "OpenDesign frontend-design main is mutable; its standalone Codex loading and output were not tested.",
-    "The similarly named OpenDesign frontend-skill remains a pointer to a removed OpenAI bundle.",
+    "The 10/21 result is a third-party issue report using current skill text without a stated commit, not a test of the catalogue pin or a no-skill comparison.",
     "No listed skill has a pool-run no-skill outcome comparison.",
     "First-party visits, repeat use, and revenue cannot be assessed because analytics are unavailable."
   ],
-  "checked_at": "2026-10-14T02:07:00Z",
-  "meaningfully_updated_at": "2026-10-14T02:07:00Z",
-  "freshness_note": "Checked 14 October 2026. Read both current OpenDesign files and the adapted skill license; no fixed revision, Codex install, outcome comparison, or first-party analytics."
+  "checked_at": "2026-10-18T02:05:00Z",
+  "meaningfully_updated_at": "2026-10-18T02:05:00Z",
+  "freshness_note": "Source and audience check on 18 October 2026; no new listing or pool-run outcome test."
 }

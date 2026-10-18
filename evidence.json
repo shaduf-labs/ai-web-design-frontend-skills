@@ -1200,6 +1200,86 @@
       "accessed_at": "2026-10-14T02:07:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "figment-readme-2026-10-16",
+      "source_type": "author repository README",
+      "title": "Figment repository",
+      "source_url": "https://github.com/Ashad001/figment",
+      "claim": "The author describes a Claude Code skill, local Figma plugin, offline layout checks, install steps, and MIT licence. The skill body and output were not verified.",
+      "accessed_at": "2026-10-16T02:05:35.997Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "figment-pm-report-2026-10-16",
+      "source_type": "firsthand author report",
+      "title": "PM code-to-Figma workflow account",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x4rj6m/im_a_pm_and_ive_started_mocking_up_my_own_ideas/",
+      "claim": "The author reports moving code-based mockups to Figma using an existing design system; this is not independent outcome evidence.",
+      "accessed_at": "2026-10-16T02:05:35.997Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:webdev-model-transfer",
+      "source_type": "research preprint",
+      "title": "WebDev-Skills-Bench v1",
+      "source_url": "https://arxiv.org/html/2608.23067",
+      "claim": "The reported per-skill-project functional effects had near-zero correlation across four tested models; the study does not measure visual quality or the catalogue’s exact listings.",
+      "accessed_at": "2026-10-17T21:10:18Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:generic-ui-question-october",
+      "source_type": "community question and replies",
+      "title": "Claude Code generic UI discussion",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1x3go5l/any_tips_on_making_a_uiux_frontend_not_look_like/",
+      "claim": "One person asked how to avoid generic-looking generated interfaces; replies suggested specific project constraints and references, without measured outcomes.",
+      "accessed_at": "2026-10-17T21:10:18Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:frontend-pill-issue",
+      "source_type": "firsthand issue report",
+      "title": "Frontend Design pill-button issue",
+      "source_url": "https://github.com/anthropics/skills/issues/1808",
+      "claim": "A contributor reports 10 of 21 Opus 5.5 pages with pill buttons under seven direction-free briefs using current skill text, without a no-skill baseline or skill commit.",
+      "accessed_at": "2026-10-18T02:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:opus-design-defaults-doc",
+      "source_type": "official documentation",
+      "title": "Prompting Claude Opus 5.5",
+      "source_url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "claim": "Anthropic documents default frontend styles under direction-free briefs and recommends naming unwanted patterns and inspecting results.",
+      "accessed_at": "2026-10-18T02:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:skill-creator-baseline",
+      "source_type": "official skill source",
+      "title": "Anthropic Skill Creator",
+      "source_url": "https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md",
+      "claim": "The evaluation workflow pairs skill and no-skill runs and separates objective checks from subjective design review.",
+      "accessed_at": "2026-10-18T02:05:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:paired-output-request",
+      "source_type": "community discussion",
+      "title": "Codex frontend skill discussion",
+      "source_url": "https://www.reddit.com/r/codex/comments/1v2lf1u/i_made_a_frontend_design_skill_because/",
+      "claim": "One commenter requested paired screenshots and one reported only a modest change on a simple rebuild; the thread is self-selected.",
+      "accessed_at": "2026-10-18T02:05:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

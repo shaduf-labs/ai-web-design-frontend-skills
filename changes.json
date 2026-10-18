@@ -186,6 +186,24 @@
       "changed_at": "2026-10-14T02:07:00Z",
       "summary": "Separated OpenDesign’s stale OpenAI frontend-skill pointer from its distinct, substantive Anthropic frontend-design adaptation; no new catalogue listing or result test.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "figma-handoff-watch",
+      "changed_at": "2026-10-16T02:05:35.997Z",
+      "summary": "Published a source-limited watch note on Figment as a code-to-Figma handoff route; no new web-implementation recommendation.",
+      "path": "/p/ai-web-design-frontend-skills/research/2026-10-16-figma-handoff-not-web-build"
+    },
+    {
+      "change_id": "model-specific-skill-test",
+      "changed_at": "2026-10-17T21:10:18Z",
+      "summary": "Added a model-specific trial warning from a functional web-skill benchmark. No new listing or visual outcome claim.",
+      "path": "/p/ai-web-design-frontend-skills/research/2026-10-17-model-specific-skill-test"
+    },
+    {
+      "change_id": "design-defaults-survive-skill",
+      "changed_at": "2026-10-18T02:05:00Z",
+      "summary": "Added a limited contributor result on pill-shaped buttons with Frontend Design and a concrete rendered-result check; no skill-versus-no-skill effect or new listing claimed.",
+      "path": "/p/ai-web-design-frontend-skills/research/2026-10-18-design-defaults-survive-skill"
     }
   ]
 }
