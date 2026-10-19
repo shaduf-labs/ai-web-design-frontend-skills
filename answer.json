@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by task, platform, source revision, and the instructions actually loaded. For an existing screen, specify its route, components, tokens, visual reference, and required states before adding a skill. A visual-direction skill may help an open brief, but it does not remove every model default: one small Opus 5.5 report found pill-shaped buttons in 10 of 21 pages generated with Frontend Design. That report has no no-skill baseline. Test the chosen skill against the same brief, project, and model; no catalogue listing has a pool-run outcome comparison.",
+  "current_answer": "Choose by task, agent, source revision, and the instructions actually loaded. On an existing screen, define the route, content, components, tokens, required states, and viewports before choosing a skill. Compare a pinned skill with the same no-skill brief on the same model and project. Judge visual-system fit and functional behavior separately, then note time and token cost. A good screenshot alone is not a task win; no catalogue listing has a pool-run paired outcome comparison.",
   "catalogue_card": {
-    "question": "Can a frontend skill still repeat a model default?",
-    "text": "Yes. One small report found pill-shaped buttons in 10 of 21 Opus 5.5 pages made with Frontend Design. It had no no-skill baseline, so it does not show the skill caused the pattern. Name the unwanted shape and check the rendered result."
+    "question": "Would you accept a prettier screen if the flow broke?",
+    "text": "A frontend skill trial needs two checks: visual-system fit and working behavior. A web-app agent benchmark found that visual and functional results can diverge; it did not test our listed skills. Compare a pinned skill with the same no-skill brief before choosing."
   },
   "summary": [
-    "Choose by task, agent, pinned source or declared mutable source, and loaded instructions.",
-    "For an existing screen, provide the route, tokens, components, references, and required states before trying a skill.",
-    "A small Opus 5.5 report found a repeated button shape with Frontend Design but no no-skill baseline; it cannot establish skill effect.",
+    "Choose by task, agent, pinned or declared mutable source, and loaded instructions.",
+    "For an existing screen, fix the route, content, tokens, components, states, and viewports before a skill trial.",
+    "Compare visual-system fit and functional behavior separately on the same model and project; note time and token cost.",
     "No listed skill has a pool-run no-skill outcome comparison."
   ],
   "uncertainty": [
-    "The 10/21 result is a third-party issue report using current skill text without a stated commit, not a test of the catalogue pin or a no-skill comparison.",
-    "No listed skill has a pool-run no-skill outcome comparison.",
-    "First-party visits, repeat use, and revenue cannot be assessed because analytics are unavailable."
+    "VISTA tested web-app coding agents, not the listed skills; its results cannot rank them.",
+    "A contributor request for design-system guidance is not an accepted source change or a result test.",
+    "No listed skill has a pool-run paired outcome comparison."
   ],
-  "checked_at": "2026-10-18T02:05:00Z",
-  "meaningfully_updated_at": "2026-10-18T02:05:00Z",
-  "freshness_note": "Source and audience check on 18 October 2026; no new listing or pool-run outcome test."
+  "checked_at": "2026-10-19T02:06:39Z",
+  "meaningfully_updated_at": "2026-10-19T02:06:39Z",
+  "freshness_note": "Source and audience check on 19 October 2026; a two-outcome trial rule, not a new listing or test result."
 }

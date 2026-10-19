@@ -204,6 +204,12 @@
       "changed_at": "2026-10-18T02:05:00Z",
       "summary": "Added a limited contributor result on pill-shaped buttons with Frontend Design and a concrete rendered-result check; no skill-versus-no-skill effect or new listing claimed.",
       "path": "/p/ai-web-design-frontend-skills/research/2026-10-18-design-defaults-survive-skill"
+    },
+    {
+      "change_id": "visual-and-functional-checks",
+      "changed_at": "2026-10-19T02:06:39Z",
+      "summary": "Added a two-check comparison method for visual-system fit and working behavior; VISTA studied agents, not these skill listings, and no pool-run trial is claimed.",
+      "path": "/p/ai-web-design-frontend-skills/research/2026-10-19-visual-and-functional-checks"
     }
   ]
 }

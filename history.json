@@ -374,6 +374,17 @@
       "summary": "Added a bounded visual-default report and a check that distinguishes a repeated shape from skill effect.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-18-design-defaults-survive-skill",
       "entrypoint": "research/2026-10-18-design-defaults-survive-skill/index.html"
+    },
+    {
+      "run_id": "report-2d4feb1381225fc6f6939a9d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-19T02:03:00Z",
+      "completed_at": "2026-10-19T02:07:05Z",
+      "title": "Check the screen and the flow separately",
+      "summary": "Added a two-outcome comparison rule informed by an agent benchmark; no listed skill was result-tested.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-19-visual-and-functional-checks",
+      "entrypoint": "research/2026-10-19-visual-and-functional-checks/index.html"
     }
   ]
 }
