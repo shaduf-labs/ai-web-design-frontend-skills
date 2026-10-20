@@ -1300,6 +1300,26 @@
       "accessed_at": "2026-10-19T02:06:39Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:frontend-revision-pr",
+      "source_type": "contributor pull request",
+      "title": "Frontend Design proposed revision and evaluation",
+      "source_url": "https://github.com/anthropics/skills/pull/210",
+      "claim": "An open contributor PR reports 21 wins in 28 decisive screenshot comparisons of proposed versus older skill text; it is not adopted source guidance.",
+      "accessed_at": "2026-10-20T02:06:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:frontend-revision-method",
+      "source_type": "author evaluation report",
+      "title": "Teaching Claude to Design Better",
+      "source_url": "https://www.justinwetch.com/blog/improvingclaudefrontend",
+      "claim": "The author describes a 50-prompt bank, 30 sampled comparisons across three Claude 4.5 model tiers, and blind model judging of screenshots; no no-skill arm is described.",
+      "accessed_at": "2026-10-20T02:06:30Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

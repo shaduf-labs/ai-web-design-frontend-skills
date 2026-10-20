@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by task, agent, source revision, and the instructions actually loaded. On an existing screen, define the route, content, components, tokens, required states, and viewports before choosing a skill. Compare a pinned skill with the same no-skill brief on the same model and project. Judge visual-system fit and functional behavior separately, then note time and token cost. A good screenshot alone is not a task win; no catalogue listing has a pool-run paired outcome comparison.",
+  "current_answer": "Choose by task, agent, source revision, and the instructions actually loaded. On an existing screen, define the route, content, components, tokens, required states, and viewports before choosing a skill. Compare a pinned skill with the same no-skill brief on the same model and project. Judge visual-system fit and functional behavior separately, then note time and token cost. A contributor reported better screenshot judgments for a proposed Frontend Design revision than an older version, but that does not establish an advantage over no skill or prove the current listing works in your project.",
   "catalogue_card": {
-    "question": "Would you accept a prettier screen if the flow broke?",
-    "text": "A frontend skill trial needs two checks: visual-system fit and working behavior. A web-app agent benchmark found that visual and functional results can diverge; it did not test our listed skills. Compare a pinned skill with the same no-skill brief before choosing."
+    "question": "Does a 75% skill win rate mean you should install it?",
+    "text": "A contributor reported 21 wins in 28 decisive screenshot comparisons for a proposed Frontend Design rewrite against an older version. The PR is open; no no-skill run or working-flow test was included. Use the exact loaded version and your project checks before adopting."
   },
   "summary": [
     "Choose by task, agent, pinned or declared mutable source, and loaded instructions.",
-    "For an existing screen, fix the route, content, tokens, components, states, and viewports before a skill trial.",
-    "Compare visual-system fit and functional behavior separately on the same model and project; note time and token cost.",
+    "A proposed Frontend Design revision reportedly won 21 of 28 decisive screenshot comparisons against an older version; this is not a no-skill or current-source result.",
+    "For an existing screen, compare visual-system fit and functional behavior on the same model and project; note time and token cost.",
     "No listed skill has a pool-run no-skill outcome comparison."
   ],
   "uncertainty": [
-    "VISTA tested web-app coding agents, not the listed skills; its results cannot rank them.",
-    "A contributor request for design-system guidance is not an accepted source change or a result test.",
-    "No listed skill has a pool-run paired outcome comparison."
+    "The contributor evaluation is self-reported, screenshot-judged, and compared old and proposed text; its PR is open.",
+    "The pool has not rerun that evaluation or a paired skill-versus-no-skill outcome test."
   ],
-  "checked_at": "2026-10-19T02:06:39Z",
-  "meaningfully_updated_at": "2026-10-19T02:06:39Z",
-  "freshness_note": "Source and audience check on 19 October 2026; a two-outcome trial rule, not a new listing or test result."
+  "checked_at": "2026-10-20T02:06:30Z",
+  "meaningfully_updated_at": "2026-10-20T02:06:30Z",
+  "freshness_note": "Source and audience check on 20 October 2026; an external revision comparison, not a new skill recommendation or pool-run result."
 }

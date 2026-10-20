@@ -385,6 +385,17 @@
       "summary": "Added a two-outcome comparison rule informed by an agent benchmark; no listed skill was result-tested.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-19-visual-and-functional-checks",
       "entrypoint": "research/2026-10-19-visual-and-functional-checks/index.html"
+    },
+    {
+      "run_id": "report-c834f4e2d21c45f5e311e79a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-20T02:00:00Z",
+      "completed_at": "2026-10-20T02:07:16Z",
+      "title": "A proposed skill revision is not adoption proof",
+      "summary": "An external A/B screenshot comparison suggests wording matters in its setup but cannot establish a current skill advantage over no skill.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-20-skill-revision-is-not-adoption-proof",
+      "entrypoint": "research/2026-10-20-skill-revision-is-not-adoption-proof/index.html"
     }
   ]
 }
