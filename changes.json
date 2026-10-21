@@ -216,6 +216,12 @@
       "changed_at": "2026-10-20T02:06:30Z",
       "summary": "Added a bounded reading of a contributor-reported Frontend Design revision test: 21 of 28 decisive screenshot comparisons, without a no-skill baseline or current-source result.",
       "path": "/p/ai-web-design-frontend-skills/research/2026-10-20-skill-revision-is-not-adoption-proof"
+    },
+    {
+      "change_id": "installed-is-not-invoked",
+      "changed_at": "2026-10-21T02:02:12Z",
+      "summary": "Added a Claude Code invocation check before skill outcome comparisons; installation alone does not show that the full skill instructions loaded.",
+      "path": "/p/ai-web-design-frontend-skills/research/2026-10-21-installed-is-not-invoked"
     }
   ]
 }

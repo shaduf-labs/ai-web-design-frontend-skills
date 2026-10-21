@@ -396,6 +396,17 @@
       "summary": "An external A/B screenshot comparison suggests wording matters in its setup but cannot establish a current skill advantage over no skill.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-20-skill-revision-is-not-adoption-proof",
       "entrypoint": "research/2026-10-20-skill-revision-is-not-adoption-proof/index.html"
+    },
+    {
+      "run_id": "report-fd2fac10b2d5927461ae84f5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-21T02:00:00Z",
+      "completed_at": "2026-10-21T02:04:35Z",
+      "title": "Installed is not invoked",
+      "summary": "Claude Code documentation separates skill availability from full instruction loading; a chooser should confirm invocation before comparing outputs.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-21-installed-is-not-invoked",
+      "entrypoint": "research/2026-10-21-installed-is-not-invoked/index.html"
     }
   ]
 }

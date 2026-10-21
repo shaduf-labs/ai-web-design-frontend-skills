@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by task, agent, source revision, and the instructions actually loaded. On an existing screen, define the route, content, components, tokens, required states, and viewports before choosing a skill. Compare a pinned skill with the same no-skill brief on the same model and project. Judge visual-system fit and functional behavior separately, then note time and token cost. A contributor reported better screenshot judgments for a proposed Frontend Design revision than an older version, but that does not establish an advantage over no skill or prove the current listing works in your project.",
+  "current_answer": "Choose by frontend task, agent, source revision, and the instructions actually loaded. Before comparing outputs, confirm the target agent invoked the skill: in Claude Code, an installed skill body loads only when invoked, and a user-invocable skill can be called directly. For an existing screen, fix the route, real content, components, tokens, states, and viewports. Compare a pinned skill with the same no-skill brief on the same model and project. Judge visual-system fit and functional behavior separately, then note time and token cost. No listed skill has a pool-run no-skill outcome comparison.",
   "catalogue_card": {
-    "question": "Does a 75% skill win rate mean you should install it?",
-    "text": "A contributor reported 21 wins in 28 decisive screenshot comparisons for a proposed Frontend Design rewrite against an older version. The PR is open; no no-skill run or working-flow test was included. Use the exact loaded version and your project checks before adopting."
+    "question": "Installed a frontend skill. Did it actually run?",
+    "text": "Claude Code makes a skill available before its full instructions load. Confirm that the skill was invoked before attributing a screen to it. A skill call proves loading, not better design; no listed skill has a pool-run no-skill comparison."
   },
   "summary": [
-    "Choose by task, agent, pinned or declared mutable source, and loaded instructions.",
-    "A proposed Frontend Design revision reportedly won 21 of 28 decisive screenshot comparisons against an older version; this is not a no-skill or current-source result.",
+    "Choose by task, agent, pinned or declared mutable source, and instructions that actually loaded.",
+    "In Claude Code, installed metadata is not proof the skill body was invoked; check availability and invocation before a trial.",
     "For an existing screen, compare visual-system fit and functional behavior on the same model and project; note time and token cost.",
     "No listed skill has a pool-run no-skill outcome comparison."
   ],
   "uncertainty": [
-    "The contributor evaluation is self-reported, screenshot-judged, and compared old and proposed text; its PR is open.",
-    "The pool has not rerun that evaluation or a paired skill-versus-no-skill outcome test."
+    "The Claude Code rule comes from current documentation, not a pool-run installation or invocation check.",
+    "The pool has not run a paired skill-versus-no-skill frontend outcome test."
   ],
-  "checked_at": "2026-10-20T02:06:30Z",
-  "meaningfully_updated_at": "2026-10-20T02:06:30Z",
-  "freshness_note": "Source and audience check on 20 October 2026; an external revision comparison, not a new skill recommendation or pool-run result."
+  "checked_at": "2026-10-21T02:02:12Z",
+  "meaningfully_updated_at": "2026-10-21T02:02:12Z",
+  "freshness_note": "Source and audience check on 21 October 2026; a Claude Code invocation method, not a new skill result or cross-agent rule."
 }

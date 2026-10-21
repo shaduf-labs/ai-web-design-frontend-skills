@@ -1320,6 +1320,16 @@
       "accessed_at": "2026-10-20T02:06:30Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "claude-code-invocation-docs-2026-10-21",
+      "source_type": "official documentation",
+      "title": "Claude Code skills documentation",
+      "source_url": "https://code.claude.com/docs/en/skills",
+      "claim": "In Claude Code, a skill description may be available before its full body loads; invocation loads the body, and a user-invocable skill can be called directly.",
+      "accessed_at": "2026-10-21T02:02:12Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }
