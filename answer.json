@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by frontend task, agent, source revision, and the instructions actually loaded. Before comparing outputs, confirm the target agent invoked the skill: in Claude Code, an installed skill body loads only when invoked, and a user-invocable skill can be called directly. For an existing screen, fix the route, real content, components, tokens, states, and viewports. Compare a pinned skill with the same no-skill brief on the same model and project. Judge visual-system fit and functional behavior separately, then note time and token cost. No listed skill has a pool-run no-skill outcome comparison.",
+  "current_answer": "Choose by frontend task, agent, source revision, and the instructions actually loaded. In Claude Code, use explicit invocation for a chosen skill; where supported, /skill-doctor can show whether installed skills have ever been invoked and their listing cost. It does not show whether a design improved. For an existing screen, fix the route, real content, components, tokens, states, and viewports. Compare one pinned skill with the same no-skill brief on the same model and project. Judge visual-system fit and functional behavior separately, then note time and token cost. No listed skill has a pool-run no-skill outcome comparison.",
   "catalogue_card": {
-    "question": "Installed a frontend skill. Did it actually run?",
-    "text": "Claude Code makes a skill available before its full instructions load. Confirm that the skill was invoked before attributing a screen to it. A skill call proves loading, not better design; no listed skill has a pool-run no-skill comparison."
+    "question": "Your frontend skill ran. Did it help?",
+    "text": "Claude Code can report which installed skills have been invoked with /skill-doctor in eligible terminal sessions. That is a usage check, not a design score. Compare one skill against the same no-skill brief on your actual project; no listed skill has a pool-run paired result."
   },
   "summary": [
-    "Choose by task, agent, pinned or declared mutable source, and instructions that actually loaded.",
-    "In Claude Code, installed metadata is not proof the skill body was invoked; check availability and invocation before a trial.",
-    "For an existing screen, compare visual-system fit and functional behavior on the same model and project; note time and token cost.",
+    "Choose one skill for a named task, agent, source revision, and project context.",
+    "For Claude Code, verify invocation. Where supported, /skill-doctor shows usage and listing cost, not output quality.",
+    "Compare visual-system fit and working behavior with a no-skill brief on the same model and project.",
     "No listed skill has a pool-run no-skill outcome comparison."
   ],
   "uncertainty": [
-    "The Claude Code rule comes from current documentation, not a pool-run installation or invocation check.",
+    "Claude Code /skill-doctor is documented for version 2.1.252 or later in eligible sessions; this pool did not run it.",
+    "Automatic selection among overlapping skill descriptions is not settled by the inspected documentation.",
     "The pool has not run a paired skill-versus-no-skill frontend outcome test."
   ],
-  "checked_at": "2026-10-21T02:02:12Z",
-  "meaningfully_updated_at": "2026-10-21T02:02:12Z",
-  "freshness_note": "Source and audience check on 21 October 2026; a Claude Code invocation method, not a new skill result or cross-agent rule."
+  "checked_at": "2026-10-22T02:05:00Z",
+  "meaningfully_updated_at": "2026-10-22T02:05:00Z",
+  "freshness_note": "Source and audience check on 22 October 2026; a Claude Code usage-audit method, not a new skill result or cross-agent rule."
 }
