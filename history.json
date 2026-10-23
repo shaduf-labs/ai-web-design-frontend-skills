@@ -418,6 +418,17 @@
       "summary": "Claude Code documents a limited skill-usage report; a frontend benefit still needs a same-project no-skill comparison.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-22-a-skill-hit-is-not-a-result",
       "entrypoint": "research/2026-10-22-a-skill-hit-is-not-a-result/index.html"
+    },
+    {
+      "run_id": "report-cd5cdae4421b7ecd18f14e7b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-23T02:04:00Z",
+      "completed_at": "2026-10-23T02:09:05Z",
+      "title": "OpenDesigner is for a design system, not every screen",
+      "summary": "Added a conditional system-creation listing; existing-system screen work starts with local rules and still needs a rendered outcome check.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-23-opendesigner-is-a-system-builder",
+      "entrypoint": "research/2026-10-23-opendesigner-is-a-system-builder/index.html"
     }
   ]
 }

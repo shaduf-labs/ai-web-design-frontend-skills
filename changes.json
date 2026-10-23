@@ -228,6 +228,12 @@
       "changed_at": "2026-10-22T02:05:00Z",
       "summary": "Added the documented Claude Code /skill-doctor usage check with version and session limits; separated prior invocation from frontend outcome and kept a no-skill baseline.",
       "path": "/p/ai-web-design-frontend-skills/research/2026-10-22-a-skill-hit-is-not-a-result"
+    },
+    {
+      "change_id": "opendesigner-system-builder",
+      "changed_at": "2026-10-23T02:07:00Z",
+      "summary": "Added OpenDesigner as a conditional design-system creation option. Existing-system one-off screen work still starts with local rules; installation and outcome remain untested by this pool.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

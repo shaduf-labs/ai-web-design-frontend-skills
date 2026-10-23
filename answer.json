@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by frontend task, agent, source revision, and the instructions actually loaded. In Claude Code, use explicit invocation for a chosen skill; where supported, /skill-doctor can show whether installed skills have ever been invoked and their listing cost. It does not show whether a design improved. For an existing screen, fix the route, real content, components, tokens, states, and viewports. Compare one pinned skill with the same no-skill brief on the same model and project. Judge visual-system fit and functional behavior separately, then note time and token cost. No listed skill has a pool-run no-skill outcome comparison.",
+  "current_answer": "Choose a skill by the job, agent, source revision, and project context. OpenDesigner is a conditional option when you need to create a design system and persistent tokens; its own instructions say to use an existing DESIGN.md for a one-off screen instead of starting another interview. For frontend output, keep the same brief and project in a no-skill comparison, then check visual-system fit and working behavior separately. No listed skill has a pool-run paired outcome test.",
   "catalogue_card": {
-    "question": "Your frontend skill ran. Did it help?",
-    "text": "Claude Code can report which installed skills have been invoked with /skill-doctor in eligible terminal sessions. That is a usage check, not a design score. Compare one skill against the same no-skill brief on your actual project; no listed skill has a pool-run paired result."
+    "question": "Need a design system, or one better screen?",
+    "text": "OpenDesigner is a conditional option for creating reusable tokens and DESIGN.md in a new project. Its own instructions say to use an existing system for a one-off screen. The author reports a Claude Code load and engine test; we have not tested the frontend result."
   },
   "summary": [
-    "Choose one skill for a named task, agent, source revision, and project context.",
-    "For Claude Code, verify invocation. Where supported, /skill-doctor shows usage and listing cost, not output quality.",
-    "Compare visual-system fit and working behavior with a no-skill brief on the same model and project.",
+    "For a new design system, consider OpenDesigner after checking its Python requirement, target-agent loading and generated files.",
+    "For one screen in an existing system, use its tokens, components and DESIGN.md before adding a skill.",
     "No listed skill has a pool-run no-skill outcome comparison."
   ],
   "uncertainty": [
-    "Claude Code /skill-doctor is documented for version 2.1.252 or later in eligible sessions; this pool did not run it.",
-    "Automatic selection among overlapping skill descriptions is not settled by the inspected documentation.",
-    "The pool has not run a paired skill-versus-no-skill frontend outcome test."
+    "OpenDesigner main is mutable; metadata version 0.1.0 is not a pinned release.",
+    "Codex loading and screen results were not tested by this pool.",
+    "The author reports a Claude Code demo load and engine test, not an independent frontend result."
   ],
-  "checked_at": "2026-10-22T02:05:00Z",
-  "meaningfully_updated_at": "2026-10-22T02:05:00Z",
-  "freshness_note": "Source and audience check on 22 October 2026; a Claude Code usage-audit method, not a new skill result or cross-agent rule."
+  "checked_at": "2026-10-23T02:07:00Z",
+  "meaningfully_updated_at": "2026-10-23T02:07:00Z",
+  "freshness_note": "Source and audience check on 23 October 2026; a new design-system task lane, not a measured screen improvement."
 }

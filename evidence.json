@@ -1340,6 +1340,46 @@
       "accessed_at": "2026-10-22T02:05:00Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "opendesigner-skill-2026-10-23",
+      "source_type": "author skill instructions",
+      "title": "OpenDesigner main skill",
+      "source_url": "https://raw.githubusercontent.com/ckryptickunal/OpenDesigner/main/skills/opendesigner/SKILL.md",
+      "claim": "The skill targets new design systems and instructs users with an existing system to follow DESIGN.md for one-off UI work.",
+      "accessed_at": "2026-10-23T02:07:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "opendesigner-install-2026-10-23",
+      "source_type": "author installation guide",
+      "title": "OpenDesigner installation",
+      "source_url": "https://opendesigner.dev/docs/install/",
+      "claim": "The guide describes the Claude Code plugin and Codex folder-copy route, and separates reported checks from unrecorded host runs.",
+      "accessed_at": "2026-10-23T02:07:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "opendesigner-license-2026-10-23",
+      "source_type": "repository license",
+      "title": "OpenDesigner MIT license",
+      "source_url": "https://raw.githubusercontent.com/ckryptickunal/OpenDesigner/main/LICENSE",
+      "claim": "Repository code and skill license text is MIT.",
+      "accessed_at": "2026-10-23T02:07:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "opendesigner-community-2026-10-23",
+      "source_type": "first-person community account",
+      "title": "Homepage redesign discussion",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1xc6km6/showcase_i_used_claude_to_build_a_skill_that/",
+      "claim": "One user reports repeated redesigns after vague prompts, then a more concrete brief; this is not a skill test.",
+      "accessed_at": "2026-10-23T02:07:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
