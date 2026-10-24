@@ -234,6 +234,12 @@
       "changed_at": "2026-10-23T02:07:00Z",
       "summary": "Added OpenDesigner as a conditional design-system creation option. Existing-system one-off screen work still starts with local rules; installation and outcome remain untested by this pool.",
       "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
+      "change_id": "brief-before-skill-2026-10-24",
+      "changed_at": "2026-10-24T02:03:00Z",
+      "summary": "Put a bounded no-install brief before the skill catalogue; explain when a repeated procedure warrants a skill and preserve the outcome-test limit.",
+      "path": "/p/ai-web-design-frontend-skills/"
     }
   ]
 }

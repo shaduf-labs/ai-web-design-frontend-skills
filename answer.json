@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose a skill by the job, agent, source revision, and project context. OpenDesigner is a conditional option when you need to create a design system and persistent tokens; its own instructions say to use an existing DESIGN.md for a one-off screen instead of starting another interview. For frontend output, keep the same brief and project in a no-skill comparison, then check visual-system fit and working behavior separately. No listed skill has a pool-run paired outcome test.",
+  "current_answer": "Start with the frontend task and project context. For one screen or small fix, try a bounded brief and inspect the render before installing a skill. Choose a ready-made skill when it supplies a repeated procedure or specialized workflow; check its agent, source revision, prerequisites, and scope. No listed skill has a pool-run same-project outcome comparison against a no-skill brief.",
   "catalogue_card": {
-    "question": "Need a design system, or one better screen?",
-    "text": "OpenDesigner is a conditional option for creating reusable tokens and DESIGN.md in a new project. Its own instructions say to use an existing system for a one-off screen. The author reports a Claude Code load and engine test; we have not tested the frontend result."
+    "question": "Do you need a skill for this screen?",
+    "text": "For one screen or small fix, start with the route, current design system, real copy, required states, and a rendered check. Add a skill for a repeated procedure or a specialized workflow. This is a task-fit guide, not proof that no skill produces better results."
   },
   "summary": [
-    "For a new design system, consider OpenDesigner after checking its Python requirement, target-agent loading and generated files.",
-    "For one screen in an existing system, use its tokens, components and DESIGN.md before adding a skill.",
-    "No listed skill has a pool-run no-skill outcome comparison."
+    "A short project brief is a no-install first route for a bounded screen change.",
+    "Vercel Labs Find Skills permits direct help when no relevant skill exists; its popularity checks do not prove frontend quality.",
+    "Use the catalogue to compare task fit, agent support, source revision, prerequisites, and evidence limits."
   ],
   "uncertainty": [
-    "OpenDesigner main is mutable; metadata version 0.1.0 is not a pinned release.",
-    "Codex loading and screen results were not tested by this pool.",
-    "The author reports a Claude Code demo load and engine test, not an independent frontend result."
+    "The no-skill first route has not been tested against listed skills on the same project.",
+    "Vercel Labs Find Skills is on mutable main; we inspected but did not execute it.",
+    "Community discussions are self-selected and do not establish preference or outcomes."
   ],
-  "checked_at": "2026-10-23T02:07:00Z",
-  "meaningfully_updated_at": "2026-10-23T02:07:00Z",
-  "freshness_note": "Source and audience check on 23 October 2026; a new design-system task lane, not a measured screen improvement."
+  "checked_at": "2026-10-24T02:03:00Z",
+  "meaningfully_updated_at": "2026-10-24T02:03:00Z",
+  "freshness_note": "Source and audience check on 24 October 2026; a clearer no-install decision route, not a measured skill result."
 }

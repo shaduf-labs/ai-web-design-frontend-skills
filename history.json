@@ -429,6 +429,17 @@
       "summary": "Added a conditional system-creation listing; existing-system screen work starts with local rules and still needs a rendered outcome check.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-23-opendesigner-is-a-system-builder",
       "entrypoint": "research/2026-10-23-opendesigner-is-a-system-builder/index.html"
+    },
+    {
+      "run_id": "report-d1a5ed2488934a98b6c691b9",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-24T02:01:00Z",
+      "completed_at": "2026-10-24T02:04:27Z",
+      "title": "Before you install a frontend skill, define the job",
+      "summary": "Added a no-install brief route for a bounded screen task and a task-based threshold for trying a skill. No paired output test was performed.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-24-brief-before-skill",
+      "entrypoint": "research/2026-10-24-brief-before-skill/index.html"
     }
   ]
 }
