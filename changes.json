@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "same-name-different-skill",
+      "changed_at": "2026-10-25T02:04:30Z",
+      "summary": "Clarified that a frontend-design catalogue pointer and a full skill are different packages; same-name install paths need an installed-file check. No installation or output test was performed.",
+      "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
       "change_id": "initial-skill-radar",
       "changed_at": "2026-09-14T19:03:02Z",
       "summary": "Published the first source-pinned shortlist: visual direction, UI review, and React or Next.js performance, with explicit limits and no performance ranking.",

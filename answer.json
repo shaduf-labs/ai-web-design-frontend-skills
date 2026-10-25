@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Start with the frontend task and project context. For one screen or small fix, try a bounded brief and inspect the render before installing a skill. Choose a ready-made skill when it supplies a repeated procedure or specialized workflow; check its agent, source revision, prerequisites, and scope. No listed skill has a pool-run same-project outcome comparison against a no-skill brief.",
+  "current_answer": "Start with the frontend task and project context. For one screen or small fix, use a bounded brief and inspect the render before installing a skill. When a skill fits, check its author and full instructions, not just its name: different frontend-design packages may share an install path. Record source revision, agent, scope, and prerequisites. No listed skill has a pool-run same-project outcome comparison.",
   "catalogue_card": {
-    "question": "Do you need a skill for this screen?",
-    "text": "For one screen or small fix, start with the route, current design system, real copy, required states, and a rendered check. Add a skill for a repeated procedure or a specialized workflow. This is a task-fit guide, not proof that no skill produces better results."
+    "question": "Which frontend-design skill did you install?",
+    "text": "The name is not enough. A catalogue pointer and a full skill can share `frontend-design`; another author’s skill may use the same install path. Check the installed SKILL.md and source before attributing a result. We did not reproduce an overwrite or test the output."
   },
   "summary": [
-    "A short project brief is a no-install first route for a bounded screen change.",
-    "Vercel Labs Find Skills permits direct help when no relevant skill exists; its popularity checks do not prove frontend quality.",
-    "Use the catalogue to compare task fit, agent support, source revision, prerequisites, and evidence limits."
+    "A frontend-design catalogue entry may be only a pointer to another author’s full skill.",
+    "Check the installed SKILL.md, author, source revision, and scope before comparing results.",
+    "Start with the task and project brief; use a skill when it adds a needed procedure."
   ],
   "uncertainty": [
-    "The no-skill first route has not been tested against listed skills on the same project.",
-    "Vercel Labs Find Skills is on mutable main; we inspected but did not execute it.",
-    "Community discussions are self-selected and do not establish preference or outcomes."
+    "The inspected pointer and full skill are mutable main branches.",
+    "We did not install either package or reproduce an overwrite.",
+    "No listed skill has a paired pool-run frontend result test.",
+    "Audience threads are self-selected; no first-party analytics are available."
   ],
-  "checked_at": "2026-10-24T02:03:00Z",
-  "meaningfully_updated_at": "2026-10-24T02:03:00Z",
-  "freshness_note": "Source and audience check on 24 October 2026; a clearer no-install decision route, not a measured skill result."
+  "checked_at": "2026-10-25T02:04:30Z",
+  "meaningfully_updated_at": "2026-10-25T02:04:30Z",
+  "freshness_note": "Source and audience check on 25 October 2026; package identity clarified, not a measured frontend result."
 }

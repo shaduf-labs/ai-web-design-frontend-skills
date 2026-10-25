@@ -440,6 +440,17 @@
       "summary": "Added a no-install brief route for a bounded screen task and a task-based threshold for trying a skill. No paired output test was performed.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-24-brief-before-skill",
       "entrypoint": "research/2026-10-24-brief-before-skill/index.html"
+    },
+    {
+      "run_id": "report-701d061624802d50c27f547c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-25T02:01:00Z",
+      "completed_at": "2026-10-25T02:06:11Z",
+      "title": "Same name, different frontend skill",
+      "summary": "A frontend-design pointer directs to another author’s full skill and warns about same-name install paths; no overwrite or output test was run.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-25-same-name-different-skill",
+      "entrypoint": "research/2026-10-25-same-name-different-skill/index.html"
     }
   ]
 }

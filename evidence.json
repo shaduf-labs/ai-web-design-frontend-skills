@@ -1420,6 +1420,36 @@
       "accessed_at": "2026-10-24T02:03:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "podo-frontend-design-pointer",
+      "source_type": "third-party catalogue pointer",
+      "title": "Podo frontend-design catalogue entry",
+      "source_url": "https://github.com/podo/design-agent-skills/blob/main/skills/frontend-design/SKILL.md",
+      "claim": "The entry calls itself a catalogue stub, directs installation of Ilm-Alan/frontend-design, and warns about same-name installation paths.",
+      "accessed_at": "2026-10-25T02:04:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ilm-alan-frontend-design-full",
+      "source_type": "author skill source",
+      "title": "Ilm-Alan Frontend Design SKILL.md",
+      "source_url": "https://github.com/Ilm-Alan/frontend-design/blob/main/SKILL.md",
+      "claim": "The full skill describes eight fixed visual anchors and content rules; its main branch is mutable.",
+      "accessed_at": "2026-10-25T02:04:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "reddit-dashboard-skill-set",
+      "source_type": "community discussion",
+      "title": "Dashboard frontend skill set question",
+      "source_url": "https://www.reddit.com/r/ClaudeDesign/comments/1wvfgec/best_claude_frontenddesignuxui_skill_set/",
+      "claim": "One builder requested a better skill set; replies included reference and semantic-state-color suggestions.",
+      "accessed_at": "2026-10-25T02:04:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
