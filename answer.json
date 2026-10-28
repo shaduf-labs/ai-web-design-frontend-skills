@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Start with the frontend task and project context. For one screen or small fix, use a bounded brief and inspect the render before installing a skill. When a skill fits, check its author and full instructions, not just its name: different frontend-design packages may share an install path. Record source revision, agent, scope, and prerequisites. No listed skill has a pool-run same-project outcome comparison.",
+  "current_answer": "Choose by the job. If you have a reference screenshot to reproduce, use existing project components and tokens, render at the image width, and compare regions before calling it matched. UXKIN ui-from-screenshot describes that workflow; its source is mutable and we have not tested its output. If visual direction is open, use a direction-oriented skill or a brief instead. A Figma-value checker is a separate verification route, not proof a design skill improves results.",
   "catalogue_card": {
-    "question": "Which frontend-design skill did you install?",
-    "text": "The name is not enough. A catalogue pointer and a full skill can share `frontend-design`; another author’s skill may use the same install path. Check the installed SKILL.md and source before attributing a result. We did not reproduce an overwrite or test the output."
+    "question": "Need to match a supplied screenshot?",
+    "text": "Use a reference-matching workflow, not a skill that invents a new style. UXKIN ui-from-screenshot says to reuse project components and compare the render at the image width. We read its mutable instructions but have not tested the result."
   },
   "summary": [
-    "A frontend-design catalogue entry may be only a pointer to another author’s full skill.",
-    "Check the installed SKILL.md, author, source revision, and scope before comparing results.",
-    "Start with the task and project brief; use a skill when it adds a needed procedure."
+    "A supplied screenshot calls for a reference-matching task, not open-ended visual direction.",
+    "UXKIN ui-from-screenshot describes a same-width, region-by-region render comparison with existing project components.",
+    "The skill and an adjacent Figma checker remain untested by this pool."
   ],
   "uncertainty": [
-    "The inspected pointer and full skill are mutable main branches.",
-    "We did not install either package or reproduce an overwrite.",
-    "No listed skill has a paired pool-run frontend result test.",
-    "Audience threads are self-selected; no first-party analytics are available."
+    "The UXKIN skill source is mutable; installation, loading, and outcome were not reproduced.",
+    "The Figma checker benchmark is author-reported and was not reproduced.",
+    "No listed skill has a paired pool-run frontend result test; analytics are unavailable."
   ],
-  "checked_at": "2026-10-25T02:04:30Z",
-  "meaningfully_updated_at": "2026-10-25T02:04:30Z",
-  "freshness_note": "Source and audience check on 25 October 2026; package identity clarified, not a measured frontend result."
+  "checked_at": "2026-10-28T02:05:00Z",
+  "meaningfully_updated_at": "2026-10-28T02:05:00Z",
+  "freshness_note": "Source and audience check on 28 October 2026; screenshot-matching task route clarified, not a measured frontend result."
 }

@@ -451,6 +451,17 @@
       "summary": "A frontend-design pointer directs to another author’s full skill and warns about same-name install paths; no overwrite or output test was run.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-25-same-name-different-skill",
       "entrypoint": "research/2026-10-25-same-name-different-skill/index.html"
+    },
+    {
+      "run_id": "report-d13be7e0254676ef64c89783",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-28T02:00:00Z",
+      "completed_at": "2026-10-28T02:05:00Z",
+      "title": "Match a supplied screenshot before choosing a style skill",
+      "summary": "Separated reference matching from open-ended visual direction; inspected a conditional skill, without installation or output test.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-28-match-a-reference-screen",
+      "entrypoint": "research/2026-10-28-match-a-reference-screen/index.html"
     }
   ]
 }

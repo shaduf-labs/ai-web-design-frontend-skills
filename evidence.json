@@ -1450,6 +1450,36 @@
       "accessed_at": "2026-10-25T02:04:30Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "uxkin-ui-from-screenshot",
+      "source_type": "author skill source",
+      "title": "UXKIN ui-from-screenshot SKILL.md",
+      "source_url": "https://github.com/uxkin/agent/blob/main/.agents/skills/ui-from-screenshot/SKILL.md",
+      "claim": "The mutable skill instructs reuse of existing components and tokens and same-width side-by-side comparison; no result was tested.",
+      "accessed_at": "2026-10-28T02:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "uxkin-agent-install",
+      "source_type": "author repository README",
+      "title": "UXKIN agent repository",
+      "source_url": "https://github.com/uxkin/agent",
+      "claim": "The repository documents installing the complete skill set and lists ui-from-screenshot among free skills; its reference library requires a plan.",
+      "accessed_at": "2026-10-28T02:05:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "figma-pixel-check-watch",
+      "source_type": "author tool README",
+      "title": "figma-pixel-check repository",
+      "source_url": "https://github.com/jackkru69/figma-pixel-check",
+      "claim": "The author describes a Figma-to-browser checker and self-run mutation benchmark; this pool did not reproduce either.",
+      "accessed_at": "2026-10-28T02:05:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
