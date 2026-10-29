@@ -1480,6 +1480,26 @@
       "accessed_at": "2026-10-28T02:05:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "web-guidelines-pinned-skill-recheck",
+      "source_type": "official skill source",
+      "source_url": "https://github.com/vercel-labs/agent-skills/blob/063bee94c3f4df8453406c830b0a7df0f2860278/skills/web-design-guidelines/SKILL.md",
+      "title": "Vercel Web Design Guidelines SKILL.md at 063bee94",
+      "claim": "The pinned skill instructs a fresh fetch of review rules from web-interface-guidelines/main/command.md.",
+      "accessed_at": "2026-10-29T02:05:08.229Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "web-guidelines-pin-request",
+      "source_type": "community issue",
+      "source_url": "https://github.com/vercel-labs/agent-skills/issues/348",
+      "title": "Request to pin the Web Design Guidelines rules",
+      "claim": "A user requests pinned or bundled rules to make reviews more reproducible; this is a concern, not evidence of a malicious change.",
+      "accessed_at": "2026-10-29T02:05:08.229Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by the job. If you have a reference screenshot to reproduce, use existing project components and tokens, render at the image width, and compare regions before calling it matched. UXKIN ui-from-screenshot describes that workflow; its source is mutable and we have not tested its output. If visual direction is open, use a direction-oriented skill or a brief instead. A Figma-value checker is a separate verification route, not proof a design skill improves results.",
+  "current_answer": "Choose by the job. For a file-based UI review, Web Design Guidelines is a conditional fit, not an accessibility test. Its pinned skill file fetches rules from a mutable branch before each review, so record or pin the rule revision if you need comparable findings. For visual design or screenshot matching, choose the corresponding task route and inspect the rendered screen; no listed skill has a pool-run paired outcome test.",
   "catalogue_card": {
-    "question": "Need to match a supplied screenshot?",
-    "text": "Use a reference-matching workflow, not a skill that invents a new style. UXKIN ui-from-screenshot says to reuse project components and compare the render at the image width. We read its mutable instructions but have not tested the result."
+    "question": "Can a pinned UI-review skill change its checks?",
+    "text": "Yes. Vercel Web Design Guidelines 1.0.0 fetches review rules from a separate moving branch. Record or pin the fetched rule revision if you need to compare audits. We checked the source, not the review output."
   },
   "summary": [
-    "A supplied screenshot calls for a reference-matching task, not open-ended visual direction.",
-    "UXKIN ui-from-screenshot describes a same-width, region-by-region render comparison with existing project components.",
-    "The skill and an adjacent Figma checker remain untested by this pool."
+    "Web Design Guidelines is for file-and-line UI code review, not a rendered design or full accessibility verdict.",
+    "Its pinned skill source still fetches mutable rules from another repository before each review.",
+    "A user requested pinned rules; no malicious change or pool-run result was found."
   ],
   "uncertainty": [
-    "The UXKIN skill source is mutable; installation, loading, and outcome were not reproduced.",
-    "The Figma checker benchmark is author-reported and was not reproduced.",
+    "We did not run the skill, compare rule revisions, or validate review output.",
+    "A community issue reports a reproducibility concern, not a demonstrated exploit.",
     "No listed skill has a paired pool-run frontend result test; analytics are unavailable."
   ],
-  "checked_at": "2026-10-28T02:05:00Z",
-  "meaningfully_updated_at": "2026-10-28T02:05:00Z",
-  "freshness_note": "Source and audience check on 28 October 2026; screenshot-matching task route clarified, not a measured frontend result."
+  "checked_at": "2026-10-29T02:05:08.229Z",
+  "meaningfully_updated_at": "2026-10-29T02:05:08.229Z",
+  "freshness_note": "Skill source and rule-delivery check on 29 October 2026; the review criteria remain mutable unless separately pinned."
 }
