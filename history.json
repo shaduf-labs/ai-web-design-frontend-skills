@@ -473,6 +473,17 @@
       "summary": "Explained that a pinned Web Design Guidelines skill still loads mutable rules; recorded the review-revision check without claiming an output test.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-29-pin-the-review-rules",
       "entrypoint": "research/2026-10-29-pin-the-review-rules/index.html"
+    },
+    {
+      "run_id": "report-73784274de4cedb8334e8419",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-30T02:00:00Z",
+      "completed_at": "2026-10-30T02:05:58.578Z",
+      "title": "Review an app screen before changing it",
+      "summary": "Added a source-limited read-only design-audit choice for existing app UI, distinct from a fix request or rendered verification.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-10-30-review-an-app-screen-before-editing",
+      "entrypoint": "research/2026-10-30-review-an-app-screen-before-editing/index.html"
     }
   ]
 }

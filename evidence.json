@@ -1500,6 +1500,56 @@
       "accessed_at": "2026-10-29T02:05:08.229Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ibelick-improve-ui-main",
+      "source_type": "author skill source",
+      "source_url": "https://github.com/ibelick/ui-skills/blob/main/skills/improve-ui/SKILL.md",
+      "title": "ibelick-improve-ui-main",
+      "claim": "Ibelick Improve UI defines a read-only product-source audit, evidence gate, limited findings, selected plans, and rendered-evidence condition.",
+      "accessed_at": "2026-10-30T02:03:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ibelick-improve-ui-plan",
+      "source_type": "author reference",
+      "source_url": "https://github.com/ibelick/ui-skills/blob/main/skills/improve-ui/references/plan-template.md",
+      "title": "ibelick-improve-ui-plan",
+      "claim": "The plan template records the evidence chain, selected change, affected surfaces, and validation for a later executor.",
+      "accessed_at": "2026-10-30T02:03:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ibelick-improve-ui-install",
+      "source_type": "distribution listing",
+      "source_url": "https://www.skills.sh/ibelick/ui-skills/improve-ui",
+      "title": "ibelick-improve-ui-install",
+      "claim": "The distribution page publishes an install command for Improve UI; installation and loading were not tested here.",
+      "accessed_at": "2026-10-30T02:03:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ibelick-ui-skills-license",
+      "source_type": "repository licence",
+      "source_url": "https://github.com/ibelick/ui-skills/blob/main/LICENSE",
+      "title": "ibelick-ui-skills-license",
+      "claim": "The source repository publishes an MIT licence.",
+      "accessed_at": "2026-10-30T02:03:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "mblode-ui-design-main",
+      "source_type": "comparison skill source",
+      "source_url": "https://github.com/mblode/agent-skills/blob/main/skills/ui-design/SKILL.md",
+      "title": "mblode-ui-design-main",
+      "claim": "Mblode UI Design distinguishes report-only audit questions from explicit fix requests and delegates rendered measurement.",
+      "accessed_at": "2026-10-30T02:03:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

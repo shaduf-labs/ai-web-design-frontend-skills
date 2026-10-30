@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by the job. For a file-based UI review, Web Design Guidelines is a conditional fit, not an accessibility test. Its pinned skill file fetches rules from a mutable branch before each review, so record or pin the rule revision if you need comparable findings. For visual design or screenshot matching, choose the corresponding task route and inspect the rendered screen; no listed skill has a pool-run paired outcome test.",
+  "current_answer": "Choose by the job. For an existing app screen that needs a design-system audit before edits, Improve UI is a conditional read-only option: it reports supported findings and writes selected plans, but does not change product source. For implementation, ask for an explicit fix route and inspect the rendered result. For file-based UI review, Web Design Guidelines remains conditional and its fetched rule revision needs recording. No listed skill has a pool-run paired frontend outcome test.",
   "catalogue_card": {
-    "question": "Can a pinned UI-review skill change its checks?",
-    "text": "Yes. Vercel Web Design Guidelines 1.0.0 fetches review rules from a separate moving branch. Record or pin the fetched rule revision if you need to compare audits. We checked the source, not the review output."
+    "question": "Need a UI review without source edits?",
+    "text": "Ibelick Improve UI reports up to three supported findings on an existing product surface and leaves product code unchanged. Visual judgments need rendered evidence. We read the mutable source; we did not run the skill."
   },
   "summary": [
-    "Web Design Guidelines is for file-and-line UI code review, not a rendered design or full accessibility verdict.",
-    "Its pinned skill source still fetches mutable rules from another repository before each review.",
-    "A user requested pinned rules; no malicious change or pool-run result was found."
+    "Improve UI is a conditional fit for a read-only design review of one existing app surface.",
+    "Its instructions reserve implementation for a later selected plan; an explicit fix request may fit a different workflow.",
+    "Source reading does not prove a visible result or a better outcome than a no-skill review."
   ],
   "uncertainty": [
-    "We did not run the skill, compare rule revisions, or validate review output.",
-    "A community issue reports a reproducibility concern, not a demonstrated exploit.",
+    "Improve UI was not installed, invoked, or tested on a screen.",
+    "The source is mutable and installed bytes are unverified.",
     "No listed skill has a paired pool-run frontend result test; analytics are unavailable."
   ],
-  "checked_at": "2026-10-29T02:05:08.229Z",
-  "meaningfully_updated_at": "2026-10-29T02:05:08.229Z",
-  "freshness_note": "Skill source and rule-delivery check on 29 October 2026; the review criteria remain mutable unless separately pinned."
+  "checked_at": "2026-10-30T02:03:30Z",
+  "meaningfully_updated_at": "2026-10-30T02:03:30Z",
+  "freshness_note": "Original skill, plan template, distribution and licence checked 30 October 2026; source remains mutable."
 }

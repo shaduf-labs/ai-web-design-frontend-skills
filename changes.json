@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "review-app-screen-before-editing",
+      "changed_at": "2026-10-30T02:03:30Z",
+      "summary": "Added a conditional read-only audit route for an existing app screen. Improve UI reports supported findings and selected plans but does not edit product source; installation and outcomes remain untested.",
+      "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
       "change_id": "pin-the-review-rules",
       "changed_at": "2026-10-29T02:05:08.229Z",
       "summary": "Clarified that the pinned Web Design Guidelines skill fetches mutable review rules; a comparable review needs the rule revision recorded or pinned. No review result was tested.",
