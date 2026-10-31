@@ -16,7 +16,7 @@
     "The source is mutable and installed bytes are unverified.",
     "No listed skill has a paired pool-run frontend result test; analytics are unavailable."
   ],
-  "checked_at": "2026-10-30T02:03:30Z",
+  "checked_at": "2026-10-31T02:07:30Z",
   "meaningfully_updated_at": "2026-10-30T02:03:30Z",
-  "freshness_note": "Original skill, plan template, distribution and licence checked 30 October 2026; source remains mutable."
+  "freshness_note": "Vercel review-rule delivery and one documented local-copy approach checked 31 October 2026; no output test was performed."
 }

@@ -1550,6 +1550,26 @@
       "accessed_at": "2026-10-30T02:03:30Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "heka-vendored-rules-2026-10-31",
+      "source_type": "firsthand project adoption record",
+      "title": "Heka News vendored skills record",
+      "source_url": "https://github.com/heka-vault/heka-news/blob/main/.agents/skills/VENDORED.md",
+      "claim": "The project records separate pinned skill and rules commits and changes the skill to read local rules; no review result is shown.",
+      "accessed_at": "2026-10-31T02:07:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "vercel-rule-fetch-issue-351",
+      "source_type": "maintainer issue",
+      "title": "Vercel Web Design Guidelines rule pin request",
+      "source_url": "https://github.com/vercel-labs/agent-skills/issues/351",
+      "claim": "An open issue asks for a pinned or bundled rule source because the current skill fetches a moving branch; it does not establish a resolved change.",
+      "accessed_at": "2026-10-31T02:07:30Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

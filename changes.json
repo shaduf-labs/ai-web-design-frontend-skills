@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "freeze-the-review-rules",
+      "changed_at": "2026-10-31T02:07:30Z",
+      "summary": "Added a concrete local-copy example for recording both the Web Design Guidelines skill commit and its separate rules commit. The task recommendation is unchanged; no review result was tested.",
+      "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
       "change_id": "review-app-screen-before-editing",
       "changed_at": "2026-10-30T02:03:30Z",
       "summary": "Added a conditional read-only audit route for an existing app screen. Improve UI reports supported findings and selected plans but does not edit product source; installation and outcomes remain untested.",
