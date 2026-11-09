@@ -506,6 +506,17 @@
       "summary": "The current Vercel review skill still fetches mutable rules despite an open proposal to bundle them. Record the rules revision; no review result was tested.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-11-02-bundled-rules-proposed",
       "entrypoint": "research/2026-11-02-bundled-rules-proposed/index.html"
+    },
+    {
+      "run_id": "report-c2f8c20aba89360eb85fb803",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-11-09T04:02:39Z",
+      "completed_at": "2026-11-09T04:09:34Z",
+      "title": "Frontend Design comparison: the first result did not hold",
+      "summary": "A community author withdrew the initial plugin-on/off quality split after a rerun. The current official Claude Code plugin declares 1.1.1; neither route has a pool-run result test.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-11-09-frontend-plugin-comparison-corrected",
+      "entrypoint": "research/2026-11-09-frontend-plugin-comparison-corrected/index.html"
     }
   ]
 }

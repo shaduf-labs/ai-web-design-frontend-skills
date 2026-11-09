@@ -1590,6 +1590,46 @@
       "accessed_at": "2026-11-02T10:37:00Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "frontend-plugin-community-rerun-2026-11-09",
+      "source_type": "first-person comparison and correction",
+      "title": "Six plugin-on and six plugin-off runs, with a public correction",
+      "source_url": "https://www.reddit.com/r/ClaudeDesign/comments/1v8hli6/i_ran_the_same_ui_brief_6_times_with_and_without/",
+      "claim": "The author withdrew the initial genericity and distinctiveness split after rerunning twelve outputs; no reliable plugin advantage follows from that report.",
+      "accessed_at": "2026-11-09T04:08:20Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-plugin-manifest-2026-11-09",
+      "source_type": "official plugin manifest",
+      "title": "Frontend Design plugin manifest",
+      "source_url": "https://github.com/anthropics/claude-plugins-official/blob/main/plugins/frontend-design/.claude-plugin/plugin.json",
+      "claim": "The current mutable manifest declares plugin version 1.1.1; it does not pin installed skill bytes.",
+      "accessed_at": "2026-11-09T04:08:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "anthropic-plugin-skill-2026-11-09",
+      "source_type": "official plugin skill source",
+      "title": "Frontend Design plugin instructions",
+      "source_url": "https://github.com/anthropics/claude-plugins-official/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md",
+      "claim": "The current instructions ask for a brief-grounded visual plan, critique, and optional screenshot review; no result was tested.",
+      "accessed_at": "2026-11-09T04:08:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "existing-app-restyle-request-2026-11-09",
+      "source_type": "first-person audience request",
+      "title": "Existing app restyle without behavior changes",
+      "source_url": "https://www.reddit.com/r/ClaudeDesign/comments/1xbvrrs/is_there_a_claude_code_skill_for_redesigning_an/",
+      "claim": "A builder asks for a visual redesign of a working offline educational app while preserving logic and features; replies offer skill and no-skill routes without a measured outcome.",
+      "accessed_at": "2026-11-09T04:08:20Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

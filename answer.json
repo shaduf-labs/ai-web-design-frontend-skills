@@ -3,8 +3,8 @@
   "status": "current",
   "current_answer": "Choose by the job. For an existing app screen that needs a design-system audit before edits, Improve UI is a conditional read-only option: it reports supported findings and writes selected plans, but does not change product source. For implementation, ask for an explicit fix route and inspect the rendered result. For file-based UI review, Web Design Guidelines remains conditional and its fetched rule revision needs recording. No listed skill has a pool-run paired frontend outcome test.",
   "catalogue_card": {
-    "question": "Is Web Design Guidelines fixed yet?",
-    "text": "An open Vercel pull request proposes bundled review rules, but the published skill still fetches a moving rules file. Record the rules revision or use a reviewed local copy. We did not test review output."
+    "question": "Does Frontend Design beat a direct brief?",
+    "text": "A community plugin comparison withdrew its original quality split after a rerun. The official Claude Code plugin now declares 1.1.1, but its current result is untested here. For an existing app, preserve routes and behavior in the brief and check the rendered change."
   },
   "summary": [
     "Improve UI is a conditional fit for a read-only design review of one existing app surface.",
@@ -12,11 +12,11 @@
     "Source reading does not prove a visible result or a better outcome than a no-skill review."
   ],
   "uncertainty": [
-    "Improve UI was not installed, invoked, or tested on a screen.",
-    "The source is mutable and installed bytes are unverified.",
+    "The current official plugin source is mutable and was not pinned or installed by this catalogue.",
+    "The community comparison retracted its initial result and does not establish a reliable advantage.",
     "No listed skill has a paired pool-run frontend result test; analytics are unavailable."
   ],
-  "checked_at": "2026-11-02T10:37:00Z",
+  "checked_at": "2026-11-09T04:08:20Z",
   "meaningfully_updated_at": "2026-10-30T02:03:30Z",
-  "freshness_note": "Vercel rule-bundling proposal and published main skill checked 2 November 2026; the task recommendation is unchanged."
+  "freshness_note": "Current official Frontend Design plugin source and a corrected community comparison checked 9 November 2026; task recommendations are unchanged."
 }

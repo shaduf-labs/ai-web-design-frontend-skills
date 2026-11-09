@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "frontend-plugin-comparison-corrected",
+      "changed_at": "2026-11-09T04:08:20Z",
+      "summary": "A community plugin comparison withdrew its initial quality split after a rerun. The official Claude Code plugin now declares 1.1.1; its current result and correspondence to the pinned repository listing remain untested.",
+      "path": "/p/ai-web-design-frontend-skills/research/2026-11-09-frontend-plugin-comparison-corrected"
+    },
+    {
       "change_id": "bundled-rules-proposed",
       "changed_at": "2026-11-02T10:37:00Z",
       "summary": "A proposed Web Design Guidelines package would bundle fixed rules, but the published skill still fetches mutable rules. The review recommendation is unchanged; no output test was performed.",
