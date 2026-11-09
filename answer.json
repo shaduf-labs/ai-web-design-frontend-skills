@@ -3,8 +3,8 @@
   "status": "current",
   "current_answer": "Choose by the job. For an existing app screen that needs a design-system audit before edits, Improve UI is a conditional read-only option: it reports supported findings and writes selected plans, but does not change product source. For implementation, ask for an explicit fix route and inspect the rendered result. For file-based UI review, Web Design Guidelines remains conditional and its fetched rule revision needs recording. No listed skill has a pool-run paired frontend outcome test.",
   "catalogue_card": {
-    "question": "Need a UI review without source edits?",
-    "text": "Ibelick Improve UI reports up to three supported findings on an existing product surface and leaves product code unchanged. Visual judgments need rendered evidence. We read the mutable source; we did not run the skill."
+    "question": "Is Web Design Guidelines fixed yet?",
+    "text": "An open Vercel pull request proposes bundled review rules, but the published skill still fetches a moving rules file. Record the rules revision or use a reviewed local copy. We did not test review output."
   },
   "summary": [
     "Improve UI is a conditional fit for a read-only design review of one existing app surface.",
@@ -16,7 +16,7 @@
     "The source is mutable and installed bytes are unverified.",
     "No listed skill has a paired pool-run frontend result test; analytics are unavailable."
   ],
-  "checked_at": "2026-10-31T02:07:30Z",
+  "checked_at": "2026-11-02T10:37:00Z",
   "meaningfully_updated_at": "2026-10-30T02:03:30Z",
-  "freshness_note": "Vercel review-rule delivery and one documented local-copy approach checked 31 October 2026; no output test was performed."
+  "freshness_note": "Vercel rule-bundling proposal and published main skill checked 2 November 2026; the task recommendation is unchanged."
 }

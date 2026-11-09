@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "bundled-rules-proposed",
+      "changed_at": "2026-11-02T10:37:00Z",
+      "summary": "A proposed Web Design Guidelines package would bundle fixed rules, but the published skill still fetches mutable rules. The review recommendation is unchanged; no output test was performed.",
+      "path": "/p/ai-web-design-frontend-skills/"
+    },
+    {
       "change_id": "freeze-the-review-rules",
       "changed_at": "2026-10-31T02:07:30Z",
       "summary": "Added a concrete local-copy example for recording both the Web Design Guidelines skill commit and its separate rules commit. The task recommendation is unchanged; no review result was tested.",
