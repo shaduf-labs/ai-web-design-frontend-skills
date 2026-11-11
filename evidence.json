@@ -1650,6 +1650,66 @@
       "accessed_at": "2026-11-10T02:05:11Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "taste-skill-v251-skill",
+      "source_type": "tagged official skill source",
+      "title": "Taste Skill v2.5.1 instructions",
+      "source_url": "https://github.com/Leonxlnx/taste-skill/blob/v2.5.1/skills/taste-skill/SKILL.md",
+      "claim": "The tagged skill specifies a company-site workflow with layout, motion, browser check, and finish-gate rules.",
+      "accessed_at": "2026-11-11T02:06:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "taste-skill-v251-readme",
+      "source_type": "tagged official README",
+      "title": "Taste Skill installation and requirements",
+      "source_url": "https://github.com/Leonxlnx/taste-skill/blob/v2.5.1/README.md",
+      "claim": "The author documents Codex and Claude Code routes, Node 22+, and Chrome-family browser requirements.",
+      "accessed_at": "2026-11-11T02:06:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "taste-skill-v251-release",
+      "source_type": "official release note",
+      "title": "Taste Skill v2.5.1 release notes",
+      "source_url": "https://github.com/Leonxlnx/taste-skill/releases/tag/v2.5.1",
+      "claim": "The author reports a 44-site check of a prior version and describes 2.5.1 fixes; this is not an independent output test.",
+      "accessed_at": "2026-11-11T02:06:28Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "taste-skill-v251-license",
+      "source_type": "tagged official license",
+      "title": "Taste Skill licence",
+      "source_url": "https://github.com/Leonxlnx/taste-skill/blob/v2.5.1/LICENSE",
+      "claim": "The tagged repository declares MIT.",
+      "accessed_at": "2026-11-11T02:06:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "reference-fidelity-reddit",
+      "source_type": "first-person community report",
+      "title": "Reference-image fidelity question",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1vgxzij/frontend_skills/",
+      "claim": "One builder reports that a screenshot loop still left spacing and typography corrections for a reference-image build.",
+      "accessed_at": "2026-11-11T02:06:28Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "ux-design-code-workflow",
+      "source_type": "community discussion",
+      "title": "Design workflow discussion",
+      "source_url": "https://www.reddit.com/r/UXDesign/comments/1x81mcd/how_much_of_ai_are_you_using_in_your_design/",
+      "claim": "Participants describe different code-first and design-system workflows; this is discussion, not a representative survey.",
+      "accessed_at": "2026-11-11T02:06:28Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

@@ -2,6 +2,12 @@
   "schema_version": "1.0.0",
   "items": [
     {
+      "change_id": "taste-skill-browser-gate-2026-11-11",
+      "changed_at": "2026-11-11T02:06:28Z",
+      "summary": "Added Taste Skill 2.5.1 as a conditional company-site option with Node and browser requirements, rigid layout and motion rules, and no pool-run output claim.",
+      "path": "/p/ai-web-design-frontend-skills/research/2026-11-11-taste-skill-browser-gate"
+    },
+    {
       "change_id": "ui-review-fetch-gate-2026-11-10",
       "changed_at": "2026-11-10T02:05:11Z",
       "summary": "The current Web Design Guidelines file still requires WebFetch; a closed one-case issue does not establish a fallback or a general result.",

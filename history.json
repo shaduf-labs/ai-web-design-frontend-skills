@@ -528,6 +528,17 @@
       "summary": "The current skill still requires a rules fetch. A closed one-case issue does not establish a fallback or general outcome advantage.",
       "report_path": "/p/ai-web-design-frontend-skills/research/2026-11-10-ui-review-fetch-gate",
       "entrypoint": "research/2026-11-10-ui-review-fetch-gate/index.html"
+    },
+    {
+      "run_id": "report-8e8c78236f4d05047ced06ba",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-11T02:00:00Z",
+      "completed_at": "2026-11-11T02:06:56Z",
+      "title": "Taste Skill 2.5.1: a browser-checked marketing-site route",
+      "summary": "A tagged marketing-site skill adds scripts and a browser finish gate, but its strong layout rules and untested outcomes keep it conditional.",
+      "report_path": "/p/ai-web-design-frontend-skills/research/2026-11-11-taste-skill-browser-gate",
+      "entrypoint": "research/2026-11-11-taste-skill-browser-gate/index.html"
     }
   ]
 }

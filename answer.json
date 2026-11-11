@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Choose by the job. For an existing app screen that needs a design-system audit before edits, Improve UI is a conditional read-only option: it reports supported findings and writes selected plans, but does not change product source. For implementation, ask for an explicit fix route and inspect the rendered result. For file-based UI review, Web Design Guidelines remains conditional and its fetched rule revision needs recording. No listed skill has a pool-run paired frontend outcome test.",
+  "current_answer": "Choose by task. For a new company or marketing site, Taste Skill v2.5.1 is a conditional trial if you can run its Node and Chrome checks and accept its strong layout and motion defaults. For an existing app screen, Improve UI is a conditional read-only audit; it does not edit product source. For file review, Web Design Guidelines requires a rule fetch and revision record. No listed skill has a pool-run paired frontend outcome test.",
   "catalogue_card": {
-    "question": "Can your agent fetch the UI review rules?",
-    "text": "Web Design Guidelines still requires WebFetch before a file review. A one-case issue reports that an agent without WebFetch could not load the rules. Check the fetch route and record both revisions; no pool-run comparison proves a better result."
+    "question": "Building a company site with an agent?",
+    "text": "Taste Skill 2.5.1 is a conditional option when you can run Node 22+ and Chrome checks and accept its strong layout and motion rules. Its author reports a prior-version test; we have not measured its output against a plain brief."
   },
   "summary": [
-    "Improve UI is a conditional fit for a read-only design review of one existing app surface.",
-    "Its instructions reserve implementation for a later selected plan; an explicit fix request may fit a different workflow.",
-    "Source reading does not prove a visible result or a better outcome than a no-skill review."
+    "Taste Skill v2.5.1 adds a tagged marketing-site workflow with bundled browser checks and a finish gate.",
+    "Its rigid layout and motion rules require a project-fit check; a checker pass does not prove reference fidelity.",
+    "No listed skill has a paired pool-run frontend result test."
   ],
   "uncertainty": [
-    "The current official plugin source is mutable and was not pinned or installed by this catalogue.",
-    "The community comparison retracted its initial result and does not establish a reliable advantage.",
-    "No listed skill has a paired pool-run frontend result test; analytics are unavailable."
+    "Taste Skill v2.5.1 was read at the tagged source but was not installed or run.",
+    "The author-reported test is not independent or a same-task no-skill comparison.",
+    "First-party analytics are unavailable."
   ],
-  "checked_at": "2026-11-10T02:05:11Z",
-  "meaningfully_updated_at": "2026-10-30T02:03:30Z",
-  "freshness_note": "Checked 10 November 2026. Web Design Guidelines still requires WebFetch for its rules; no listed skill has a pool-run paired frontend outcome test."
+  "checked_at": "2026-11-11T02:06:28Z",
+  "meaningfully_updated_at": "2026-11-11T02:06:28Z",
+  "freshness_note": "Checked 11 November 2026. Taste Skill 2.5.1 is a source-read marketing-site candidate; no paired output test is available."
 }
